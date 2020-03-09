@@ -1,0 +1,35 @@
+﻿<NewDataSet xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:diffgr="urn:schemas-microsoft-com:xml-diffgram-v1" xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <Table diffgr:id="Table1" msdata:rowOrder="0">
+        <IDX>92104</IDX>
+        <ACT_ID>28293</ACT_ID>
+        <PRT_Q>What is the reading mainly about?</PRT_Q>
+        <PRT_CHOICE1>A bad sleeping habit is getting up late on the weekends.</PRT_CHOICE1>
+        <PRT_CHOICE2>Children need enough sleep, and there are ways to get it.</PRT_CHOICE2>
+        <PRT_CHOICE3>Students can improve their grades by studying more and sleeping less.</PRT_CHOICE3>
+        <PRT_CHOICE4>Kids don’t get enough sleep because they worry about school work.</PRT_CHOICE4>
+        <PRT_ANSWER>2</PRT_ANSWER>
+        <WORD_MAP />
+      </Table>
+      <Table diffgr:id="Table2" msdata:rowOrder="1">
+        <IDX>92105</IDX>
+        <ACT_ID>28293</ACT_ID>
+        <PRT_Q>Why is sleeping eight hours or more important?</PRT_Q>
+        <PRT_CHOICE1>It helps you exercise. </PRT_CHOICE1>
+        <PRT_CHOICE2>It helps you work better.</PRT_CHOICE2>
+        <PRT_CHOICE3>It makes you more relaxed. </PRT_CHOICE3>
+        <PRT_CHOICE4>It helps you wake up early.</PRT_CHOICE4>
+        <PRT_ANSWER>2</PRT_ANSWER>
+        <WORD_MAP />
+      </Table>
+      <Table diffgr:id="Table3" msdata:rowOrder="2">
+        <IDX>92106</IDX>
+        <ACT_ID>28293</ACT_ID>
+        <PRT_Q>What does NOT help you sleep?</PRT_Q>
+        <PRT_CHOICE1>Getting enough exercise</PRT_CHOICE1>
+        <PRT_CHOICE2>Keeping the bedroom dark at night</PRT_CHOICE2>
+        <PRT_CHOICE3>Making your room bright in the morning</PRT_CHOICE3>
+        <PRT_CHOICE4>Going to bed at different times every night</PRT_CHOICE4>
+        <PRT_ANSWER>4</PRT_ANSWER>
+        <WORD_MAP />
+      </Table>
+    </NewDataSet>

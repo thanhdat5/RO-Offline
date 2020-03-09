@@ -1,0 +1,50 @@
+﻿<NewDataSet xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:diffgr="urn:schemas-microsoft-com:xml-diffgram-v1" xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <Table diffgr:id="Table1" msdata:rowOrder="0">
+        <IDX>1589881</IDX>
+        <ACT_STN_ORDER>1</ACT_STN_ORDER>
+        <ACT_STN_SEQ>1</ACT_STN_SEQ>
+        <ACT_STN_SCRIPT>[{The results}] [{of the}] [{experiment}] [{were}] [{interesting}]. </ACT_STN_SCRIPT>
+        <IsLineBreak>0</IsLineBreak>
+        <START_TIME>11084</START_TIME>
+        <END_TIME>15347</END_TIME>
+        <MEDIA>RFch2e1_u8.mp3</MEDIA>
+        <MOVIE_LINK />
+        <EBOOK_LINK>https://ebook2.successtesting.net/?uri=books/RF_change_1/work/&amp;page=36</EBOOK_LINK>
+      </Table>
+      <Table diffgr:id="Table2" msdata:rowOrder="1">
+        <IDX>1589882</IDX>
+        <ACT_STN_ORDER>1</ACT_STN_ORDER>
+        <ACT_STN_SEQ>2</ACT_STN_SEQ>
+        <ACT_STN_SCRIPT>[{The next morning}], [{the scientists}] [{interviewed the}] [{people}]. </ACT_STN_SCRIPT>
+        <IsLineBreak>0</IsLineBreak>
+        <START_TIME>29020</START_TIME>
+        <END_TIME>33399</END_TIME>
+        <MEDIA>RFch2e1_u8.mp3</MEDIA>
+        <MOVIE_LINK />
+        <EBOOK_LINK>https://ebook2.successtesting.net/?uri=books/RF_change_1/work/&amp;page=36</EBOOK_LINK>
+      </Table>
+      <Table diffgr:id="Table3" msdata:rowOrder="2">
+        <IDX>1589883</IDX>
+        <ACT_STN_ORDER>1</ACT_STN_ORDER>
+        <ACT_STN_SEQ>3</ACT_STN_SEQ>
+        <ACT_STN_SCRIPT>[{They asked them}] [{if they}] [{had good}] [{dreams}] [{or bad dreams}]. </ACT_STN_SCRIPT>
+        <IsLineBreak>0</IsLineBreak>
+        <START_TIME>33399</START_TIME>
+        <END_TIME>37990</END_TIME>
+        <MEDIA>RFch2e1_u8.mp3</MEDIA>
+        <MOVIE_LINK />
+        <EBOOK_LINK>https://ebook2.successtesting.net/?uri=books/RF_change_1/work/&amp;page=36</EBOOK_LINK>
+      </Table>
+      <Table diffgr:id="Table4" msdata:rowOrder="3">
+        <IDX>1589884</IDX>
+        <ACT_STN_ORDER>1</ACT_STN_ORDER>
+        <ACT_STN_SEQ>4</ACT_STN_SEQ>
+        <ACT_STN_SCRIPT>[{Again}], [{the scientists}] [{interviewed the}] [{people}] [{the next morning}]. </ACT_STN_SCRIPT>
+        <IsLineBreak>0</IsLineBreak>
+        <START_TIME>56584</START_TIME>
+        <END_TIME>61945</END_TIME>
+        <MEDIA>RFch2e1_u8.mp3</MEDIA>
+        <MOVIE_LINK />
+        <EBOOK_LINK>https://ebook2.successtesting.net/?uri=books/RF_change_1/work/&amp;page=36</EBOOK_LINK>
+      </Table>
+    </NewDataSet>

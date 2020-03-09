@@ -1,0 +1,50 @@
+﻿<NewDataSet xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:diffgr="urn:schemas-microsoft-com:xml-diffgram-v1" xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <Table diffgr:id="Table1" msdata:rowOrder="0">
+        <IDX>1589877</IDX>
+        <ACT_STN_ORDER>1</ACT_STN_ORDER>
+        <ACT_STN_SEQ>1</ACT_STN_SEQ>
+        <ACT_STN_SCRIPT>[{A lack of}] [{sleep}] [{can}] [{make}] [{concentrating hard}]. </ACT_STN_SCRIPT>
+        <IsLineBreak>0</IsLineBreak>
+        <START_TIME>0</START_TIME>
+        <END_TIME>4332</END_TIME>
+        <MEDIA>RFch2e1_u7.mp3</MEDIA>
+        <MOVIE_LINK />
+        <EBOOK_LINK>https://ebook2.successtesting.net/?uri=books/RF_change_1/work/&amp;page=32</EBOOK_LINK>
+      </Table>
+      <Table diffgr:id="Table2" msdata:rowOrder="1">
+        <IDX>1589878</IDX>
+        <ACT_STN_ORDER>1</ACT_STN_ORDER>
+        <ACT_STN_SEQ>2</ACT_STN_SEQ>
+        <ACT_STN_SCRIPT>[{That allows}] [{them}] [{to do}] [{better}] [{at school}]. </ACT_STN_SCRIPT>
+        <IsLineBreak>0</IsLineBreak>
+        <START_TIME>22619</START_TIME>
+        <END_TIME>26554</END_TIME>
+        <MEDIA>RFch2e1_u7.mp3</MEDIA>
+        <MOVIE_LINK />
+        <EBOOK_LINK>https://ebook2.successtesting.net/?uri=books/RF_change_1/work/&amp;page=32</EBOOK_LINK>
+      </Table>
+      <Table diffgr:id="Table3" msdata:rowOrder="2">
+        <IDX>1589879</IDX>
+        <ACT_STN_ORDER>1</ACT_STN_ORDER>
+        <ACT_STN_SEQ>3</ACT_STN_SEQ>
+        <ACT_STN_SCRIPT>[{This is why}] [{children should sleep}] [{about}] [{eight hours}] [{every night}]. </ACT_STN_SCRIPT>
+        <IsLineBreak>0</IsLineBreak>
+        <START_TIME>33662</START_TIME>
+        <END_TIME>39239</END_TIME>
+        <MEDIA>RFch2e1_u7.mp3</MEDIA>
+        <MOVIE_LINK />
+        <EBOOK_LINK>https://ebook2.successtesting.net/?uri=books/RF_change_1/work/&amp;page=32</EBOOK_LINK>
+      </Table>
+      <Table diffgr:id="Table4" msdata:rowOrder="3">
+        <IDX>1589880</IDX>
+        <ACT_STN_ORDER>1</ACT_STN_ORDER>
+        <ACT_STN_SEQ>4</ACT_STN_SEQ>
+        <ACT_STN_SCRIPT>[{People}] [{need}] [{more sleep}] [{after}] [{exercising}]. </ACT_STN_SCRIPT>
+        <IsLineBreak>0</IsLineBreak>
+        <START_TIME>53046</START_TIME>
+        <END_TIME>57848</END_TIME>
+        <MEDIA>RFch2e1_u7.mp3</MEDIA>
+        <MOVIE_LINK />
+        <EBOOK_LINK>https://ebook2.successtesting.net/?uri=books/RF_change_1/work/&amp;page=32</EBOOK_LINK>
+      </Table>
+    </NewDataSet>

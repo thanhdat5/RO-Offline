@@ -1,0 +1,35 @@
+﻿<NewDataSet xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:diffgr="urn:schemas-microsoft-com:xml-diffgram-v1" xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <Table diffgr:id="Table1" msdata:rowOrder="0">
+        <IDX>92119</IDX>
+        <ACT_ID>28298</ACT_ID>
+        <PRT_Q>What is the reading mainly about?</PRT_Q>
+        <PRT_CHOICE1>The first two men to fly around the world</PRT_CHOICE1>
+        <PRT_CHOICE2>The first solar plane to fly around the world</PRT_CHOICE2>
+        <PRT_CHOICE3>The longest flight around the world</PRT_CHOICE3>
+        <PRT_CHOICE4>The first people to make their own plane and fly around the world</PRT_CHOICE4>
+        <PRT_ANSWER>2</PRT_ANSWER>
+        <WORD_MAP />
+      </Table>
+      <Table diffgr:id="Table2" msdata:rowOrder="1">
+        <IDX>92120</IDX>
+        <ACT_ID>28298</ACT_ID>
+        <PRT_Q>How long did Piccard and Borschberg’s trip take?</PRT_Q>
+        <PRT_CHOICE1>Two months </PRT_CHOICE1>
+        <PRT_CHOICE2>Five months</PRT_CHOICE2>
+        <PRT_CHOICE3>505 days </PRT_CHOICE3>
+        <PRT_CHOICE4>Two years</PRT_CHOICE4>
+        <PRT_ANSWER>3</PRT_ANSWER>
+        <WORD_MAP />
+      </Table>
+      <Table diffgr:id="Table3" msdata:rowOrder="2">
+        <IDX>92121</IDX>
+        <ACT_ID>28298</ACT_ID>
+        <PRT_Q>Why did Bertrand Piccard and Andre Borschberg want to do this voyage?</PRT_Q>
+        <PRT_CHOICE1>To show people how smart they are</PRT_CHOICE1>
+        <PRT_CHOICE2>To make people think about buying their plane</PRT_CHOICE2>
+        <PRT_CHOICE3>To make people see how slow renewable energy is</PRT_CHOICE3>
+        <PRT_CHOICE4>To make people think more about renewable energy</PRT_CHOICE4>
+        <PRT_ANSWER>4</PRT_ANSWER>
+        <WORD_MAP />
+      </Table>
+    </NewDataSet>

@@ -1,0 +1,35 @@
+﻿<NewDataSet xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:diffgr="urn:schemas-microsoft-com:xml-diffgram-v1" xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <Table diffgr:id="Table1" msdata:rowOrder="0">
+        <IDX>92113</IDX>
+        <ACT_ID>28296</ACT_ID>
+        <PRT_Q>What is the reading mainly about?</PRT_Q>
+        <PRT_CHOICE1>The first airplane trip </PRT_CHOICE1>
+        <PRT_CHOICE2> A famous pilot</PRT_CHOICE2>
+        <PRT_CHOICE3>The Atlantic Ocean </PRT_CHOICE3>
+        <PRT_CHOICE4>A trip around the world</PRT_CHOICE4>
+        <PRT_ANSWER>2</PRT_ANSWER>
+        <WORD_MAP />
+      </Table>
+      <Table diffgr:id="Table2" msdata:rowOrder="1">
+        <IDX>92114</IDX>
+        <ACT_ID>28296</ACT_ID>
+        <PRT_Q>What did Amelia Earhart do in 1937?</PRT_Q>
+        <PRT_CHOICE1>She landed on an island. </PRT_CHOICE1>
+        <PRT_CHOICE2>She crossed the Pacific.</PRT_CHOICE2>
+        <PRT_CHOICE3>She took a trip with a man. </PRT_CHOICE3>
+        <PRT_CHOICE4>She tried to travel around the world.</PRT_CHOICE4>
+        <PRT_ANSWER>4</PRT_ANSWER>
+        <WORD_MAP />
+      </Table>
+      <Table diffgr:id="Table3" msdata:rowOrder="2">
+        <IDX>92115</IDX>
+        <ACT_ID>28296</ACT_ID>
+        <PRT_Q>Earhart was NOT the first _______________.</PRT_Q>
+        <PRT_CHOICE1>woman to fly around the world</PRT_CHOICE1>
+        <PRT_CHOICE2>woman to fly over the Atlantic Ocean</PRT_CHOICE2>
+        <PRT_CHOICE3>woman to fly alone across the Pacific Ocean</PRT_CHOICE3>
+        <PRT_CHOICE4>woman to fly alone over the Atlantic Ocean</PRT_CHOICE4>
+        <PRT_ANSWER>1</PRT_ANSWER>
+        <WORD_MAP />
+      </Table>
+    </NewDataSet>

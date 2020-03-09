@@ -1,0 +1,306 @@
+﻿<NewDataSet xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:diffgr="urn:schemas-microsoft-com:xml-diffgram-v1" xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <Table diffgr:id="Table1" msdata:rowOrder="0">
+        <IDX>240293</IDX>
+        <SET_ID>454934</SET_ID>
+        <DIC_ID>181255</DIC_ID>
+        <PRT_Q>It was hard to ______ in the noisy room.</PRT_Q>
+        <PRT_ANSWER>4</PRT_ANSWER>
+        <PRT_CHOICE1>habit</PRT_CHOICE1>
+        <PRT_CHOICE2>performance</PRT_CHOICE2>
+        <PRT_CHOICE3>period</PRT_CHOICE3>
+        <PRT_CHOICE4>concentrate</PRT_CHOICE4>
+        <CREATE_ID>sjin0201</CREATE_ID>
+        <CREATE_DATE>2018-11-16T00:36:47.47+09:00</CREATE_DATE>
+        <MODIFY_ID>sjin0201</MODIFY_ID>
+        <MODIFY_DATE>2019-01-20T17:09:07.313+09:00</MODIFY_DATE>
+        <SET_ID1>454934</SET_ID1>
+        <ACT_ID>28293</ACT_ID>
+        <ACT_TYPE>WL</ACT_TYPE>
+        <TITLE>Sleeping Habits</TITLE>
+        <TEST_TIME>0</TEST_TIME>
+        <ETC_INT1>0</ETC_INT1>
+        <ETC_INT2>0</ETC_INT2>
+        <CREATE_ID1>sjin0201</CREATE_ID1>
+        <CREATE_DATE1>2018-11-14T15:28:50.093+09:00</CREATE_DATE1>
+        <MODIFY_ID1>sjin0201</MODIFY_ID1>
+        <MODIFY_DATE1>2019-01-30T13:31:14.883+09:00</MODIFY_DATE1>
+        <DIC_ID1>181255</DIC_ID1>
+        <WORD>concentrate</WORD>
+        <WORD_TYPE>noun</WORD_TYPE>
+        <MEAN_E>to give a lot of attention</MEAN_E>
+        <MEAN_K>집중하다</MEAN_K>
+        <PICTURE>concentrate_RFch2e1.png</PICTURE>
+        <MEDIA>concentrate_RFch2e1.mp3</MEDIA>
+        <EXAMPLE>It was hard to concentrate in the noisy room.</EXAMPLE>
+        <CREATE_ID2>sjin0201</CREATE_ID2>
+        <CREATE_DATE2>2018-11-16T00:35:49.68+09:00</CREATE_DATE2>
+        <MODIFY_ID2>sjin0201</MODIFY_ID2>
+        <MODIFY_DATE2>2019-01-20T17:09:07.317+09:00</MODIFY_DATE2>
+      </Table>
+      <Table diffgr:id="Table2" msdata:rowOrder="1">
+        <IDX>240294</IDX>
+        <SET_ID>454934</SET_ID>
+        <DIC_ID>181254</DIC_ID>
+        <PRT_Q>My eyes feel heavy from ______ of sleep.</PRT_Q>
+        <PRT_ANSWER>4</PRT_ANSWER>
+        <PRT_CHOICE1>performance</PRT_CHOICE1>
+        <PRT_CHOICE2>concentrate</PRT_CHOICE2>
+        <PRT_CHOICE3>enable</PRT_CHOICE3>
+        <PRT_CHOICE4>lack</PRT_CHOICE4>
+        <CREATE_ID>sjin0201</CREATE_ID>
+        <CREATE_DATE>2018-11-16T00:36:47.473+09:00</CREATE_DATE>
+        <MODIFY_ID>sjin0201</MODIFY_ID>
+        <MODIFY_DATE>2019-01-20T17:08:35.943+09:00</MODIFY_DATE>
+        <SET_ID1>454934</SET_ID1>
+        <ACT_ID>28293</ACT_ID>
+        <ACT_TYPE>WL</ACT_TYPE>
+        <TITLE>Sleeping Habits</TITLE>
+        <TEST_TIME>0</TEST_TIME>
+        <ETC_INT1>0</ETC_INT1>
+        <ETC_INT2>0</ETC_INT2>
+        <CREATE_ID1>sjin0201</CREATE_ID1>
+        <CREATE_DATE1>2018-11-14T15:28:50.093+09:00</CREATE_DATE1>
+        <MODIFY_ID1>sjin0201</MODIFY_ID1>
+        <MODIFY_DATE1>2019-01-30T13:31:14.883+09:00</MODIFY_DATE1>
+        <DIC_ID1>181254</DIC_ID1>
+        <WORD>lack</WORD>
+        <WORD_TYPE>noun</WORD_TYPE>
+        <MEAN_E>not having enough of something</MEAN_E>
+        <MEAN_K>결핍</MEAN_K>
+        <PICTURE>lack_RFch2e1.png</PICTURE>
+        <MEDIA>lack_RFch2e1.mp3</MEDIA>
+        <EXAMPLE>My eyes feel heavy from lack of sleep.</EXAMPLE>
+        <CREATE_ID2>sjin0201</CREATE_ID2>
+        <CREATE_DATE2>2018-11-16T00:35:49.66+09:00</CREATE_DATE2>
+        <MODIFY_ID2>sjin0201</MODIFY_ID2>
+        <MODIFY_DATE2>2019-01-20T17:08:35.947+09:00</MODIFY_DATE2>
+      </Table>
+      <Table diffgr:id="Table3" msdata:rowOrder="2">
+        <IDX>240295</IDX>
+        <SET_ID>454934</SET_ID>
+        <DIC_ID>181253</DIC_ID>
+        <PRT_Q>I got into the ______ of drinking coffee every morning.</PRT_Q>
+        <PRT_ANSWER>1</PRT_ANSWER>
+        <PRT_CHOICE1>habit</PRT_CHOICE1>
+        <PRT_CHOICE2>delightful</PRT_CHOICE2>
+        <PRT_CHOICE3>strengthen</PRT_CHOICE3>
+        <PRT_CHOICE4>enable</PRT_CHOICE4>
+        <CREATE_ID>sjin0201</CREATE_ID>
+        <CREATE_DATE>2018-11-16T00:36:47.477+09:00</CREATE_DATE>
+        <MODIFY_ID>sjin0201</MODIFY_ID>
+        <MODIFY_DATE>2019-01-20T17:10:32.957+09:00</MODIFY_DATE>
+        <SET_ID1>454934</SET_ID1>
+        <ACT_ID>28293</ACT_ID>
+        <ACT_TYPE>WL</ACT_TYPE>
+        <TITLE>Sleeping Habits</TITLE>
+        <TEST_TIME>0</TEST_TIME>
+        <ETC_INT1>0</ETC_INT1>
+        <ETC_INT2>0</ETC_INT2>
+        <CREATE_ID1>sjin0201</CREATE_ID1>
+        <CREATE_DATE1>2018-11-14T15:28:50.093+09:00</CREATE_DATE1>
+        <MODIFY_ID1>sjin0201</MODIFY_ID1>
+        <MODIFY_DATE1>2019-01-30T13:31:14.883+09:00</MODIFY_DATE1>
+        <DIC_ID1>181253</DIC_ID1>
+        <WORD>habit</WORD>
+        <WORD_TYPE>noun</WORD_TYPE>
+        <MEAN_E>something that you often do, almost without thinking about it</MEAN_E>
+        <MEAN_K>습관</MEAN_K>
+        <PICTURE>habit_RFch2e1.png</PICTURE>
+        <MEDIA>habit_RFch2e1.mp3</MEDIA>
+        <EXAMPLE>I got into the habit of drinking coffee every morning.</EXAMPLE>
+        <CREATE_ID2>sjin0201</CREATE_ID2>
+        <CREATE_DATE2>2018-11-16T00:35:49.643+09:00</CREATE_DATE2>
+        <MODIFY_ID2>sjin0201</MODIFY_ID2>
+        <MODIFY_DATE2>2019-01-20T17:10:32.957+09:00</MODIFY_DATE2>
+      </Table>
+      <Table diffgr:id="Table4" msdata:rowOrder="3">
+        <IDX>240296</IDX>
+        <SET_ID>454934</SET_ID>
+        <DIC_ID>181252</DIC_ID>
+        <PRT_Q>Reading ______ you to learn new things.</PRT_Q>
+        <PRT_ANSWER>2</PRT_ANSWER>
+        <PRT_CHOICE1>schedule</PRT_CHOICE1>
+        <PRT_CHOICE2>enables</PRT_CHOICE2>
+        <PRT_CHOICE3>performance</PRT_CHOICE3>
+        <PRT_CHOICE4>period</PRT_CHOICE4>
+        <CREATE_ID>sjin0201</CREATE_ID>
+        <CREATE_DATE>2018-11-16T00:36:47.48+09:00</CREATE_DATE>
+        <MODIFY_ID>sjin0201</MODIFY_ID>
+        <MODIFY_DATE>2019-01-30T13:31:14.89+09:00</MODIFY_DATE>
+        <SET_ID1>454934</SET_ID1>
+        <ACT_ID>28293</ACT_ID>
+        <ACT_TYPE>WL</ACT_TYPE>
+        <TITLE>Sleeping Habits</TITLE>
+        <TEST_TIME>0</TEST_TIME>
+        <ETC_INT1>0</ETC_INT1>
+        <ETC_INT2>0</ETC_INT2>
+        <CREATE_ID1>sjin0201</CREATE_ID1>
+        <CREATE_DATE1>2018-11-14T15:28:50.093+09:00</CREATE_DATE1>
+        <MODIFY_ID1>sjin0201</MODIFY_ID1>
+        <MODIFY_DATE1>2019-01-30T13:31:14.883+09:00</MODIFY_DATE1>
+        <DIC_ID1>181252</DIC_ID1>
+        <WORD>enable</WORD>
+        <WORD_TYPE>noun</WORD_TYPE>
+        <MEAN_E>to make something possible</MEAN_E>
+        <MEAN_K>가능하게 하다</MEAN_K>
+        <PICTURE>enable_RFch2e1.png</PICTURE>
+        <MEDIA>enable_RFch2e1.mp3</MEDIA>
+        <EXAMPLE>Reading enables you to learn new things.</EXAMPLE>
+        <CREATE_ID2>sjin0201</CREATE_ID2>
+        <CREATE_DATE2>2018-11-16T00:35:49.633+09:00</CREATE_DATE2>
+        <MODIFY_ID2>sjin0201</MODIFY_ID2>
+        <MODIFY_DATE2>2019-01-30T13:31:14.903+09:00</MODIFY_DATE2>
+      </Table>
+      <Table diffgr:id="Table5" msdata:rowOrder="4">
+        <IDX>240297</IDX>
+        <SET_ID>454934</SET_ID>
+        <DIC_ID>181251</DIC_ID>
+        <PRT_Q>Koreans want to master English in a short ______ of time.</PRT_Q>
+        <PRT_ANSWER>4</PRT_ANSWER>
+        <PRT_CHOICE1>lack</PRT_CHOICE1>
+        <PRT_CHOICE2>temperature</PRT_CHOICE2>
+        <PRT_CHOICE3>enable</PRT_CHOICE3>
+        <PRT_CHOICE4>period</PRT_CHOICE4>
+        <CREATE_ID>sjin0201</CREATE_ID>
+        <CREATE_DATE>2018-11-16T00:36:47.483+09:00</CREATE_DATE>
+        <MODIFY_ID>sjin0201</MODIFY_ID>
+        <MODIFY_DATE>2019-01-20T17:12:05.343+09:00</MODIFY_DATE>
+        <SET_ID1>454934</SET_ID1>
+        <ACT_ID>28293</ACT_ID>
+        <ACT_TYPE>WL</ACT_TYPE>
+        <TITLE>Sleeping Habits</TITLE>
+        <TEST_TIME>0</TEST_TIME>
+        <ETC_INT1>0</ETC_INT1>
+        <ETC_INT2>0</ETC_INT2>
+        <CREATE_ID1>sjin0201</CREATE_ID1>
+        <CREATE_DATE1>2018-11-14T15:28:50.093+09:00</CREATE_DATE1>
+        <MODIFY_ID1>sjin0201</MODIFY_ID1>
+        <MODIFY_DATE1>2019-01-30T13:31:14.883+09:00</MODIFY_DATE1>
+        <DIC_ID1>181251</DIC_ID1>
+        <WORD>period</WORD>
+        <WORD_TYPE>noun</WORD_TYPE>
+        <MEAN_E>a length of time</MEAN_E>
+        <MEAN_K>기간</MEAN_K>
+        <PICTURE>period_RFch2e1.png</PICTURE>
+        <MEDIA>period_RFch2e1.mp3</MEDIA>
+        <EXAMPLE>Koreans want to master English in a short period of time.</EXAMPLE>
+        <CREATE_ID2>sjin0201</CREATE_ID2>
+        <CREATE_DATE2>2018-11-16T00:35:49.63+09:00</CREATE_DATE2>
+        <MODIFY_ID2>sjin0201</MODIFY_ID2>
+        <MODIFY_DATE2>2019-01-20T17:12:05.347+09:00</MODIFY_DATE2>
+      </Table>
+      <Table diffgr:id="Table6" msdata:rowOrder="5">
+        <IDX>240298</IDX>
+        <SET_ID>454934</SET_ID>
+        <DIC_ID>181250</DIC_ID>
+        <PRT_Q>I ______ every day to keep my body healthy.</PRT_Q>
+        <PRT_ANSWER>4</PRT_ANSWER>
+        <PRT_CHOICE1>performance</PRT_CHOICE1>
+        <PRT_CHOICE2>period</PRT_CHOICE2>
+        <PRT_CHOICE3>habit</PRT_CHOICE3>
+        <PRT_CHOICE4>exercise</PRT_CHOICE4>
+        <CREATE_ID>sjin0201</CREATE_ID>
+        <CREATE_DATE>2018-11-16T00:36:47.487+09:00</CREATE_DATE>
+        <MODIFY_ID>sjin0201</MODIFY_ID>
+        <MODIFY_DATE>2019-01-20T17:12:32.087+09:00</MODIFY_DATE>
+        <SET_ID1>454934</SET_ID1>
+        <ACT_ID>28293</ACT_ID>
+        <ACT_TYPE>WL</ACT_TYPE>
+        <TITLE>Sleeping Habits</TITLE>
+        <TEST_TIME>0</TEST_TIME>
+        <ETC_INT1>0</ETC_INT1>
+        <ETC_INT2>0</ETC_INT2>
+        <CREATE_ID1>sjin0201</CREATE_ID1>
+        <CREATE_DATE1>2018-11-14T15:28:50.093+09:00</CREATE_DATE1>
+        <MODIFY_ID1>sjin0201</MODIFY_ID1>
+        <MODIFY_DATE1>2019-01-30T13:31:14.883+09:00</MODIFY_DATE1>
+        <DIC_ID1>181250</DIC_ID1>
+        <WORD>exercise</WORD>
+        <WORD_TYPE>noun</WORD_TYPE>
+        <MEAN_E>to do physical activity that helps you become stronger and healthier</MEAN_E>
+        <MEAN_K>운동</MEAN_K>
+        <PICTURE>exercise_RFch2e1.png</PICTURE>
+        <MEDIA>exercise_RFch2e1.mp3</MEDIA>
+        <EXAMPLE>I exercise every day to keep my body healthy.</EXAMPLE>
+        <CREATE_ID2>sjin0201</CREATE_ID2>
+        <CREATE_DATE2>2018-11-16T00:35:49.613+09:00</CREATE_DATE2>
+        <MODIFY_ID2>sjin0201</MODIFY_ID2>
+        <MODIFY_DATE2>2019-01-20T17:12:32.087+09:00</MODIFY_DATE2>
+      </Table>
+      <Table diffgr:id="Table7" msdata:rowOrder="6">
+        <IDX>240299</IDX>
+        <SET_ID>454934</SET_ID>
+        <DIC_ID>181249</DIC_ID>
+        <PRT_Q>Let me tell you about my daily ______.</PRT_Q>
+        <PRT_ANSWER>2</PRT_ANSWER>
+        <PRT_CHOICE1>refreshed</PRT_CHOICE1>
+        <PRT_CHOICE2>schedule</PRT_CHOICE2>
+        <PRT_CHOICE3>enable</PRT_CHOICE3>
+        <PRT_CHOICE4>delightful</PRT_CHOICE4>
+        <CREATE_ID>sjin0201</CREATE_ID>
+        <CREATE_DATE>2018-11-16T00:36:47.49+09:00</CREATE_DATE>
+        <MODIFY_ID>sjin0201</MODIFY_ID>
+        <MODIFY_DATE>2019-01-20T17:13:14.917+09:00</MODIFY_DATE>
+        <SET_ID1>454934</SET_ID1>
+        <ACT_ID>28293</ACT_ID>
+        <ACT_TYPE>WL</ACT_TYPE>
+        <TITLE>Sleeping Habits</TITLE>
+        <TEST_TIME>0</TEST_TIME>
+        <ETC_INT1>0</ETC_INT1>
+        <ETC_INT2>0</ETC_INT2>
+        <CREATE_ID1>sjin0201</CREATE_ID1>
+        <CREATE_DATE1>2018-11-14T15:28:50.093+09:00</CREATE_DATE1>
+        <MODIFY_ID1>sjin0201</MODIFY_ID1>
+        <MODIFY_DATE1>2019-01-30T13:31:14.883+09:00</MODIFY_DATE1>
+        <DIC_ID1>181249</DIC_ID1>
+        <WORD>schedule</WORD>
+        <WORD_TYPE>noun</WORD_TYPE>
+        <MEAN_E>a plan of things that will be done and when they will be done</MEAN_E>
+        <MEAN_K>일정</MEAN_K>
+        <PICTURE>schedule_RFch2e1.png</PICTURE>
+        <MEDIA>schedule_RFch2e1.mp3</MEDIA>
+        <EXAMPLE>Let me tell you about my daily schedule.</EXAMPLE>
+        <CREATE_ID2>sjin0201</CREATE_ID2>
+        <CREATE_DATE2>2018-11-16T00:35:49.603+09:00</CREATE_DATE2>
+        <MODIFY_ID2>sjin0201</MODIFY_ID2>
+        <MODIFY_DATE2>2019-01-20T17:13:14.92+09:00</MODIFY_DATE2>
+      </Table>
+      <Table diffgr:id="Table8" msdata:rowOrder="7">
+        <IDX>240300</IDX>
+        <SET_ID>454934</SET_ID>
+        <DIC_ID>181248</DIC_ID>
+        <PRT_Q>The company’s ______ was poor for the first two years.</PRT_Q>
+        <PRT_ANSWER>3</PRT_ANSWER>
+        <PRT_CHOICE1>enable</PRT_CHOICE1>
+        <PRT_CHOICE2>rapidly</PRT_CHOICE2>
+        <PRT_CHOICE3>performance</PRT_CHOICE3>
+        <PRT_CHOICE4>allow</PRT_CHOICE4>
+        <CREATE_ID>sjin0201</CREATE_ID>
+        <CREATE_DATE>2018-11-16T00:36:47.49+09:00</CREATE_DATE>
+        <MODIFY_ID>sjin0201</MODIFY_ID>
+        <MODIFY_DATE>2019-01-20T17:14:09.02+09:00</MODIFY_DATE>
+        <SET_ID1>454934</SET_ID1>
+        <ACT_ID>28293</ACT_ID>
+        <ACT_TYPE>WL</ACT_TYPE>
+        <TITLE>Sleeping Habits</TITLE>
+        <TEST_TIME>0</TEST_TIME>
+        <ETC_INT1>0</ETC_INT1>
+        <ETC_INT2>0</ETC_INT2>
+        <CREATE_ID1>sjin0201</CREATE_ID1>
+        <CREATE_DATE1>2018-11-14T15:28:50.093+09:00</CREATE_DATE1>
+        <MODIFY_ID1>sjin0201</MODIFY_ID1>
+        <MODIFY_DATE1>2019-01-30T13:31:14.883+09:00</MODIFY_DATE1>
+        <DIC_ID1>181248</DIC_ID1>
+        <WORD>performance</WORD>
+        <WORD_TYPE>noun</WORD_TYPE>
+        <MEAN_E>how well someone or something does</MEAN_E>
+        <MEAN_K>성과</MEAN_K>
+        <PICTURE>performance_RFch2e1.png</PICTURE>
+        <MEDIA>performance_RFch2e1.mp3</MEDIA>
+        <EXAMPLE>The company’s performance was poor for the first two years.</EXAMPLE>
+        <CREATE_ID2>sjin0201</CREATE_ID2>
+        <CREATE_DATE2>2018-11-16T00:35:49.587+09:00</CREATE_DATE2>
+        <MODIFY_ID2>sjin0201</MODIFY_ID2>
+        <MODIFY_DATE2>2019-01-20T17:14:09.023+09:00</MODIFY_DATE2>
+      </Table>
+    </NewDataSet>

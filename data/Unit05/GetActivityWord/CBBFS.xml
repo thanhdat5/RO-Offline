@@ -1,0 +1,306 @@
+﻿<NewDataSet xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:diffgr="urn:schemas-microsoft-com:xml-diffgram-v1" xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <Table diffgr:id="Table1" msdata:rowOrder="0">
+        <IDX>240277</IDX>
+        <SET_ID>454922</SET_ID>
+        <DIC_ID>181239</DIC_ID>
+        <PRT_Q>The water ______ happens every day.</PRT_Q>
+        <PRT_ANSWER>1</PRT_ANSWER>
+        <PRT_CHOICE1>cycle</PRT_CHOICE1>
+        <PRT_CHOICE2>muscle</PRT_CHOICE2>
+        <PRT_CHOICE3>refreshed</PRT_CHOICE3>
+        <PRT_CHOICE4>strengthen</PRT_CHOICE4>
+        <CREATE_ID>sjin0201</CREATE_ID>
+        <CREATE_DATE>2018-11-16T00:18:19.49+09:00</CREATE_DATE>
+        <MODIFY_ID>sjin0201</MODIFY_ID>
+        <MODIFY_DATE>2019-01-20T16:48:22.32+09:00</MODIFY_DATE>
+        <SET_ID1>454922</SET_ID1>
+        <ACT_ID>28291</ACT_ID>
+        <ACT_TYPE>WL</ACT_TYPE>
+        <TITLE>The Science of Sleep</TITLE>
+        <TEST_TIME>0</TEST_TIME>
+        <ETC_INT1>0</ETC_INT1>
+        <ETC_INT2>0</ETC_INT2>
+        <CREATE_ID1>sjin0201</CREATE_ID1>
+        <CREATE_DATE1>2018-11-14T15:27:41.04+09:00</CREATE_DATE1>
+        <MODIFY_ID1>sjin0201</MODIFY_ID1>
+        <MODIFY_DATE1>2019-01-29T00:59:12.477+09:00</MODIFY_DATE1>
+        <DIC_ID1>181239</DIC_ID1>
+        <WORD>cycle</WORD>
+        <WORD_TYPE>noun</WORD_TYPE>
+        <MEAN_E>a set of things that happen again and again in the same order</MEAN_E>
+        <MEAN_K>주기</MEAN_K>
+        <PICTURE>cycle_RFch2e1.png</PICTURE>
+        <MEDIA>cycle_RFch2e1.mp3</MEDIA>
+        <EXAMPLE>The water cycle happens every day.</EXAMPLE>
+        <CREATE_ID2>sjin0201</CREATE_ID2>
+        <CREATE_DATE2>2018-11-16T00:17:36.13+09:00</CREATE_DATE2>
+        <MODIFY_ID2>sjin0201</MODIFY_ID2>
+        <MODIFY_DATE2>2019-01-20T16:48:22.32+09:00</MODIFY_DATE2>
+      </Table>
+      <Table diffgr:id="Table2" msdata:rowOrder="1">
+        <IDX>240278</IDX>
+        <SET_ID>454922</SET_ID>
+        <DIC_ID>181238</DIC_ID>
+        <PRT_Q>They did the last ______ of their journey on foot.</PRT_Q>
+        <PRT_ANSWER>4</PRT_ANSWER>
+        <PRT_CHOICE1>refreshed</PRT_CHOICE1>
+        <PRT_CHOICE2>get rid of</PRT_CHOICE2>
+        <PRT_CHOICE3>muscle</PRT_CHOICE3>
+        <PRT_CHOICE4>stage</PRT_CHOICE4>
+        <CREATE_ID>sjin0201</CREATE_ID>
+        <CREATE_DATE>2018-11-16T00:18:19.493+09:00</CREATE_DATE>
+        <MODIFY_ID>sjin0201</MODIFY_ID>
+        <MODIFY_DATE>2019-01-20T16:49:04.34+09:00</MODIFY_DATE>
+        <SET_ID1>454922</SET_ID1>
+        <ACT_ID>28291</ACT_ID>
+        <ACT_TYPE>WL</ACT_TYPE>
+        <TITLE>The Science of Sleep</TITLE>
+        <TEST_TIME>0</TEST_TIME>
+        <ETC_INT1>0</ETC_INT1>
+        <ETC_INT2>0</ETC_INT2>
+        <CREATE_ID1>sjin0201</CREATE_ID1>
+        <CREATE_DATE1>2018-11-14T15:27:41.04+09:00</CREATE_DATE1>
+        <MODIFY_ID1>sjin0201</MODIFY_ID1>
+        <MODIFY_DATE1>2019-01-29T00:59:12.477+09:00</MODIFY_DATE1>
+        <DIC_ID1>181238</DIC_ID1>
+        <WORD>stage</WORD>
+        <WORD_TYPE>noun</WORD_TYPE>
+        <MEAN_E>a part of an activity or a period of development</MEAN_E>
+        <MEAN_K>단계</MEAN_K>
+        <PICTURE>stage_RFch2e1.png</PICTURE>
+        <MEDIA>stage_RFch2e1.mp3</MEDIA>
+        <EXAMPLE>They did the last stage of their journey on foot.</EXAMPLE>
+        <CREATE_ID2>sjin0201</CREATE_ID2>
+        <CREATE_DATE2>2018-11-16T00:17:36.117+09:00</CREATE_DATE2>
+        <MODIFY_ID2>sjin0201</MODIFY_ID2>
+        <MODIFY_DATE2>2019-01-20T16:49:04.343+09:00</MODIFY_DATE2>
+      </Table>
+      <Table diffgr:id="Table3" msdata:rowOrder="2">
+        <IDX>240279</IDX>
+        <SET_ID>454922</SET_ID>
+        <DIC_ID>181237</DIC_ID>
+        <PRT_Q>Stretch your ______ before playing any sports.</PRT_Q>
+        <PRT_ANSWER>4</PRT_ANSWER>
+        <PRT_CHOICE1>immune system</PRT_CHOICE1>
+        <PRT_CHOICE2>strengthen</PRT_CHOICE2>
+        <PRT_CHOICE3>refreshed</PRT_CHOICE3>
+        <PRT_CHOICE4>muscles</PRT_CHOICE4>
+        <CREATE_ID>sjin0201</CREATE_ID>
+        <CREATE_DATE>2018-11-16T00:18:19.497+09:00</CREATE_DATE>
+        <MODIFY_ID>sjin0201</MODIFY_ID>
+        <MODIFY_DATE>2019-01-20T16:50:02.013+09:00</MODIFY_DATE>
+        <SET_ID1>454922</SET_ID1>
+        <ACT_ID>28291</ACT_ID>
+        <ACT_TYPE>WL</ACT_TYPE>
+        <TITLE>The Science of Sleep</TITLE>
+        <TEST_TIME>0</TEST_TIME>
+        <ETC_INT1>0</ETC_INT1>
+        <ETC_INT2>0</ETC_INT2>
+        <CREATE_ID1>sjin0201</CREATE_ID1>
+        <CREATE_DATE1>2018-11-14T15:27:41.04+09:00</CREATE_DATE1>
+        <MODIFY_ID1>sjin0201</MODIFY_ID1>
+        <MODIFY_DATE1>2019-01-29T00:59:12.477+09:00</MODIFY_DATE1>
+        <DIC_ID1>181237</DIC_ID1>
+        <WORD>muscle</WORD>
+        <WORD_TYPE>noun</WORD_TYPE>
+        <MEAN_E>a tissue in the body that moves body parts</MEAN_E>
+        <MEAN_K>근육</MEAN_K>
+        <PICTURE>muscle_RFch2e1.png</PICTURE>
+        <MEDIA>muscle_RFch2e1.mp3</MEDIA>
+        <EXAMPLE>Stretch your muscles before playing any sports.</EXAMPLE>
+        <CREATE_ID2>sjin0201</CREATE_ID2>
+        <CREATE_DATE2>2018-11-16T00:17:36.107+09:00</CREATE_DATE2>
+        <MODIFY_ID2>sjin0201</MODIFY_ID2>
+        <MODIFY_DATE2>2019-01-20T16:50:02.013+09:00</MODIFY_DATE2>
+      </Table>
+      <Table diffgr:id="Table4" msdata:rowOrder="3">
+        <IDX>240280</IDX>
+        <SET_ID>454922</SET_ID>
+        <DIC_ID>181236</DIC_ID>
+        <PRT_Q>Stress can weaken your ______.</PRT_Q>
+        <PRT_ANSWER>2</PRT_ANSWER>
+        <PRT_CHOICE1>get rid of</PRT_CHOICE1>
+        <PRT_CHOICE2>immune system</PRT_CHOICE2>
+        <PRT_CHOICE3>refreshed</PRT_CHOICE3>
+        <PRT_CHOICE4>strengthen</PRT_CHOICE4>
+        <CREATE_ID>sjin0201</CREATE_ID>
+        <CREATE_DATE>2018-11-16T00:18:19.5+09:00</CREATE_DATE>
+        <MODIFY_ID>sjin0201</MODIFY_ID>
+        <MODIFY_DATE>2019-01-20T16:50:13.857+09:00</MODIFY_DATE>
+        <SET_ID1>454922</SET_ID1>
+        <ACT_ID>28291</ACT_ID>
+        <ACT_TYPE>WL</ACT_TYPE>
+        <TITLE>The Science of Sleep</TITLE>
+        <TEST_TIME>0</TEST_TIME>
+        <ETC_INT1>0</ETC_INT1>
+        <ETC_INT2>0</ETC_INT2>
+        <CREATE_ID1>sjin0201</CREATE_ID1>
+        <CREATE_DATE1>2018-11-14T15:27:41.04+09:00</CREATE_DATE1>
+        <MODIFY_ID1>sjin0201</MODIFY_ID1>
+        <MODIFY_DATE1>2019-01-29T00:59:12.477+09:00</MODIFY_DATE1>
+        <DIC_ID1>181236</DIC_ID1>
+        <WORD>immune system</WORD>
+        <WORD_TYPE>noun</WORD_TYPE>
+        <MEAN_E>a system in the body that fights infections and diseases</MEAN_E>
+        <MEAN_K>면역 체계</MEAN_K>
+        <PICTURE>immune system_RFch2e1.png</PICTURE>
+        <MEDIA>immune system_RFch2e1.mp3</MEDIA>
+        <EXAMPLE>Stress can weaken your immune system.</EXAMPLE>
+        <CREATE_ID2>sjin0201</CREATE_ID2>
+        <CREATE_DATE2>2018-11-16T00:17:36.09+09:00</CREATE_DATE2>
+        <MODIFY_ID2>sjin0201</MODIFY_ID2>
+        <MODIFY_DATE2>2019-01-20T16:50:13.857+09:00</MODIFY_DATE2>
+      </Table>
+      <Table diffgr:id="Table5" msdata:rowOrder="4">
+        <IDX>240281</IDX>
+        <SET_ID>454922</SET_ID>
+        <DIC_ID>181235</DIC_ID>
+        <PRT_Q>I used weed killer to ______ the weeds in the garden.</PRT_Q>
+        <PRT_ANSWER>3</PRT_ANSWER>
+        <PRT_CHOICE1>refreshed</PRT_CHOICE1>
+        <PRT_CHOICE2>immune system</PRT_CHOICE2>
+        <PRT_CHOICE3>get rid of</PRT_CHOICE3>
+        <PRT_CHOICE4>information</PRT_CHOICE4>
+        <CREATE_ID>sjin0201</CREATE_ID>
+        <CREATE_DATE>2018-11-16T00:18:19.503+09:00</CREATE_DATE>
+        <MODIFY_ID>sjin0201</MODIFY_ID>
+        <MODIFY_DATE>2019-01-20T17:00:45.973+09:00</MODIFY_DATE>
+        <SET_ID1>454922</SET_ID1>
+        <ACT_ID>28291</ACT_ID>
+        <ACT_TYPE>WL</ACT_TYPE>
+        <TITLE>The Science of Sleep</TITLE>
+        <TEST_TIME>0</TEST_TIME>
+        <ETC_INT1>0</ETC_INT1>
+        <ETC_INT2>0</ETC_INT2>
+        <CREATE_ID1>sjin0201</CREATE_ID1>
+        <CREATE_DATE1>2018-11-14T15:27:41.04+09:00</CREATE_DATE1>
+        <MODIFY_ID1>sjin0201</MODIFY_ID1>
+        <MODIFY_DATE1>2019-01-29T00:59:12.477+09:00</MODIFY_DATE1>
+        <DIC_ID1>181235</DIC_ID1>
+        <WORD>get rid of</WORD>
+        <WORD_TYPE>noun</WORD_TYPE>
+        <MEAN_E>to remove or throw away</MEAN_E>
+        <MEAN_K>~을 제거하다</MEAN_K>
+        <PICTURE>get rid of_RFch2e1.png</PICTURE>
+        <MEDIA>get rid of_RFch2e1.mp3</MEDIA>
+        <EXAMPLE>I used weed killer to get rid of the weeds in the garden.</EXAMPLE>
+        <CREATE_ID2>sjin0201</CREATE_ID2>
+        <CREATE_DATE2>2018-11-16T00:17:36.07+09:00</CREATE_DATE2>
+        <MODIFY_ID2>sjin0201</MODIFY_ID2>
+        <MODIFY_DATE2>2019-01-20T17:00:45.977+09:00</MODIFY_DATE2>
+      </Table>
+      <Table diffgr:id="Table6" msdata:rowOrder="5">
+        <IDX>240282</IDX>
+        <SET_ID>454922</SET_ID>
+        <DIC_ID>181234</DIC_ID>
+        <PRT_Q>According to my _______, work was due to start last week.</PRT_Q>
+        <PRT_ANSWER>3</PRT_ANSWER>
+        <PRT_CHOICE1>strengthen</PRT_CHOICE1>
+        <PRT_CHOICE2>muscle</PRT_CHOICE2>
+        <PRT_CHOICE3>information</PRT_CHOICE3>
+        <PRT_CHOICE4>get rid of</PRT_CHOICE4>
+        <CREATE_ID>sjin0201</CREATE_ID>
+        <CREATE_DATE>2018-11-16T00:18:19.507+09:00</CREATE_DATE>
+        <MODIFY_ID>sjin0201</MODIFY_ID>
+        <MODIFY_DATE>2019-01-20T17:00:45.98+09:00</MODIFY_DATE>
+        <SET_ID1>454922</SET_ID1>
+        <ACT_ID>28291</ACT_ID>
+        <ACT_TYPE>WL</ACT_TYPE>
+        <TITLE>The Science of Sleep</TITLE>
+        <TEST_TIME>0</TEST_TIME>
+        <ETC_INT1>0</ETC_INT1>
+        <ETC_INT2>0</ETC_INT2>
+        <CREATE_ID1>sjin0201</CREATE_ID1>
+        <CREATE_DATE1>2018-11-14T15:27:41.04+09:00</CREATE_DATE1>
+        <MODIFY_ID1>sjin0201</MODIFY_ID1>
+        <MODIFY_DATE1>2019-01-29T00:59:12.477+09:00</MODIFY_DATE1>
+        <DIC_ID1>181234</DIC_ID1>
+        <WORD>information</WORD>
+        <WORD_TYPE>noun</WORD_TYPE>
+        <MEAN_E>facts about a situation, person, event, etc.</MEAN_E>
+        <MEAN_K>정보</MEAN_K>
+        <PICTURE>information_RFch2e1.png</PICTURE>
+        <MEDIA>information_RFch2e1.mp3</MEDIA>
+        <EXAMPLE>According to my information, work was due to start last week.</EXAMPLE>
+        <CREATE_ID2>sjin0201</CREATE_ID2>
+        <CREATE_DATE2>2018-11-16T00:17:36.06+09:00</CREATE_DATE2>
+        <MODIFY_ID2>sjin0201</MODIFY_ID2>
+        <MODIFY_DATE2>2019-01-20T17:00:45.98+09:00</MODIFY_DATE2>
+      </Table>
+      <Table diffgr:id="Table7" msdata:rowOrder="6">
+        <IDX>240283</IDX>
+        <SET_ID>454922</SET_ID>
+        <DIC_ID>181233</DIC_ID>
+        <PRT_Q>After a deep sleep, I feel ______.</PRT_Q>
+        <PRT_ANSWER>1</PRT_ANSWER>
+        <PRT_CHOICE1>refreshed</PRT_CHOICE1>
+        <PRT_CHOICE2>immune system</PRT_CHOICE2>
+        <PRT_CHOICE3>cycle</PRT_CHOICE3>
+        <PRT_CHOICE4>get rid of</PRT_CHOICE4>
+        <CREATE_ID>sjin0201</CREATE_ID>
+        <CREATE_DATE>2018-11-16T00:18:19.51+09:00</CREATE_DATE>
+        <MODIFY_ID>sjin0201</MODIFY_ID>
+        <MODIFY_DATE>2019-01-20T16:47:31.11+09:00</MODIFY_DATE>
+        <SET_ID1>454922</SET_ID1>
+        <ACT_ID>28291</ACT_ID>
+        <ACT_TYPE>WL</ACT_TYPE>
+        <TITLE>The Science of Sleep</TITLE>
+        <TEST_TIME>0</TEST_TIME>
+        <ETC_INT1>0</ETC_INT1>
+        <ETC_INT2>0</ETC_INT2>
+        <CREATE_ID1>sjin0201</CREATE_ID1>
+        <CREATE_DATE1>2018-11-14T15:27:41.04+09:00</CREATE_DATE1>
+        <MODIFY_ID1>sjin0201</MODIFY_ID1>
+        <MODIFY_DATE1>2019-01-29T00:59:12.477+09:00</MODIFY_DATE1>
+        <DIC_ID1>181233</DIC_ID1>
+        <WORD>refreshed</WORD>
+        <WORD_TYPE>noun</WORD_TYPE>
+        <MEAN_E>having new strength or energy</MEAN_E>
+        <MEAN_K>상쾌한</MEAN_K>
+        <PICTURE>refreshed_RFch2e1.png</PICTURE>
+        <MEDIA>refreshed_RFch2e1.mp3</MEDIA>
+        <EXAMPLE>After a deep sleep, I feel refreshed.</EXAMPLE>
+        <CREATE_ID2>sjin0201</CREATE_ID2>
+        <CREATE_DATE2>2018-11-16T00:17:36.043+09:00</CREATE_DATE2>
+        <MODIFY_ID2>sjin0201</MODIFY_ID2>
+        <MODIFY_DATE2>2019-01-20T16:47:31.11+09:00</MODIFY_DATE2>
+      </Table>
+      <Table diffgr:id="Table8" msdata:rowOrder="7">
+        <IDX>240284</IDX>
+        <SET_ID>454922</SET_ID>
+        <DIC_ID>181232</DIC_ID>
+        <PRT_Q>We ______ our team by adding some new members.</PRT_Q>
+        <PRT_ANSWER>3</PRT_ANSWER>
+        <PRT_CHOICE1>immune system</PRT_CHOICE1>
+        <PRT_CHOICE2>information</PRT_CHOICE2>
+        <PRT_CHOICE3>strengthened</PRT_CHOICE3>
+        <PRT_CHOICE4>muscle</PRT_CHOICE4>
+        <CREATE_ID>sjin0201</CREATE_ID>
+        <CREATE_DATE>2018-11-16T00:18:19.513+09:00</CREATE_DATE>
+        <MODIFY_ID>sjin0201</MODIFY_ID>
+        <MODIFY_DATE>2019-01-20T17:01:32.73+09:00</MODIFY_DATE>
+        <SET_ID1>454922</SET_ID1>
+        <ACT_ID>28291</ACT_ID>
+        <ACT_TYPE>WL</ACT_TYPE>
+        <TITLE>The Science of Sleep</TITLE>
+        <TEST_TIME>0</TEST_TIME>
+        <ETC_INT1>0</ETC_INT1>
+        <ETC_INT2>0</ETC_INT2>
+        <CREATE_ID1>sjin0201</CREATE_ID1>
+        <CREATE_DATE1>2018-11-14T15:27:41.04+09:00</CREATE_DATE1>
+        <MODIFY_ID1>sjin0201</MODIFY_ID1>
+        <MODIFY_DATE1>2019-01-29T00:59:12.477+09:00</MODIFY_DATE1>
+        <DIC_ID1>181232</DIC_ID1>
+        <WORD>strengthen</WORD>
+        <WORD_TYPE>noun</WORD_TYPE>
+        <MEAN_E>to make something stronger or more convincing</MEAN_E>
+        <MEAN_K>강화시키다</MEAN_K>
+        <PICTURE>strengthen_RFch2e1.png</PICTURE>
+        <MEDIA>strengthen_RFch2e1.mp3</MEDIA>
+        <EXAMPLE>We strengthened our team by adding some new members.</EXAMPLE>
+        <CREATE_ID2>sjin0201</CREATE_ID2>
+        <CREATE_DATE2>2018-11-16T00:17:36.03+09:00</CREATE_DATE2>
+        <MODIFY_ID2>sjin0201</MODIFY_ID2>
+        <MODIFY_DATE2>2019-01-20T17:01:32.733+09:00</MODIFY_DATE2>
+      </Table>
+    </NewDataSet>

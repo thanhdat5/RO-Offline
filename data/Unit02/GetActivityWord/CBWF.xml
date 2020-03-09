@@ -1,0 +1,306 @@
+﻿<NewDataSet xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:diffgr="urn:schemas-microsoft-com:xml-diffgram-v1" xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <Table diffgr:id="Table1" msdata:rowOrder="0">
+        <IDX>240253</IDX>
+        <SET_ID>454904</SET_ID>
+        <DIC_ID>181208</DIC_ID>
+        <PRT_Q>In this country we do not have large beasts such as ______.</PRT_Q>
+        <PRT_ANSWER>1</PRT_ANSWER>
+        <PRT_CHOICE1>moose</PRT_CHOICE1>
+        <PRT_CHOICE2>comfortable</PRT_CHOICE2>
+        <PRT_CHOICE3>southern</PRT_CHOICE3>
+        <PRT_CHOICE4>plenty</PRT_CHOICE4>
+        <CREATE_ID>sjin0201</CREATE_ID>
+        <CREATE_DATE>2018-11-15T23:52:05.573+09:00</CREATE_DATE>
+        <MODIFY_ID>sjin0201</MODIFY_ID>
+        <MODIFY_DATE>2019-01-20T16:28:31.727+09:00</MODIFY_DATE>
+        <SET_ID1>454904</SET_ID1>
+        <ACT_ID>28288</ACT_ID>
+        <ACT_TYPE>WL</ACT_TYPE>
+        <TITLE>City Animals</TITLE>
+        <TEST_TIME>0</TEST_TIME>
+        <ETC_INT1>0</ETC_INT1>
+        <ETC_INT2>0</ETC_INT2>
+        <CREATE_ID1>sjin0201</CREATE_ID1>
+        <CREATE_DATE1>2018-11-14T15:25:47.16+09:00</CREATE_DATE1>
+        <MODIFY_ID1>sjin0201</MODIFY_ID1>
+        <MODIFY_DATE1>2019-01-29T00:57:06.4+09:00</MODIFY_DATE1>
+        <DIC_ID1>181208</DIC_ID1>
+        <WORD>moose</WORD>
+        <WORD_TYPE>noun</WORD_TYPE>
+        <MEAN_E>a large animal with big, flat horns</MEAN_E>
+        <MEAN_K>북미 등지의 커다란 사슴</MEAN_K>
+        <PICTURE>moose_RFch2e1.png</PICTURE>
+        <MEDIA>moose_RFch2e1.mp3</MEDIA>
+        <EXAMPLE>In this country we do not have large beasts such as moose.</EXAMPLE>
+        <CREATE_ID2>sjin0201</CREATE_ID2>
+        <CREATE_DATE2>2018-11-15T23:50:59.58+09:00</CREATE_DATE2>
+        <MODIFY_ID2>sjin0201</MODIFY_ID2>
+        <MODIFY_DATE2>2019-01-20T16:28:31.73+09:00</MODIFY_DATE2>
+      </Table>
+      <Table diffgr:id="Table2" msdata:rowOrder="1">
+        <IDX>240254</IDX>
+        <SET_ID>454904</SET_ID>
+        <DIC_ID>181209</DIC_ID>
+        <PRT_Q>We live in the _______ part of our state.</PRT_Q>
+        <PRT_ANSWER>3</PRT_ANSWER>
+        <PRT_CHOICE1>plenty</PRT_CHOICE1>
+        <PRT_CHOICE2>moose</PRT_CHOICE2>
+        <PRT_CHOICE3>southern</PRT_CHOICE3>
+        <PRT_CHOICE4>mind</PRT_CHOICE4>
+        <CREATE_ID>sjin0201</CREATE_ID>
+        <CREATE_DATE>2018-11-15T23:52:05.577+09:00</CREATE_DATE>
+        <MODIFY_ID>sjin0201</MODIFY_ID>
+        <MODIFY_DATE>2019-01-20T16:29:09.68+09:00</MODIFY_DATE>
+        <SET_ID1>454904</SET_ID1>
+        <ACT_ID>28288</ACT_ID>
+        <ACT_TYPE>WL</ACT_TYPE>
+        <TITLE>City Animals</TITLE>
+        <TEST_TIME>0</TEST_TIME>
+        <ETC_INT1>0</ETC_INT1>
+        <ETC_INT2>0</ETC_INT2>
+        <CREATE_ID1>sjin0201</CREATE_ID1>
+        <CREATE_DATE1>2018-11-14T15:25:47.16+09:00</CREATE_DATE1>
+        <MODIFY_ID1>sjin0201</MODIFY_ID1>
+        <MODIFY_DATE1>2019-01-29T00:57:06.4+09:00</MODIFY_DATE1>
+        <DIC_ID1>181209</DIC_ID1>
+        <WORD>southern</WORD>
+        <WORD_TYPE>noun</WORD_TYPE>
+        <MEAN_E>in or toward the south</MEAN_E>
+        <MEAN_K>남쪽에 위치한</MEAN_K>
+        <PICTURE>southern_RFch2e1.png</PICTURE>
+        <MEDIA>southern_RFch2e1.mp3</MEDIA>
+        <EXAMPLE>We live in the southern part of our state.</EXAMPLE>
+        <CREATE_ID2>sjin0201</CREATE_ID2>
+        <CREATE_DATE2>2018-11-15T23:50:59.597+09:00</CREATE_DATE2>
+        <MODIFY_ID2>sjin0201</MODIFY_ID2>
+        <MODIFY_DATE2>2019-01-20T16:29:09.68+09:00</MODIFY_DATE2>
+      </Table>
+      <Table diffgr:id="Table3" msdata:rowOrder="2">
+        <IDX>240255</IDX>
+        <SET_ID>454904</SET_ID>
+        <DIC_ID>181210</DIC_ID>
+        <PRT_Q>These shoes aren't very ______ for walking.</PRT_Q>
+        <PRT_ANSWER>1</PRT_ANSWER>
+        <PRT_CHOICE1>comfortable</PRT_CHOICE1>
+        <PRT_CHOICE2>moose</PRT_CHOICE2>
+        <PRT_CHOICE3>dumpster</PRT_CHOICE3>
+        <PRT_CHOICE4>branch</PRT_CHOICE4>
+        <CREATE_ID>sjin0201</CREATE_ID>
+        <CREATE_DATE>2018-11-15T23:52:05.577+09:00</CREATE_DATE>
+        <MODIFY_ID>sjin0201</MODIFY_ID>
+        <MODIFY_DATE>2019-01-20T16:30:19.22+09:00</MODIFY_DATE>
+        <SET_ID1>454904</SET_ID1>
+        <ACT_ID>28288</ACT_ID>
+        <ACT_TYPE>WL</ACT_TYPE>
+        <TITLE>City Animals</TITLE>
+        <TEST_TIME>0</TEST_TIME>
+        <ETC_INT1>0</ETC_INT1>
+        <ETC_INT2>0</ETC_INT2>
+        <CREATE_ID1>sjin0201</CREATE_ID1>
+        <CREATE_DATE1>2018-11-14T15:25:47.16+09:00</CREATE_DATE1>
+        <MODIFY_ID1>sjin0201</MODIFY_ID1>
+        <MODIFY_DATE1>2019-01-29T00:57:06.4+09:00</MODIFY_DATE1>
+        <DIC_ID1>181210</DIC_ID1>
+        <WORD>comfortable</WORD>
+        <WORD_TYPE>noun</WORD_TYPE>
+        <MEAN_E>free from stress or tension</MEAN_E>
+        <MEAN_K>편안한</MEAN_K>
+        <PICTURE>comfortable_RFch2e1.png</PICTURE>
+        <MEDIA>comfortable_RFch2e1.mp3</MEDIA>
+        <EXAMPLE>These shoes aren't very comfortable for walking.</EXAMPLE>
+        <CREATE_ID2>sjin0201</CREATE_ID2>
+        <CREATE_DATE2>2018-11-15T23:50:59.6+09:00</CREATE_DATE2>
+        <MODIFY_ID2>sjin0201</MODIFY_ID2>
+        <MODIFY_DATE2>2019-01-20T16:30:19.22+09:00</MODIFY_DATE2>
+      </Table>
+      <Table diffgr:id="Table4" msdata:rowOrder="3">
+        <IDX>240256</IDX>
+        <SET_ID>454904</SET_ID>
+        <DIC_ID>181211</DIC_ID>
+        <PRT_Q>It’s important to get _______ of rest before an exam.</PRT_Q>
+        <PRT_ANSWER>4</PRT_ANSWER>
+        <PRT_CHOICE1>wild</PRT_CHOICE1>
+        <PRT_CHOICE2>moose</PRT_CHOICE2>
+        <PRT_CHOICE3>southern</PRT_CHOICE3>
+        <PRT_CHOICE4>plenty</PRT_CHOICE4>
+        <CREATE_ID>sjin0201</CREATE_ID>
+        <CREATE_DATE>2018-11-15T23:52:05.58+09:00</CREATE_DATE>
+        <MODIFY_ID>sjin0201</MODIFY_ID>
+        <MODIFY_DATE>2019-01-20T16:31:41.15+09:00</MODIFY_DATE>
+        <SET_ID1>454904</SET_ID1>
+        <ACT_ID>28288</ACT_ID>
+        <ACT_TYPE>WL</ACT_TYPE>
+        <TITLE>City Animals</TITLE>
+        <TEST_TIME>0</TEST_TIME>
+        <ETC_INT1>0</ETC_INT1>
+        <ETC_INT2>0</ETC_INT2>
+        <CREATE_ID1>sjin0201</CREATE_ID1>
+        <CREATE_DATE1>2018-11-14T15:25:47.16+09:00</CREATE_DATE1>
+        <MODIFY_ID1>sjin0201</MODIFY_ID1>
+        <MODIFY_DATE1>2019-01-29T00:57:06.4+09:00</MODIFY_DATE1>
+        <DIC_ID1>181211</DIC_ID1>
+        <WORD>plenty</WORD>
+        <WORD_TYPE>noun</WORD_TYPE>
+        <MEAN_E>a large number of something</MEAN_E>
+        <MEAN_K>수많은</MEAN_K>
+        <PICTURE>plenty_RFch2e1.png</PICTURE>
+        <MEDIA>plenty_RFch2e1.mp3</MEDIA>
+        <EXAMPLE>It’s important to get plenty of rest before an exam.</EXAMPLE>
+        <CREATE_ID2>sjin0201</CREATE_ID2>
+        <CREATE_DATE2>2018-11-15T23:50:59.613+09:00</CREATE_DATE2>
+        <MODIFY_ID2>sjin0201</MODIFY_ID2>
+        <MODIFY_DATE2>2019-01-20T16:31:41.15+09:00</MODIFY_DATE2>
+      </Table>
+      <Table diffgr:id="Table5" msdata:rowOrder="4">
+        <IDX>240257</IDX>
+        <SET_ID>454904</SET_ID>
+        <DIC_ID>181212</DIC_ID>
+        <PRT_Q>The fruit on the lower ______ was protected from the sun.</PRT_Q>
+        <PRT_ANSWER>2</PRT_ANSWER>
+        <PRT_CHOICE1>plenty</PRT_CHOICE1>
+        <PRT_CHOICE2>branches</PRT_CHOICE2>
+        <PRT_CHOICE3>wild</PRT_CHOICE3>
+        <PRT_CHOICE4>dumpster</PRT_CHOICE4>
+        <CREATE_ID>sjin0201</CREATE_ID>
+        <CREATE_DATE>2018-11-15T23:52:05.583+09:00</CREATE_DATE>
+        <MODIFY_ID>sjin0201</MODIFY_ID>
+        <MODIFY_DATE>2019-01-20T16:31:53.867+09:00</MODIFY_DATE>
+        <SET_ID1>454904</SET_ID1>
+        <ACT_ID>28288</ACT_ID>
+        <ACT_TYPE>WL</ACT_TYPE>
+        <TITLE>City Animals</TITLE>
+        <TEST_TIME>0</TEST_TIME>
+        <ETC_INT1>0</ETC_INT1>
+        <ETC_INT2>0</ETC_INT2>
+        <CREATE_ID1>sjin0201</CREATE_ID1>
+        <CREATE_DATE1>2018-11-14T15:25:47.16+09:00</CREATE_DATE1>
+        <MODIFY_ID1>sjin0201</MODIFY_ID1>
+        <MODIFY_DATE1>2019-01-29T00:57:06.4+09:00</MODIFY_DATE1>
+        <DIC_ID1>181212</DIC_ID1>
+        <WORD>branch</WORD>
+        <WORD_TYPE>noun</WORD_TYPE>
+        <MEAN_E>a part of a tree that grows out from the trunk</MEAN_E>
+        <MEAN_K>가지</MEAN_K>
+        <PICTURE>branch_RFch2e1.png</PICTURE>
+        <MEDIA>branch_RFch2e1.mp3</MEDIA>
+        <EXAMPLE>The fruit on the lower branches was protected from the sun.</EXAMPLE>
+        <CREATE_ID2>sjin0201</CREATE_ID2>
+        <CREATE_DATE2>2018-11-15T23:50:59.623+09:00</CREATE_DATE2>
+        <MODIFY_ID2>sjin0201</MODIFY_ID2>
+        <MODIFY_DATE2>2019-01-20T16:31:53.867+09:00</MODIFY_DATE2>
+      </Table>
+      <Table diffgr:id="Table6" msdata:rowOrder="5">
+        <IDX>240258</IDX>
+        <SET_ID>454904</SET_ID>
+        <DIC_ID>181213</DIC_ID>
+        <PRT_Q>Do you ______ if I borrow your book?</PRT_Q>
+        <PRT_ANSWER>4</PRT_ANSWER>
+        <PRT_CHOICE1>branch</PRT_CHOICE1>
+        <PRT_CHOICE2>dumpster</PRT_CHOICE2>
+        <PRT_CHOICE3>wild</PRT_CHOICE3>
+        <PRT_CHOICE4>mind</PRT_CHOICE4>
+        <CREATE_ID>sjin0201</CREATE_ID>
+        <CREATE_DATE>2018-11-15T23:52:05.587+09:00</CREATE_DATE>
+        <MODIFY_ID>sjin0201</MODIFY_ID>
+        <MODIFY_DATE>2019-01-20T16:27:56.543+09:00</MODIFY_DATE>
+        <SET_ID1>454904</SET_ID1>
+        <ACT_ID>28288</ACT_ID>
+        <ACT_TYPE>WL</ACT_TYPE>
+        <TITLE>City Animals</TITLE>
+        <TEST_TIME>0</TEST_TIME>
+        <ETC_INT1>0</ETC_INT1>
+        <ETC_INT2>0</ETC_INT2>
+        <CREATE_ID1>sjin0201</CREATE_ID1>
+        <CREATE_DATE1>2018-11-14T15:25:47.16+09:00</CREATE_DATE1>
+        <MODIFY_ID1>sjin0201</MODIFY_ID1>
+        <MODIFY_DATE1>2019-01-29T00:57:06.4+09:00</MODIFY_DATE1>
+        <DIC_ID1>181213</DIC_ID1>
+        <WORD>mind</WORD>
+        <WORD_TYPE>noun</WORD_TYPE>
+        <MEAN_E>to be bothered by</MEAN_E>
+        <MEAN_K>신경 쓰다</MEAN_K>
+        <PICTURE>mind_RFch2e1.png</PICTURE>
+        <MEDIA>mind_RFch2e1.mp3</MEDIA>
+        <EXAMPLE>Do you mind if I borrow your book?</EXAMPLE>
+        <CREATE_ID2>sjin0201</CREATE_ID2>
+        <CREATE_DATE2>2018-11-15T23:50:59.633+09:00</CREATE_DATE2>
+        <MODIFY_ID2>sjin0201</MODIFY_ID2>
+        <MODIFY_DATE2>2019-01-20T16:27:56.543+09:00</MODIFY_DATE2>
+      </Table>
+      <Table diffgr:id="Table7" msdata:rowOrder="6">
+        <IDX>240259</IDX>
+        <SET_ID>454904</SET_ID>
+        <DIC_ID>181214</DIC_ID>
+        <PRT_Q>These herbs grow ______ in the area.</PRT_Q>
+        <PRT_ANSWER>3</PRT_ANSWER>
+        <PRT_CHOICE1>dumpster</PRT_CHOICE1>
+        <PRT_CHOICE2>comfortable</PRT_CHOICE2>
+        <PRT_CHOICE3>wild</PRT_CHOICE3>
+        <PRT_CHOICE4>moose</PRT_CHOICE4>
+        <CREATE_ID>sjin0201</CREATE_ID>
+        <CREATE_DATE>2018-11-15T23:52:05.587+09:00</CREATE_DATE>
+        <MODIFY_ID>sjin0201</MODIFY_ID>
+        <MODIFY_DATE>2019-01-20T16:33:03.793+09:00</MODIFY_DATE>
+        <SET_ID1>454904</SET_ID1>
+        <ACT_ID>28288</ACT_ID>
+        <ACT_TYPE>WL</ACT_TYPE>
+        <TITLE>City Animals</TITLE>
+        <TEST_TIME>0</TEST_TIME>
+        <ETC_INT1>0</ETC_INT1>
+        <ETC_INT2>0</ETC_INT2>
+        <CREATE_ID1>sjin0201</CREATE_ID1>
+        <CREATE_DATE1>2018-11-14T15:25:47.16+09:00</CREATE_DATE1>
+        <MODIFY_ID1>sjin0201</MODIFY_ID1>
+        <MODIFY_DATE1>2019-01-29T00:57:06.4+09:00</MODIFY_DATE1>
+        <DIC_ID1>181214</DIC_ID1>
+        <WORD>wild</WORD>
+        <WORD_TYPE>noun</WORD_TYPE>
+        <MEAN_E>a natural area where people do not live</MEAN_E>
+        <MEAN_K>야생의</MEAN_K>
+        <PICTURE>wild_RFch2e1.png</PICTURE>
+        <MEDIA>wild_RFch2e1.mp3</MEDIA>
+        <EXAMPLE>These herbs grow wild in the area.</EXAMPLE>
+        <CREATE_ID2>sjin0201</CREATE_ID2>
+        <CREATE_DATE2>2018-11-15T23:50:59.65+09:00</CREATE_DATE2>
+        <MODIFY_ID2>sjin0201</MODIFY_ID2>
+        <MODIFY_DATE2>2019-01-20T16:33:03.793+09:00</MODIFY_DATE2>
+      </Table>
+      <Table diffgr:id="Table8" msdata:rowOrder="7">
+        <IDX>240260</IDX>
+        <SET_ID>454904</SET_ID>
+        <DIC_ID>181215</DIC_ID>
+        <PRT_Q>Put your trash in the ______.</PRT_Q>
+        <PRT_ANSWER>1</PRT_ANSWER>
+        <PRT_CHOICE1>dumpsters</PRT_CHOICE1>
+        <PRT_CHOICE2>comfortable</PRT_CHOICE2>
+        <PRT_CHOICE3>mind</PRT_CHOICE3>
+        <PRT_CHOICE4>plenty</PRT_CHOICE4>
+        <CREATE_ID>sjin0201</CREATE_ID>
+        <CREATE_DATE>2018-11-15T23:52:05.59+09:00</CREATE_DATE>
+        <MODIFY_ID>sjin0201</MODIFY_ID>
+        <MODIFY_DATE>2019-01-20T16:33:27.467+09:00</MODIFY_DATE>
+        <SET_ID1>454904</SET_ID1>
+        <ACT_ID>28288</ACT_ID>
+        <ACT_TYPE>WL</ACT_TYPE>
+        <TITLE>City Animals</TITLE>
+        <TEST_TIME>0</TEST_TIME>
+        <ETC_INT1>0</ETC_INT1>
+        <ETC_INT2>0</ETC_INT2>
+        <CREATE_ID1>sjin0201</CREATE_ID1>
+        <CREATE_DATE1>2018-11-14T15:25:47.16+09:00</CREATE_DATE1>
+        <MODIFY_ID1>sjin0201</MODIFY_ID1>
+        <MODIFY_DATE1>2019-01-29T00:57:06.4+09:00</MODIFY_DATE1>
+        <DIC_ID1>181215</DIC_ID1>
+        <WORD>dumpster</WORD>
+        <WORD_TYPE>noun</WORD_TYPE>
+        <MEAN_E>a large trash container</MEAN_E>
+        <MEAN_K>쓰레기통</MEAN_K>
+        <PICTURE>dumpster_RFch2e1.png</PICTURE>
+        <MEDIA>dumpster_RFch2e1.mp3</MEDIA>
+        <EXAMPLE>Put your trash in the dumpsters.</EXAMPLE>
+        <CREATE_ID2>sjin0201</CREATE_ID2>
+        <CREATE_DATE2>2018-11-15T23:50:59.657+09:00</CREATE_DATE2>
+        <MODIFY_ID2>sjin0201</MODIFY_ID2>
+        <MODIFY_DATE2>2019-01-20T16:33:27.47+09:00</MODIFY_DATE2>
+      </Table>
+    </NewDataSet>

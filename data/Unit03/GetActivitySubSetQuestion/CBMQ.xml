@@ -1,0 +1,35 @@
+﻿<NewDataSet xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:diffgr="urn:schemas-microsoft-com:xml-diffgram-v1" xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <Table diffgr:id="Table1" msdata:rowOrder="0">
+        <IDX>92092</IDX>
+        <ACT_ID>28289</ACT_ID>
+        <PRT_Q>What is the reading mainly about?</PRT_Q>
+        <PRT_CHOICE1>What a strait is</PRT_CHOICE1>
+        <PRT_CHOICE2>Why boats are slower than trains</PRT_CHOICE2>
+        <PRT_CHOICE3>The sea between England and France</PRT_CHOICE3>
+        <PRT_CHOICE4>An interesting way to go between England and France</PRT_CHOICE4>
+        <PRT_ANSWER>4</PRT_ANSWER>
+        <WORD_MAP />
+      </Table>
+      <Table diffgr:id="Table2" msdata:rowOrder="1">
+        <IDX>92093</IDX>
+        <ACT_ID>28289</ACT_ID>
+        <PRT_Q>The English Channel is a __________.</PRT_Q>
+        <PRT_CHOICE1>tunnel </PRT_CHOICE1>
+        <PRT_CHOICE2>sea</PRT_CHOICE2>
+        <PRT_CHOICE3>train station </PRT_CHOICE3>
+        <PRT_CHOICE4>fast train</PRT_CHOICE4>
+        <PRT_ANSWER>2</PRT_ANSWER>
+        <WORD_MAP />
+      </Table>
+      <Table diffgr:id="Table3" msdata:rowOrder="2">
+        <IDX>92094</IDX>
+        <ACT_ID>28289</ACT_ID>
+        <PRT_Q>Which is NOT true according to the reading?</PRT_Q>
+        <PRT_CHOICE1>People can travel faster using the Chunnel.</PRT_CHOICE1>
+        <PRT_CHOICE2>There is a mountain between England and France.</PRT_CHOICE2>
+        <PRT_CHOICE3>“Chunnel” is a word created from “channel” and “tunnel.”</PRT_CHOICE3>
+        <PRT_CHOICE4>The Chunnel opened in 1994.</PRT_CHOICE4>
+        <PRT_ANSWER>2</PRT_ANSWER>
+        <WORD_MAP />
+      </Table>
+    </NewDataSet>

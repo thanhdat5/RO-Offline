@@ -1,0 +1,35 @@
+﻿<NewDataSet xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:diffgr="urn:schemas-microsoft-com:xml-diffgram-v1" xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <Table diffgr:id="Table1" msdata:rowOrder="0">
+        <IDX>92122</IDX>
+        <ACT_ID>28299</ACT_ID>
+        <PRT_Q>What is the reading mainly about?</PRT_Q>
+        <PRT_CHOICE1>New ways to swim faster</PRT_CHOICE1>
+        <PRT_CHOICE2>How to be a better sports player</PRT_CHOICE2>
+        <PRT_CHOICE3>The ways coaches can make their teams play better</PRT_CHOICE3>
+        <PRT_CHOICE4>How new technology is making better sports clothes</PRT_CHOICE4>
+        <PRT_ANSWER>4</PRT_ANSWER>
+        <WORD_MAP />
+      </Table>
+      <Table diffgr:id="Table2" msdata:rowOrder="1">
+        <IDX>92123</IDX>
+        <ACT_ID>28299</ACT_ID>
+        <PRT_Q>According to the reading, how can athletes do better at sports?</PRT_Q>
+        <PRT_CHOICE1>Eat only one kind of food</PRT_CHOICE1>
+        <PRT_CHOICE2>Learn how to use computers</PRT_CHOICE2>
+        <PRT_CHOICE3>Wear modern, appropriate clothes</PRT_CHOICE3>
+        <PRT_CHOICE4>See how well their teammates play</PRT_CHOICE4>
+        <PRT_ANSWER>3</PRT_ANSWER>
+        <WORD_MAP />
+      </Table>
+      <Table diffgr:id="Table3" msdata:rowOrder="2">
+        <IDX>92124</IDX>
+        <ACT_ID>28299</ACT_ID>
+        <PRT_Q>According to the reading, how do smart clothes help coaches?</PRT_Q>
+        <PRT_CHOICE1>They send data from athletes to their coach.</PRT_CHOICE1>
+        <PRT_CHOICE2>They make athletes more efficient.</PRT_CHOICE2>
+        <PRT_CHOICE3>They are all one piece.</PRT_CHOICE3>
+        <PRT_CHOICE4>They make coaches feel smarter.</PRT_CHOICE4>
+        <PRT_ANSWER>1</PRT_ANSWER>
+        <WORD_MAP />
+      </Table>
+    </NewDataSet>

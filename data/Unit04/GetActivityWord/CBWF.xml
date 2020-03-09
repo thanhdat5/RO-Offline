@@ -1,0 +1,306 @@
+﻿<NewDataSet xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:diffgr="urn:schemas-microsoft-com:xml-diffgram-v1" xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <Table diffgr:id="Table1" msdata:rowOrder="0">
+        <IDX>240269</IDX>
+        <SET_ID>454916</SET_ID>
+        <DIC_ID>181231</DIC_ID>
+        <PRT_Q>Chile is the longest country in ______.</PRT_Q>
+        <PRT_ANSWER>2</PRT_ANSWER>
+        <PRT_CHOICE1>center</PRT_CHOICE1>
+        <PRT_CHOICE2>South America</PRT_CHOICE2>
+        <PRT_CHOICE3>electronic</PRT_CHOICE3>
+        <PRT_CHOICE4>rubber</PRT_CHOICE4>
+        <CREATE_ID>sjin0201</CREATE_ID>
+        <CREATE_DATE>2018-11-16T00:11:04.477+09:00</CREATE_DATE>
+        <MODIFY_ID>sjin0201</MODIFY_ID>
+        <MODIFY_DATE>2019-01-20T16:40:37.993+09:00</MODIFY_DATE>
+        <SET_ID1>454916</SET_ID1>
+        <ACT_ID>28290</ACT_ID>
+        <ACT_TYPE>WL</ACT_TYPE>
+        <TITLE>Manaus</TITLE>
+        <TEST_TIME>0</TEST_TIME>
+        <ETC_INT1>0</ETC_INT1>
+        <ETC_INT2>0</ETC_INT2>
+        <CREATE_ID1>sjin0201</CREATE_ID1>
+        <CREATE_DATE1>2018-11-14T15:27:05.993+09:00</CREATE_DATE1>
+        <MODIFY_ID1>sjin0201</MODIFY_ID1>
+        <MODIFY_DATE1>2019-01-29T00:58:29.85+09:00</MODIFY_DATE1>
+        <DIC_ID1>181231</DIC_ID1>
+        <WORD>South America</WORD>
+        <WORD_TYPE>noun</WORD_TYPE>
+        <MEAN_E>a continent below North America on a map</MEAN_E>
+        <MEAN_K>남아메리카 대륙</MEAN_K>
+        <PICTURE>South America_RFch2e1.png</PICTURE>
+        <MEDIA>South America_RFch2e1.mp3</MEDIA>
+        <EXAMPLE>Chile is the longest country in South America.</EXAMPLE>
+        <CREATE_ID2>sjin0201</CREATE_ID2>
+        <CREATE_DATE2>2018-11-16T00:10:14.75+09:00</CREATE_DATE2>
+        <MODIFY_ID2>sjin0201</MODIFY_ID2>
+        <MODIFY_DATE2>2019-01-20T16:40:37.997+09:00</MODIFY_DATE2>
+      </Table>
+      <Table diffgr:id="Table2" msdata:rowOrder="1">
+        <IDX>240270</IDX>
+        <SET_ID>454916</SET_ID>
+        <DIC_ID>181230</DIC_ID>
+        <PRT_Q>The country's oil reserves are ______ declining.</PRT_Q>
+        <PRT_ANSWER>4</PRT_ANSWER>
+        <PRT_CHOICE1>business</PRT_CHOICE1>
+        <PRT_CHOICE2>rubber</PRT_CHOICE2>
+        <PRT_CHOICE3>electronic</PRT_CHOICE3>
+        <PRT_CHOICE4>rapidly</PRT_CHOICE4>
+        <CREATE_ID>sjin0201</CREATE_ID>
+        <CREATE_DATE>2018-11-16T00:11:04.48+09:00</CREATE_DATE>
+        <MODIFY_ID>sjin0201</MODIFY_ID>
+        <MODIFY_DATE>2019-01-20T16:40:37.997+09:00</MODIFY_DATE>
+        <SET_ID1>454916</SET_ID1>
+        <ACT_ID>28290</ACT_ID>
+        <ACT_TYPE>WL</ACT_TYPE>
+        <TITLE>Manaus</TITLE>
+        <TEST_TIME>0</TEST_TIME>
+        <ETC_INT1>0</ETC_INT1>
+        <ETC_INT2>0</ETC_INT2>
+        <CREATE_ID1>sjin0201</CREATE_ID1>
+        <CREATE_DATE1>2018-11-14T15:27:05.993+09:00</CREATE_DATE1>
+        <MODIFY_ID1>sjin0201</MODIFY_ID1>
+        <MODIFY_DATE1>2019-01-29T00:58:29.85+09:00</MODIFY_DATE1>
+        <DIC_ID1>181230</DIC_ID1>
+        <WORD>rapidly</WORD>
+        <WORD_TYPE>noun</WORD_TYPE>
+        <MEAN_E>in a fast or sudden way</MEAN_E>
+        <MEAN_K>급격하게</MEAN_K>
+        <PICTURE>rapidly_RFch2e1.png</PICTURE>
+        <MEDIA>rapidly_RFch2e1.mp3</MEDIA>
+        <EXAMPLE>The country's oil reserves are rapidly declining.</EXAMPLE>
+        <CREATE_ID2>sjin0201</CREATE_ID2>
+        <CREATE_DATE2>2018-11-16T00:10:14.74+09:00</CREATE_DATE2>
+        <MODIFY_ID2>sjin0201</MODIFY_ID2>
+        <MODIFY_DATE2>2019-01-20T16:40:38+09:00</MODIFY_DATE2>
+      </Table>
+      <Table diffgr:id="Table3" msdata:rowOrder="2">
+        <IDX>240271</IDX>
+        <SET_ID>454916</SET_ID>
+        <DIC_ID>181229</DIC_ID>
+        <PRT_Q>Use a _______ to keep the box closed.</PRT_Q>
+        <PRT_ANSWER>2</PRT_ANSWER>
+        <PRT_CHOICE1>business</PRT_CHOICE1>
+        <PRT_CHOICE2>rubber</PRT_CHOICE2>
+        <PRT_CHOICE3>rapidly</PRT_CHOICE3>
+        <PRT_CHOICE4>reason</PRT_CHOICE4>
+        <CREATE_ID>sjin0201</CREATE_ID>
+        <CREATE_DATE>2018-11-16T00:11:04.483+09:00</CREATE_DATE>
+        <MODIFY_ID>sjin0201</MODIFY_ID>
+        <MODIFY_DATE>2019-01-20T16:42:29.063+09:00</MODIFY_DATE>
+        <SET_ID1>454916</SET_ID1>
+        <ACT_ID>28290</ACT_ID>
+        <ACT_TYPE>WL</ACT_TYPE>
+        <TITLE>Manaus</TITLE>
+        <TEST_TIME>0</TEST_TIME>
+        <ETC_INT1>0</ETC_INT1>
+        <ETC_INT2>0</ETC_INT2>
+        <CREATE_ID1>sjin0201</CREATE_ID1>
+        <CREATE_DATE1>2018-11-14T15:27:05.993+09:00</CREATE_DATE1>
+        <MODIFY_ID1>sjin0201</MODIFY_ID1>
+        <MODIFY_DATE1>2019-01-29T00:58:29.85+09:00</MODIFY_DATE1>
+        <DIC_ID1>181229</DIC_ID1>
+        <WORD>rubber</WORD>
+        <WORD_TYPE>noun</WORD_TYPE>
+        <MEAN_E>a strong material that stretches </MEAN_E>
+        <MEAN_K>고무</MEAN_K>
+        <PICTURE>rubber_RFch2e1.png</PICTURE>
+        <MEDIA>rubber_RFch2e1.mp3</MEDIA>
+        <EXAMPLE>Use a rubber to keep the box closed.</EXAMPLE>
+        <CREATE_ID2>sjin0201</CREATE_ID2>
+        <CREATE_DATE2>2018-11-16T00:10:14.73+09:00</CREATE_DATE2>
+        <MODIFY_ID2>sjin0201</MODIFY_ID2>
+        <MODIFY_DATE2>2019-01-20T16:42:29.063+09:00</MODIFY_DATE2>
+      </Table>
+      <Table diffgr:id="Table4" msdata:rowOrder="3">
+        <IDX>240272</IDX>
+        <SET_ID>454916</SET_ID>
+        <DIC_ID>181228</DIC_ID>
+        <PRT_Q>Portable phone is a daily used ______ device.</PRT_Q>
+        <PRT_ANSWER>2</PRT_ANSWER>
+        <PRT_CHOICE1>reason</PRT_CHOICE1>
+        <PRT_CHOICE2>electronic</PRT_CHOICE2>
+        <PRT_CHOICE3>rapidly</PRT_CHOICE3>
+        <PRT_CHOICE4>rubber</PRT_CHOICE4>
+        <CREATE_ID>sjin0201</CREATE_ID>
+        <CREATE_DATE>2018-11-16T00:11:04.483+09:00</CREATE_DATE>
+        <MODIFY_ID>sjin0201</MODIFY_ID>
+        <MODIFY_DATE>2019-01-20T16:42:54.347+09:00</MODIFY_DATE>
+        <SET_ID1>454916</SET_ID1>
+        <ACT_ID>28290</ACT_ID>
+        <ACT_TYPE>WL</ACT_TYPE>
+        <TITLE>Manaus</TITLE>
+        <TEST_TIME>0</TEST_TIME>
+        <ETC_INT1>0</ETC_INT1>
+        <ETC_INT2>0</ETC_INT2>
+        <CREATE_ID1>sjin0201</CREATE_ID1>
+        <CREATE_DATE1>2018-11-14T15:27:05.993+09:00</CREATE_DATE1>
+        <MODIFY_ID1>sjin0201</MODIFY_ID1>
+        <MODIFY_DATE1>2019-01-29T00:58:29.85+09:00</MODIFY_DATE1>
+        <DIC_ID1>181228</DIC_ID1>
+        <WORD>electronic</WORD>
+        <WORD_TYPE>noun</WORD_TYPE>
+        <MEAN_E>operating through the use of small electrical parts</MEAN_E>
+        <MEAN_K>전자의</MEAN_K>
+        <PICTURE>electronic_RFch2e1.png</PICTURE>
+        <MEDIA>electronic_RFch2e1.mp3</MEDIA>
+        <EXAMPLE>Portable phone is a daily used electronic device.</EXAMPLE>
+        <CREATE_ID2>sjin0201</CREATE_ID2>
+        <CREATE_DATE2>2018-11-16T00:10:14.72+09:00</CREATE_DATE2>
+        <MODIFY_ID2>sjin0201</MODIFY_ID2>
+        <MODIFY_DATE2>2019-01-20T16:42:54.35+09:00</MODIFY_DATE2>
+      </Table>
+      <Table diffgr:id="Table5" msdata:rowOrder="4">
+        <IDX>240273</IDX>
+        <SET_ID>454916</SET_ID>
+        <DIC_ID>181227</DIC_ID>
+        <PRT_Q>The ______ are of poor quality.</PRT_Q>
+        <PRT_ANSWER>2</PRT_ANSWER>
+        <PRT_CHOICE1>rapidly</PRT_CHOICE1>
+        <PRT_CHOICE2>goods</PRT_CHOICE2>
+        <PRT_CHOICE3>South America</PRT_CHOICE3>
+        <PRT_CHOICE4>reason</PRT_CHOICE4>
+        <CREATE_ID>sjin0201</CREATE_ID>
+        <CREATE_DATE>2018-11-16T00:11:04.487+09:00</CREATE_DATE>
+        <MODIFY_ID>sjin0201</MODIFY_ID>
+        <MODIFY_DATE>2019-01-20T16:44:55.607+09:00</MODIFY_DATE>
+        <SET_ID1>454916</SET_ID1>
+        <ACT_ID>28290</ACT_ID>
+        <ACT_TYPE>WL</ACT_TYPE>
+        <TITLE>Manaus</TITLE>
+        <TEST_TIME>0</TEST_TIME>
+        <ETC_INT1>0</ETC_INT1>
+        <ETC_INT2>0</ETC_INT2>
+        <CREATE_ID1>sjin0201</CREATE_ID1>
+        <CREATE_DATE1>2018-11-14T15:27:05.993+09:00</CREATE_DATE1>
+        <MODIFY_ID1>sjin0201</MODIFY_ID1>
+        <MODIFY_DATE1>2019-01-29T00:58:29.85+09:00</MODIFY_DATE1>
+        <DIC_ID1>181227</DIC_ID1>
+        <WORD>goods</WORD>
+        <WORD_TYPE>noun</WORD_TYPE>
+        <MEAN_E>things to buy or sell</MEAN_E>
+        <MEAN_K>상품</MEAN_K>
+        <PICTURE>goods_RFch2e1.png</PICTURE>
+        <MEDIA>goods_RFch2e1.mp3</MEDIA>
+        <EXAMPLE>The goods are of poor quality.</EXAMPLE>
+        <CREATE_ID2>sjin0201</CREATE_ID2>
+        <CREATE_DATE2>2018-11-16T00:10:14.707+09:00</CREATE_DATE2>
+        <MODIFY_ID2>sjin0201</MODIFY_ID2>
+        <MODIFY_DATE2>2019-01-20T16:44:55.617+09:00</MODIFY_DATE2>
+      </Table>
+      <Table diffgr:id="Table6" msdata:rowOrder="5">
+        <IDX>240274</IDX>
+        <SET_ID>454916</SET_ID>
+        <DIC_ID>181226</DIC_ID>
+        <PRT_Q>What is the ______ for your action?</PRT_Q>
+        <PRT_ANSWER>3</PRT_ANSWER>
+        <PRT_CHOICE1>electronic</PRT_CHOICE1>
+        <PRT_CHOICE2>rapidly</PRT_CHOICE2>
+        <PRT_CHOICE3>reason</PRT_CHOICE3>
+        <PRT_CHOICE4>South America</PRT_CHOICE4>
+        <CREATE_ID>sjin0201</CREATE_ID>
+        <CREATE_DATE>2018-11-16T00:11:04.49+09:00</CREATE_DATE>
+        <MODIFY_ID>sjin0201</MODIFY_ID>
+        <MODIFY_DATE>2019-01-20T16:45:32.223+09:00</MODIFY_DATE>
+        <SET_ID1>454916</SET_ID1>
+        <ACT_ID>28290</ACT_ID>
+        <ACT_TYPE>WL</ACT_TYPE>
+        <TITLE>Manaus</TITLE>
+        <TEST_TIME>0</TEST_TIME>
+        <ETC_INT1>0</ETC_INT1>
+        <ETC_INT2>0</ETC_INT2>
+        <CREATE_ID1>sjin0201</CREATE_ID1>
+        <CREATE_DATE1>2018-11-14T15:27:05.993+09:00</CREATE_DATE1>
+        <MODIFY_ID1>sjin0201</MODIFY_ID1>
+        <MODIFY_DATE1>2019-01-29T00:58:29.85+09:00</MODIFY_DATE1>
+        <DIC_ID1>181226</DIC_ID1>
+        <WORD>reason</WORD>
+        <WORD_TYPE>noun</WORD_TYPE>
+        <MEAN_E>an idea that explains why something is the way it is</MEAN_E>
+        <MEAN_K>이유</MEAN_K>
+        <PICTURE>reason_RFch2e1.png</PICTURE>
+        <MEDIA>reason_RFch2e1.mp3</MEDIA>
+        <EXAMPLE>What is the reason for your action?</EXAMPLE>
+        <CREATE_ID2>sjin0201</CREATE_ID2>
+        <CREATE_DATE2>2018-11-16T00:10:14.69+09:00</CREATE_DATE2>
+        <MODIFY_ID2>sjin0201</MODIFY_ID2>
+        <MODIFY_DATE2>2019-01-20T16:45:32.227+09:00</MODIFY_DATE2>
+      </Table>
+      <Table diffgr:id="Table7" msdata:rowOrder="6">
+        <IDX>240275</IDX>
+        <SET_ID>454916</SET_ID>
+        <DIC_ID>181225</DIC_ID>
+        <PRT_Q>The hotel is located in the _______ of the business district. </PRT_Q>
+        <PRT_ANSWER>3</PRT_ANSWER>
+        <PRT_CHOICE1>rubber</PRT_CHOICE1>
+        <PRT_CHOICE2>rapidly</PRT_CHOICE2>
+        <PRT_CHOICE3>center</PRT_CHOICE3>
+        <PRT_CHOICE4>rubber</PRT_CHOICE4>
+        <CREATE_ID>sjin0201</CREATE_ID>
+        <CREATE_DATE>2018-11-16T00:11:04.493+09:00</CREATE_DATE>
+        <MODIFY_ID>sjin0201</MODIFY_ID>
+        <MODIFY_DATE>2019-01-20T16:46:22.027+09:00</MODIFY_DATE>
+        <SET_ID1>454916</SET_ID1>
+        <ACT_ID>28290</ACT_ID>
+        <ACT_TYPE>WL</ACT_TYPE>
+        <TITLE>Manaus</TITLE>
+        <TEST_TIME>0</TEST_TIME>
+        <ETC_INT1>0</ETC_INT1>
+        <ETC_INT2>0</ETC_INT2>
+        <CREATE_ID1>sjin0201</CREATE_ID1>
+        <CREATE_DATE1>2018-11-14T15:27:05.993+09:00</CREATE_DATE1>
+        <MODIFY_ID1>sjin0201</MODIFY_ID1>
+        <MODIFY_DATE1>2019-01-29T00:58:29.85+09:00</MODIFY_DATE1>
+        <DIC_ID1>181225</DIC_ID1>
+        <WORD>center</WORD>
+        <WORD_TYPE>noun</WORD_TYPE>
+        <MEAN_E>the middle point or part</MEAN_E>
+        <MEAN_K>중앙</MEAN_K>
+        <PICTURE>center_RFch2e1.png</PICTURE>
+        <MEDIA>center_RFch2e1.mp3</MEDIA>
+        <EXAMPLE>The hotel is located in the center of the business district. </EXAMPLE>
+        <CREATE_ID2>sjin0201</CREATE_ID2>
+        <CREATE_DATE2>2018-11-16T00:10:14.677+09:00</CREATE_DATE2>
+        <MODIFY_ID2>sjin0201</MODIFY_ID2>
+        <MODIFY_DATE2>2019-01-20T16:46:22.03+09:00</MODIFY_DATE2>
+      </Table>
+      <Table diffgr:id="Table8" msdata:rowOrder="7">
+        <IDX>240276</IDX>
+        <SET_ID>454916</SET_ID>
+        <DIC_ID>181224</DIC_ID>
+        <PRT_Q>I want to run my own ________.</PRT_Q>
+        <PRT_ANSWER>4</PRT_ANSWER>
+        <PRT_CHOICE1>rapidly</PRT_CHOICE1>
+        <PRT_CHOICE2>electronic</PRT_CHOICE2>
+        <PRT_CHOICE3>South America</PRT_CHOICE3>
+        <PRT_CHOICE4>business</PRT_CHOICE4>
+        <CREATE_ID>sjin0201</CREATE_ID>
+        <CREATE_DATE>2018-11-16T00:11:04.493+09:00</CREATE_DATE>
+        <MODIFY_ID>sjin0201</MODIFY_ID>
+        <MODIFY_DATE>2019-01-20T16:47:23.48+09:00</MODIFY_DATE>
+        <SET_ID1>454916</SET_ID1>
+        <ACT_ID>28290</ACT_ID>
+        <ACT_TYPE>WL</ACT_TYPE>
+        <TITLE>Manaus</TITLE>
+        <TEST_TIME>0</TEST_TIME>
+        <ETC_INT1>0</ETC_INT1>
+        <ETC_INT2>0</ETC_INT2>
+        <CREATE_ID1>sjin0201</CREATE_ID1>
+        <CREATE_DATE1>2018-11-14T15:27:05.993+09:00</CREATE_DATE1>
+        <MODIFY_ID1>sjin0201</MODIFY_ID1>
+        <MODIFY_DATE1>2019-01-29T00:58:29.85+09:00</MODIFY_DATE1>
+        <DIC_ID1>181224</DIC_ID1>
+        <WORD>business</WORD>
+        <WORD_TYPE>noun</WORD_TYPE>
+        <MEAN_E>the act of making, buying, and selling things</MEAN_E>
+        <MEAN_K>사업</MEAN_K>
+        <PICTURE>business_RFch2e1.png</PICTURE>
+        <MEDIA>business_RFch2e1.mp3</MEDIA>
+        <EXAMPLE>I want to run my own business.</EXAMPLE>
+        <CREATE_ID2>sjin0201</CREATE_ID2>
+        <CREATE_DATE2>2018-11-16T00:10:14.667+09:00</CREATE_DATE2>
+        <MODIFY_ID2>sjin0201</MODIFY_ID2>
+        <MODIFY_DATE2>2019-01-20T16:47:23.48+09:00</MODIFY_DATE2>
+      </Table>
+    </NewDataSet>

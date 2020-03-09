@@ -1,0 +1,157 @@
+html,
+body {
+    width: 100%;
+    height: 100%;
+    font-family: Arial, Helvetica, sans-serif, "굴림";
+}
+
+body {
+    margin: 0 0 0 0;
+    background-color: #54a92e;
+    padding: 0;
+}
+
+.rd-block-card {
+    width: 1140px;
+    height: 780px;
+    background-color: #54A92E;
+    margin: 0 auto;
+}
+
+.rd-block-card-content {
+    width: 100%;
+    margin: 0 auto;
+    height: 100%;
+    position: relative;
+}
+
+.rd-block-card-header {
+    width: 100%;
+    height: 12%;
+}
+
+.rd-block-card-header img {
+    margin-top: 30px;
+    margin-left: 10px;
+}
+
+.rd-block-card-body {
+    width: 100%;
+    height: 88%;
+    background-color: rgba(255, 255, 255, 0.15);
+    border-radius: 10px;
+    padding: 5px 10px;
+    box-sizing: border-box;
+}
+
+.rd-block-card-body-content {
+    width: calc(100% - 20px);
+    height: calc(100% - 25px);
+    border-radius: 10px;
+    border: 3px #4b9121 solid;
+    background-color: #ff7e01;
+    padding: 10px;
+}
+
+.word-card-page .rd-block-card-body-content {
+    background-color: #ff7e01 !important;
+    width: calc(100% - 20px);
+    height: calc(100% - 25px);
+    border-radius: 10px;
+    border: 3px #4b9121 solid;
+    padding: 10px;
+}
+
+.word-card-page .rd-block-card-data {
+    background-color: #fffb89 !important;
+    border: 10px #fff solid;
+    width: calc(100% - 20px);
+    height: calc(100% - 20px);
+    border-radius: 10px;
+    position: relative;
+}
+
+.rd-block-card-body-content,
+.rd-block-card-data {
+    background: none;
+    background-color: #fff;
+}
+
+.rd-finished {
+    padding: 60px 90px 20px 90px;
+    max-height: 70%;
+}
+
+.rd-finished-content {
+    border: 1px #000 solid;
+    border-radius: 20px;
+    padding: 80px 110px;
+}
+
+.rd-finished-left {
+    width: 25%;
+    float: left;
+}
+
+.rd-finished-left img {
+    max-height: 280px;
+}
+
+.rd-finished-right {
+    width: 75%;
+    float: left;
+}
+
+.rd-finished-right-content {
+    padding-left: 100px;
+    text-align: center;
+}
+
+.rd-finished-right-content h3 {
+    font-size: 45px;
+    font-weight: bold;
+    color: #54a92e;
+    text-shadow: 0px 1px 5px rgba(0, 0, 0, .2);
+    margin-bottom: 65px;
+    margin-top: 0;
+}
+
+.rd-finished-right-content p {
+    font-size: 24px;
+}
+
+.clearfix {
+    clear: both;
+}
+
+img {
+    border: 0;
+    vertical-align: middle;
+}
+
+.rd-block-card-action {
+    position: absolute;
+    top: 12%;
+    right: -9%;
+    width: 7%;
+    text-align: center;
+    height: 88%;
+}
+
+.rd-block-card-action>div {
+    max-height: 15%;
+}
+
+.rd-block-card-action>div>a {
+    display: block;
+}
+
+.rd-block-card-action>div:first-child img {
+    max-width: 70%;
+}
+
+.rd-block-card-action img {
+    max-width: 100%;
+    margin-bottom: 10%;
+    max-height: 100%;
+}

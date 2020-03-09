@@ -1,0 +1,306 @@
+﻿<NewDataSet xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:diffgr="urn:schemas-microsoft-com:xml-diffgram-v1" xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <Table diffgr:id="Table1" msdata:rowOrder="0">
+        <IDX>240365</IDX>
+        <SET_ID>454989</SET_ID>
+        <DIC_ID>181327</DIC_ID>
+        <PRT_Q>An ice rink needs to be completely ______.</PRT_Q>
+        <PRT_ANSWER>2</PRT_ANSWER>
+        <PRT_CHOICE1>repeat</PRT_CHOICE1>
+        <PRT_CHOICE2>flat</PRT_CHOICE2>
+        <PRT_CHOICE3>situation</PRT_CHOICE3>
+        <PRT_CHOICE4>chest</PRT_CHOICE4>
+        <CREATE_ID>sjin0201</CREATE_ID>
+        <CREATE_DATE>2018-11-16T02:04:29.503+09:00</CREATE_DATE>
+        <MODIFY_ID>sjin0201</MODIFY_ID>
+        <MODIFY_DATE>2019-01-20T18:14:47.64+09:00</MODIFY_DATE>
+        <SET_ID1>454989</SET_ID1>
+        <ACT_ID>28302</ACT_ID>
+        <ACT_TYPE>WL</ACT_TYPE>
+        <TITLE>Golden Time that Saves Lives</TITLE>
+        <TEST_TIME>0</TEST_TIME>
+        <ETC_INT1>0</ETC_INT1>
+        <ETC_INT2>0</ETC_INT2>
+        <CREATE_ID1>sjin0201</CREATE_ID1>
+        <CREATE_DATE1>2018-11-14T15:33:54.933+09:00</CREATE_DATE1>
+        <MODIFY_ID1>sjin0201</MODIFY_ID1>
+        <MODIFY_DATE1>2019-01-29T01:07:17.013+09:00</MODIFY_DATE1>
+        <DIC_ID1>181327</DIC_ID1>
+        <WORD>flat</WORD>
+        <WORD_TYPE>noun</WORD_TYPE>
+        <MEAN_E>level and smooth, with no curved, high, or hollow parts:</MEAN_E>
+        <MEAN_K>평평한</MEAN_K>
+        <PICTURE>flat_RFch2e1.png</PICTURE>
+        <MEDIA>flat_RFch2e1.mp3</MEDIA>
+        <EXAMPLE>An ice rink needs to be completely flat.</EXAMPLE>
+        <CREATE_ID2>sjin0201</CREATE_ID2>
+        <CREATE_DATE2>2018-11-16T02:03:45+09:00</CREATE_DATE2>
+        <MODIFY_ID2>sjin0201</MODIFY_ID2>
+        <MODIFY_DATE2>2019-01-20T18:14:47.64+09:00</MODIFY_DATE2>
+      </Table>
+      <Table diffgr:id="Table2" msdata:rowOrder="1">
+        <IDX>240366</IDX>
+        <SET_ID>454989</SET_ID>
+        <DIC_ID>181326</DIC_ID>
+        <PRT_Q>We were in a difficult _______ because our car broke down.</PRT_Q>
+        <PRT_ANSWER>1</PRT_ANSWER>
+        <PRT_CHOICE1>situation</PRT_CHOICE1>
+        <PRT_CHOICE2>beat</PRT_CHOICE2>
+        <PRT_CHOICE3>chest</PRT_CHOICE3>
+        <PRT_CHOICE4>repeat</PRT_CHOICE4>
+        <CREATE_ID>sjin0201</CREATE_ID>
+        <CREATE_DATE>2018-11-16T02:04:29.507+09:00</CREATE_DATE>
+        <MODIFY_ID>sjin0201</MODIFY_ID>
+        <MODIFY_DATE>2019-01-20T18:16:08.287+09:00</MODIFY_DATE>
+        <SET_ID1>454989</SET_ID1>
+        <ACT_ID>28302</ACT_ID>
+        <ACT_TYPE>WL</ACT_TYPE>
+        <TITLE>Golden Time that Saves Lives</TITLE>
+        <TEST_TIME>0</TEST_TIME>
+        <ETC_INT1>0</ETC_INT1>
+        <ETC_INT2>0</ETC_INT2>
+        <CREATE_ID1>sjin0201</CREATE_ID1>
+        <CREATE_DATE1>2018-11-14T15:33:54.933+09:00</CREATE_DATE1>
+        <MODIFY_ID1>sjin0201</MODIFY_ID1>
+        <MODIFY_DATE1>2019-01-29T01:07:17.013+09:00</MODIFY_DATE1>
+        <DIC_ID1>181326</DIC_ID1>
+        <WORD>situation</WORD>
+        <WORD_TYPE>noun</WORD_TYPE>
+        <MEAN_E>an important or sudden problem</MEAN_E>
+        <MEAN_K>상황</MEAN_K>
+        <PICTURE>situation_RFch2e1.png</PICTURE>
+        <MEDIA>situation_RFch2e1.mp3</MEDIA>
+        <EXAMPLE>We were in a difficult situation because our car broke down.</EXAMPLE>
+        <CREATE_ID2>sjin0201</CREATE_ID2>
+        <CREATE_DATE2>2018-11-16T02:03:44.977+09:00</CREATE_DATE2>
+        <MODIFY_ID2>sjin0201</MODIFY_ID2>
+        <MODIFY_DATE2>2019-01-20T18:16:08.287+09:00</MODIFY_DATE2>
+      </Table>
+      <Table diffgr:id="Table3" msdata:rowOrder="2">
+        <IDX>240367</IDX>
+        <SET_ID>454989</SET_ID>
+        <DIC_ID>181325</DIC_ID>
+        <PRT_Q>Her heart started to ______ faster.</PRT_Q>
+        <PRT_ANSWER>4</PRT_ANSWER>
+        <PRT_CHOICE1>situation</PRT_CHOICE1>
+        <PRT_CHOICE2>chest</PRT_CHOICE2>
+        <PRT_CHOICE3>compression</PRT_CHOICE3>
+        <PRT_CHOICE4>beat</PRT_CHOICE4>
+        <CREATE_ID>sjin0201</CREATE_ID>
+        <CREATE_DATE>2018-11-16T02:04:29.51+09:00</CREATE_DATE>
+        <MODIFY_ID>sjin0201</MODIFY_ID>
+        <MODIFY_DATE>2019-01-20T18:16:36.987+09:00</MODIFY_DATE>
+        <SET_ID1>454989</SET_ID1>
+        <ACT_ID>28302</ACT_ID>
+        <ACT_TYPE>WL</ACT_TYPE>
+        <TITLE>Golden Time that Saves Lives</TITLE>
+        <TEST_TIME>0</TEST_TIME>
+        <ETC_INT1>0</ETC_INT1>
+        <ETC_INT2>0</ETC_INT2>
+        <CREATE_ID1>sjin0201</CREATE_ID1>
+        <CREATE_DATE1>2018-11-14T15:33:54.933+09:00</CREATE_DATE1>
+        <MODIFY_ID1>sjin0201</MODIFY_ID1>
+        <MODIFY_DATE1>2019-01-29T01:07:17.013+09:00</MODIFY_DATE1>
+        <DIC_ID1>181325</DIC_ID1>
+        <WORD>beat</WORD>
+        <WORD_TYPE>noun</WORD_TYPE>
+        <MEAN_E>to hit repeatedly</MEAN_E>
+        <MEAN_K>두드리다, (심장 등이) 뛰다</MEAN_K>
+        <PICTURE>beat_RFch2e1.png</PICTURE>
+        <MEDIA>beat_RFch2e1.mp3</MEDIA>
+        <EXAMPLE>Her heart started to beat faster.</EXAMPLE>
+        <CREATE_ID2>sjin0201</CREATE_ID2>
+        <CREATE_DATE2>2018-11-16T02:03:44.977+09:00</CREATE_DATE2>
+        <MODIFY_ID2>sjin0201</MODIFY_ID2>
+        <MODIFY_DATE2>2019-01-20T18:16:36.99+09:00</MODIFY_DATE2>
+      </Table>
+      <Table diffgr:id="Table4" msdata:rowOrder="3">
+        <IDX>240368</IDX>
+        <SET_ID>454989</SET_ID>
+        <DIC_ID>181324</DIC_ID>
+        <PRT_Q>He folded his arms across his ______.</PRT_Q>
+        <PRT_ANSWER>2</PRT_ANSWER>
+        <PRT_CHOICE1>compression</PRT_CHOICE1>
+        <PRT_CHOICE2>chest</PRT_CHOICE2>
+        <PRT_CHOICE3>weight</PRT_CHOICE3>
+        <PRT_CHOICE4>beat</PRT_CHOICE4>
+        <CREATE_ID>sjin0201</CREATE_ID>
+        <CREATE_DATE>2018-11-16T02:04:29.51+09:00</CREATE_DATE>
+        <MODIFY_ID>sjin0201</MODIFY_ID>
+        <MODIFY_DATE>2019-01-20T18:14:22.14+09:00</MODIFY_DATE>
+        <SET_ID1>454989</SET_ID1>
+        <ACT_ID>28302</ACT_ID>
+        <ACT_TYPE>WL</ACT_TYPE>
+        <TITLE>Golden Time that Saves Lives</TITLE>
+        <TEST_TIME>0</TEST_TIME>
+        <ETC_INT1>0</ETC_INT1>
+        <ETC_INT2>0</ETC_INT2>
+        <CREATE_ID1>sjin0201</CREATE_ID1>
+        <CREATE_DATE1>2018-11-14T15:33:54.933+09:00</CREATE_DATE1>
+        <MODIFY_ID1>sjin0201</MODIFY_ID1>
+        <MODIFY_DATE1>2019-01-29T01:07:17.013+09:00</MODIFY_DATE1>
+        <DIC_ID1>181324</DIC_ID1>
+        <WORD>chest</WORD>
+        <WORD_TYPE>noun</WORD_TYPE>
+        <MEAN_E>the upper front part of the body of humans and some animals</MEAN_E>
+        <MEAN_K>흉부</MEAN_K>
+        <PICTURE>chest_RFch2e1.png</PICTURE>
+        <MEDIA>chest_RFch2e1.mp3</MEDIA>
+        <EXAMPLE>He folded his arms across his chest.</EXAMPLE>
+        <CREATE_ID2>sjin0201</CREATE_ID2>
+        <CREATE_DATE2>2018-11-16T02:03:44.973+09:00</CREATE_DATE2>
+        <MODIFY_ID2>sjin0201</MODIFY_ID2>
+        <MODIFY_DATE2>2019-01-20T18:14:22.14+09:00</MODIFY_DATE2>
+      </Table>
+      <Table diffgr:id="Table5" msdata:rowOrder="4">
+        <IDX>240369</IDX>
+        <SET_ID>454989</SET_ID>
+        <DIC_ID>181323</DIC_ID>
+        <PRT_Q>Chest ______ which are done in the golden time can saves lives.</PRT_Q>
+        <PRT_ANSWER>2</PRT_ANSWER>
+        <PRT_CHOICE1>flat</PRT_CHOICE1>
+        <PRT_CHOICE2>compressions</PRT_CHOICE2>
+        <PRT_CHOICE3>repeat</PRT_CHOICE3>
+        <PRT_CHOICE4>situation</PRT_CHOICE4>
+        <CREATE_ID>sjin0201</CREATE_ID>
+        <CREATE_DATE>2018-11-16T02:04:29.513+09:00</CREATE_DATE>
+        <MODIFY_ID>sjin0201</MODIFY_ID>
+        <MODIFY_DATE>2019-01-20T18:18:32.163+09:00</MODIFY_DATE>
+        <SET_ID1>454989</SET_ID1>
+        <ACT_ID>28302</ACT_ID>
+        <ACT_TYPE>WL</ACT_TYPE>
+        <TITLE>Golden Time that Saves Lives</TITLE>
+        <TEST_TIME>0</TEST_TIME>
+        <ETC_INT1>0</ETC_INT1>
+        <ETC_INT2>0</ETC_INT2>
+        <CREATE_ID1>sjin0201</CREATE_ID1>
+        <CREATE_DATE1>2018-11-14T15:33:54.933+09:00</CREATE_DATE1>
+        <MODIFY_ID1>sjin0201</MODIFY_ID1>
+        <MODIFY_DATE1>2019-01-29T01:07:17.013+09:00</MODIFY_DATE1>
+        <DIC_ID1>181323</DIC_ID1>
+        <WORD>compression</WORD>
+        <WORD_TYPE>noun</WORD_TYPE>
+        <MEAN_E>pressing something to make it smaller</MEAN_E>
+        <MEAN_K>압박</MEAN_K>
+        <PICTURE>compression_RFch2e1.png</PICTURE>
+        <MEDIA>compression_RFch2e1.mp3</MEDIA>
+        <EXAMPLE>Chest compressions which are done in the golden time can saves lives.</EXAMPLE>
+        <CREATE_ID2>sjin0201</CREATE_ID2>
+        <CREATE_DATE2>2018-11-16T02:03:44.973+09:00</CREATE_DATE2>
+        <MODIFY_ID2>sjin0201</MODIFY_ID2>
+        <MODIFY_DATE2>2019-01-20T18:18:32.167+09:00</MODIFY_DATE2>
+      </Table>
+      <Table diffgr:id="Table6" msdata:rowOrder="5">
+        <IDX>240370</IDX>
+        <SET_ID>454989</SET_ID>
+        <DIC_ID>181322</DIC_ID>
+        <PRT_Q>There was a slight decrease in his ______ after a week of dieting.</PRT_Q>
+        <PRT_ANSWER>3</PRT_ANSWER>
+        <PRT_CHOICE1>flat</PRT_CHOICE1>
+        <PRT_CHOICE2>situation</PRT_CHOICE2>
+        <PRT_CHOICE3>weight</PRT_CHOICE3>
+        <PRT_CHOICE4>chest</PRT_CHOICE4>
+        <CREATE_ID>sjin0201</CREATE_ID>
+        <CREATE_DATE>2018-11-16T02:04:29.517+09:00</CREATE_DATE>
+        <MODIFY_ID>sjin0201</MODIFY_ID>
+        <MODIFY_DATE>2019-01-20T18:18:32.17+09:00</MODIFY_DATE>
+        <SET_ID1>454989</SET_ID1>
+        <ACT_ID>28302</ACT_ID>
+        <ACT_TYPE>WL</ACT_TYPE>
+        <TITLE>Golden Time that Saves Lives</TITLE>
+        <TEST_TIME>0</TEST_TIME>
+        <ETC_INT1>0</ETC_INT1>
+        <ETC_INT2>0</ETC_INT2>
+        <CREATE_ID1>sjin0201</CREATE_ID1>
+        <CREATE_DATE1>2018-11-14T15:33:54.933+09:00</CREATE_DATE1>
+        <MODIFY_ID1>sjin0201</MODIFY_ID1>
+        <MODIFY_DATE1>2019-01-29T01:07:17.013+09:00</MODIFY_DATE1>
+        <DIC_ID1>181322</DIC_ID1>
+        <WORD>weight</WORD>
+        <WORD_TYPE>noun</WORD_TYPE>
+        <MEAN_E>the amount that something or someone weighs:</MEAN_E>
+        <MEAN_K>무게</MEAN_K>
+        <PICTURE>weight_RFch2e1.png</PICTURE>
+        <MEDIA>weight_RFch2e1.mp3</MEDIA>
+        <EXAMPLE>There was a slight decrease in his weight after a week of dieting.</EXAMPLE>
+        <CREATE_ID2>sjin0201</CREATE_ID2>
+        <CREATE_DATE2>2018-11-16T02:03:44.967+09:00</CREATE_DATE2>
+        <MODIFY_ID2>sjin0201</MODIFY_ID2>
+        <MODIFY_DATE2>2019-01-20T18:18:32.17+09:00</MODIFY_DATE2>
+      </Table>
+      <Table diffgr:id="Table7" msdata:rowOrder="6">
+        <IDX>240371</IDX>
+        <SET_ID>454989</SET_ID>
+        <DIC_ID>181321</DIC_ID>
+        <PRT_Q>He _______ the rabbit from the trap.</PRT_Q>
+        <PRT_ANSWER>4</PRT_ANSWER>
+        <PRT_CHOICE1>situation</PRT_CHOICE1>
+        <PRT_CHOICE2>flat</PRT_CHOICE2>
+        <PRT_CHOICE3>chest</PRT_CHOICE3>
+        <PRT_CHOICE4>released </PRT_CHOICE4>
+        <CREATE_ID>sjin0201</CREATE_ID>
+        <CREATE_DATE>2018-11-16T02:04:29.52+09:00</CREATE_DATE>
+        <MODIFY_ID>sjin0201</MODIFY_ID>
+        <MODIFY_DATE>2019-01-20T18:19:01.997+09:00</MODIFY_DATE>
+        <SET_ID1>454989</SET_ID1>
+        <ACT_ID>28302</ACT_ID>
+        <ACT_TYPE>WL</ACT_TYPE>
+        <TITLE>Golden Time that Saves Lives</TITLE>
+        <TEST_TIME>0</TEST_TIME>
+        <ETC_INT1>0</ETC_INT1>
+        <ETC_INT2>0</ETC_INT2>
+        <CREATE_ID1>sjin0201</CREATE_ID1>
+        <CREATE_DATE1>2018-11-14T15:33:54.933+09:00</CREATE_DATE1>
+        <MODIFY_ID1>sjin0201</MODIFY_ID1>
+        <MODIFY_DATE1>2019-01-29T01:07:17.013+09:00</MODIFY_DATE1>
+        <DIC_ID1>181321</DIC_ID1>
+        <WORD>release</WORD>
+        <WORD_TYPE>noun</WORD_TYPE>
+        <MEAN_E>to give freedom or free movement to someone or something:</MEAN_E>
+        <MEAN_K>풀어 주다</MEAN_K>
+        <PICTURE>release repeat_RFch2e1.png</PICTURE>
+        <MEDIA>release_RFch2e1.mp3</MEDIA>
+        <EXAMPLE>He released the rabbit from the trap.</EXAMPLE>
+        <CREATE_ID2>sjin0201</CREATE_ID2>
+        <CREATE_DATE2>2018-11-16T02:03:44.967+09:00</CREATE_DATE2>
+        <MODIFY_ID2>sjin0201</MODIFY_ID2>
+        <MODIFY_DATE2>2019-01-20T18:19:01.997+09:00</MODIFY_DATE2>
+      </Table>
+      <Table diffgr:id="Table8" msdata:rowOrder="7">
+        <IDX>240372</IDX>
+        <SET_ID>454989</SET_ID>
+        <DIC_ID>181320</DIC_ID>
+        <PRT_Q>Can you please ________ the question?</PRT_Q>
+        <PRT_ANSWER>3</PRT_ANSWER>
+        <PRT_CHOICE1>chest</PRT_CHOICE1>
+        <PRT_CHOICE2>weight</PRT_CHOICE2>
+        <PRT_CHOICE3>repeat</PRT_CHOICE3>
+        <PRT_CHOICE4>compression</PRT_CHOICE4>
+        <CREATE_ID>sjin0201</CREATE_ID>
+        <CREATE_DATE>2018-11-16T02:04:29.52+09:00</CREATE_DATE>
+        <MODIFY_ID>sjin0201</MODIFY_ID>
+        <MODIFY_DATE>2019-01-20T18:19:35.317+09:00</MODIFY_DATE>
+        <SET_ID1>454989</SET_ID1>
+        <ACT_ID>28302</ACT_ID>
+        <ACT_TYPE>WL</ACT_TYPE>
+        <TITLE>Golden Time that Saves Lives</TITLE>
+        <TEST_TIME>0</TEST_TIME>
+        <ETC_INT1>0</ETC_INT1>
+        <ETC_INT2>0</ETC_INT2>
+        <CREATE_ID1>sjin0201</CREATE_ID1>
+        <CREATE_DATE1>2018-11-14T15:33:54.933+09:00</CREATE_DATE1>
+        <MODIFY_ID1>sjin0201</MODIFY_ID1>
+        <MODIFY_DATE1>2019-01-29T01:07:17.013+09:00</MODIFY_DATE1>
+        <DIC_ID1>181320</DIC_ID1>
+        <WORD>repeat</WORD>
+        <WORD_TYPE>noun</WORD_TYPE>
+        <MEAN_E>to happen, or to do something, more than once:</MEAN_E>
+        <MEAN_K>반복하다</MEAN_K>
+        <PICTURE>repeat_RFch2e1.png</PICTURE>
+        <MEDIA>repeat_RFch2e1.mp3</MEDIA>
+        <EXAMPLE>Can you please repeat the question?</EXAMPLE>
+        <CREATE_ID2>sjin0201</CREATE_ID2>
+        <CREATE_DATE2>2018-11-16T02:03:44.95+09:00</CREATE_DATE2>
+        <MODIFY_ID2>sjin0201</MODIFY_ID2>
+        <MODIFY_DATE2>2019-01-20T18:19:35.32+09:00</MODIFY_DATE2>
+      </Table>
+    </NewDataSet>

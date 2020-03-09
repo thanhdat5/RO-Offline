@@ -1,0 +1,306 @@
+﻿<NewDataSet xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:diffgr="urn:schemas-microsoft-com:xml-diffgram-v1" xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <Table diffgr:id="Table1" msdata:rowOrder="0">
+        <IDX>240333</IDX>
+        <SET_ID>454964</SET_ID>
+        <DIC_ID>181295</DIC_ID>
+        <PRT_Q>Using ______ energy is good for the environment.</PRT_Q>
+        <PRT_ANSWER>1</PRT_ANSWER>
+        <PRT_CHOICE1>solar</PRT_CHOICE1>
+        <PRT_CHOICE2>intend</PRT_CHOICE2>
+        <PRT_CHOICE3>condition</PRT_CHOICE3>
+        <PRT_CHOICE4>delay</PRT_CHOICE4>
+        <CREATE_ID>sjin0201</CREATE_ID>
+        <CREATE_DATE>2018-11-16T01:34:02.19+09:00</CREATE_DATE>
+        <MODIFY_ID>sjin0201</MODIFY_ID>
+        <MODIFY_DATE>2019-01-20T17:48:23.33+09:00</MODIFY_DATE>
+        <SET_ID1>454964</SET_ID1>
+        <ACT_ID>28298</ACT_ID>
+        <ACT_TYPE>WL</ACT_TYPE>
+        <TITLE>Solar Flight History</TITLE>
+        <TEST_TIME>0</TEST_TIME>
+        <ETC_INT1>0</ETC_INT1>
+        <ETC_INT2>0</ETC_INT2>
+        <CREATE_ID1>sjin0201</CREATE_ID1>
+        <CREATE_DATE1>2018-11-14T15:31:33.253+09:00</CREATE_DATE1>
+        <MODIFY_ID1>sjin0201</MODIFY_ID1>
+        <MODIFY_DATE1>2019-01-29T01:04:32.33+09:00</MODIFY_DATE1>
+        <DIC_ID1>181295</DIC_ID1>
+        <WORD>solar</WORD>
+        <WORD_TYPE>noun</WORD_TYPE>
+        <MEAN_E>relating to the sun</MEAN_E>
+        <MEAN_K>태양의</MEAN_K>
+        <PICTURE>solar_RFch2e1.png</PICTURE>
+        <MEDIA>solar_RFch2e1.mp3</MEDIA>
+        <EXAMPLE>Using solar energy is good for the environment.</EXAMPLE>
+        <CREATE_ID2>sjin0201</CREATE_ID2>
+        <CREATE_DATE2>2018-11-16T01:33:09.85+09:00</CREATE_DATE2>
+        <MODIFY_ID2>sjin0201</MODIFY_ID2>
+        <MODIFY_DATE2>2019-01-20T17:48:23.33+09:00</MODIFY_DATE2>
+      </Table>
+      <Table diffgr:id="Table2" msdata:rowOrder="1">
+        <IDX>240334</IDX>
+        <SET_ID>454964</SET_ID>
+        <DIC_ID>181294</DIC_ID>
+        <PRT_Q>How long do you ______ to stay in Paris?</PRT_Q>
+        <PRT_ANSWER>3</PRT_ANSWER>
+        <PRT_CHOICE1>technical</PRT_CHOICE1>
+        <PRT_CHOICE2>renewable</PRT_CHOICE2>
+        <PRT_CHOICE3>intend</PRT_CHOICE3>
+        <PRT_CHOICE4>successfully</PRT_CHOICE4>
+        <CREATE_ID>sjin0201</CREATE_ID>
+        <CREATE_DATE>2018-11-16T01:34:02.19+09:00</CREATE_DATE>
+        <MODIFY_ID>sjin0201</MODIFY_ID>
+        <MODIFY_DATE>2019-01-20T17:48:38.087+09:00</MODIFY_DATE>
+        <SET_ID1>454964</SET_ID1>
+        <ACT_ID>28298</ACT_ID>
+        <ACT_TYPE>WL</ACT_TYPE>
+        <TITLE>Solar Flight History</TITLE>
+        <TEST_TIME>0</TEST_TIME>
+        <ETC_INT1>0</ETC_INT1>
+        <ETC_INT2>0</ETC_INT2>
+        <CREATE_ID1>sjin0201</CREATE_ID1>
+        <CREATE_DATE1>2018-11-14T15:31:33.253+09:00</CREATE_DATE1>
+        <MODIFY_ID1>sjin0201</MODIFY_ID1>
+        <MODIFY_DATE1>2019-01-29T01:04:32.33+09:00</MODIFY_DATE1>
+        <DIC_ID1>181294</DIC_ID1>
+        <WORD>intend</WORD>
+        <WORD_TYPE>noun</WORD_TYPE>
+        <MEAN_E>to want and plan to do something</MEAN_E>
+        <MEAN_K>의도하다</MEAN_K>
+        <PICTURE>intend_RFch2e1.png</PICTURE>
+        <MEDIA>intend_RFch2e1.mp3</MEDIA>
+        <EXAMPLE>How long do you intend to stay in Paris?</EXAMPLE>
+        <CREATE_ID2>sjin0201</CREATE_ID2>
+        <CREATE_DATE2>2018-11-16T01:33:09.837+09:00</CREATE_DATE2>
+        <MODIFY_ID2>sjin0201</MODIFY_ID2>
+        <MODIFY_DATE2>2019-01-20T17:48:38.087+09:00</MODIFY_DATE2>
+      </Table>
+      <Table diffgr:id="Table3" msdata:rowOrder="2">
+        <IDX>240335</IDX>
+        <SET_ID>454964</SET_ID>
+        <DIC_ID>181293</DIC_ID>
+        <PRT_Q>________ energy sources such as wind and solar power.</PRT_Q>
+        <PRT_ANSWER>2</PRT_ANSWER>
+        <PRT_CHOICE1>Successfully</PRT_CHOICE1>
+        <PRT_CHOICE2>Renewable </PRT_CHOICE2>
+        <PRT_CHOICE3>Delay</PRT_CHOICE3>
+        <PRT_CHOICE4>Intend</PRT_CHOICE4>
+        <CREATE_ID>sjin0201</CREATE_ID>
+        <CREATE_DATE>2018-11-16T01:34:02.193+09:00</CREATE_DATE>
+        <MODIFY_ID>sjin0201</MODIFY_ID>
+        <MODIFY_DATE>2019-01-20T17:49:06.85+09:00</MODIFY_DATE>
+        <SET_ID1>454964</SET_ID1>
+        <ACT_ID>28298</ACT_ID>
+        <ACT_TYPE>WL</ACT_TYPE>
+        <TITLE>Solar Flight History</TITLE>
+        <TEST_TIME>0</TEST_TIME>
+        <ETC_INT1>0</ETC_INT1>
+        <ETC_INT2>0</ETC_INT2>
+        <CREATE_ID1>sjin0201</CREATE_ID1>
+        <CREATE_DATE1>2018-11-14T15:31:33.253+09:00</CREATE_DATE1>
+        <MODIFY_ID1>sjin0201</MODIFY_ID1>
+        <MODIFY_DATE1>2019-01-29T01:04:32.33+09:00</MODIFY_DATE1>
+        <DIC_ID1>181293</DIC_ID1>
+        <WORD>renewable</WORD>
+        <WORD_TYPE>noun</WORD_TYPE>
+        <MEAN_E>naturally able to be reused again</MEAN_E>
+        <MEAN_K>재생 가능한</MEAN_K>
+        <PICTURE>renewable_RFch2e1.png</PICTURE>
+        <MEDIA>renewable_RFch2e1.mp3</MEDIA>
+        <EXAMPLE>Renewable energy sources such as wind and solar power.</EXAMPLE>
+        <CREATE_ID2>sjin0201</CREATE_ID2>
+        <CREATE_DATE2>2018-11-16T01:33:09.823+09:00</CREATE_DATE2>
+        <MODIFY_ID2>sjin0201</MODIFY_ID2>
+        <MODIFY_DATE2>2019-01-20T17:49:06.853+09:00</MODIFY_DATE2>
+      </Table>
+      <Table diffgr:id="Table4" msdata:rowOrder="3">
+        <IDX>240336</IDX>
+        <SET_ID>454964</SET_ID>
+        <DIC_ID>181292</DIC_ID>
+        <PRT_Q>If you have any problems with your new computer, we offer 24-hour ______ support.</PRT_Q>
+        <PRT_ANSWER>3</PRT_ANSWER>
+        <PRT_CHOICE1>successfully</PRT_CHOICE1>
+        <PRT_CHOICE2>delay</PRT_CHOICE2>
+        <PRT_CHOICE3>technical</PRT_CHOICE3>
+        <PRT_CHOICE4>intend</PRT_CHOICE4>
+        <CREATE_ID>sjin0201</CREATE_ID>
+        <CREATE_DATE>2018-11-16T01:34:02.197+09:00</CREATE_DATE>
+        <MODIFY_ID>sjin0201</MODIFY_ID>
+        <MODIFY_DATE>2019-01-20T17:50:08.64+09:00</MODIFY_DATE>
+        <SET_ID1>454964</SET_ID1>
+        <ACT_ID>28298</ACT_ID>
+        <ACT_TYPE>WL</ACT_TYPE>
+        <TITLE>Solar Flight History</TITLE>
+        <TEST_TIME>0</TEST_TIME>
+        <ETC_INT1>0</ETC_INT1>
+        <ETC_INT2>0</ETC_INT2>
+        <CREATE_ID1>sjin0201</CREATE_ID1>
+        <CREATE_DATE1>2018-11-14T15:31:33.253+09:00</CREATE_DATE1>
+        <MODIFY_ID1>sjin0201</MODIFY_ID1>
+        <MODIFY_DATE1>2019-01-29T01:04:32.33+09:00</MODIFY_DATE1>
+        <DIC_ID1>181292</DIC_ID1>
+        <WORD>technical</WORD>
+        <WORD_TYPE>noun</WORD_TYPE>
+        <MEAN_E>related to the use of machines and/or technology</MEAN_E>
+        <MEAN_K>기술적인</MEAN_K>
+        <PICTURE>technical_RFch2e1.png</PICTURE>
+        <MEDIA>technical_RFch2e1.mp3</MEDIA>
+        <EXAMPLE>If you have any problems with your new computer, we offer 24-hour technical support.</EXAMPLE>
+        <CREATE_ID2>sjin0201</CREATE_ID2>
+        <CREATE_DATE2>2018-11-16T01:33:09.823+09:00</CREATE_DATE2>
+        <MODIFY_ID2>sjin0201</MODIFY_ID2>
+        <MODIFY_DATE2>2019-01-20T17:50:08.643+09:00</MODIFY_DATE2>
+      </Table>
+      <Table diffgr:id="Table5" msdata:rowOrder="4">
+        <IDX>240337</IDX>
+        <SET_ID>454964</SET_ID>
+        <DIC_ID>181291</DIC_ID>
+        <PRT_Q>My bike’s a few years old but it’s in really good _______.</PRT_Q>
+        <PRT_ANSWER>3</PRT_ANSWER>
+        <PRT_CHOICE1>delay</PRT_CHOICE1>
+        <PRT_CHOICE2>solar</PRT_CHOICE2>
+        <PRT_CHOICE3>condition</PRT_CHOICE3>
+        <PRT_CHOICE4>intend</PRT_CHOICE4>
+        <CREATE_ID>sjin0201</CREATE_ID>
+        <CREATE_DATE>2018-11-16T01:34:02.2+09:00</CREATE_DATE>
+        <MODIFY_ID>sjin0201</MODIFY_ID>
+        <MODIFY_DATE>2019-01-20T17:50:42.713+09:00</MODIFY_DATE>
+        <SET_ID1>454964</SET_ID1>
+        <ACT_ID>28298</ACT_ID>
+        <ACT_TYPE>WL</ACT_TYPE>
+        <TITLE>Solar Flight History</TITLE>
+        <TEST_TIME>0</TEST_TIME>
+        <ETC_INT1>0</ETC_INT1>
+        <ETC_INT2>0</ETC_INT2>
+        <CREATE_ID1>sjin0201</CREATE_ID1>
+        <CREATE_DATE1>2018-11-14T15:31:33.253+09:00</CREATE_DATE1>
+        <MODIFY_ID1>sjin0201</MODIFY_ID1>
+        <MODIFY_DATE1>2019-01-29T01:04:32.33+09:00</MODIFY_DATE1>
+        <DIC_ID1>181291</DIC_ID1>
+        <WORD>condition</WORD>
+        <WORD_TYPE>noun</WORD_TYPE>
+        <MEAN_E>how good or bad something is</MEAN_E>
+        <MEAN_K>환경, 조건, 상태</MEAN_K>
+        <PICTURE>condition_RFch2e1.png</PICTURE>
+        <MEDIA>condition_RFch2e1.mp3</MEDIA>
+        <EXAMPLE>My bike’s a few years old but it’s in really good condition.</EXAMPLE>
+        <CREATE_ID2>sjin0201</CREATE_ID2>
+        <CREATE_DATE2>2018-11-16T01:33:09.82+09:00</CREATE_DATE2>
+        <MODIFY_ID2>admin</MODIFY_ID2>
+        <MODIFY_DATE2>2020-01-31T20:32:05.947+09:00</MODIFY_DATE2>
+      </Table>
+      <Table diffgr:id="Table6" msdata:rowOrder="5">
+        <IDX>240338</IDX>
+        <SET_ID>454964</SET_ID>
+        <DIC_ID>181290</DIC_ID>
+        <PRT_Q>My plane was ______ by an hour.</PRT_Q>
+        <PRT_ANSWER>3</PRT_ANSWER>
+        <PRT_CHOICE1>successfully</PRT_CHOICE1>
+        <PRT_CHOICE2>solar</PRT_CHOICE2>
+        <PRT_CHOICE3>delayed</PRT_CHOICE3>
+        <PRT_CHOICE4>intend</PRT_CHOICE4>
+        <CREATE_ID>sjin0201</CREATE_ID>
+        <CREATE_DATE>2018-11-16T01:34:02.203+09:00</CREATE_DATE>
+        <MODIFY_ID>sjin0201</MODIFY_ID>
+        <MODIFY_DATE>2019-01-20T17:52:03.39+09:00</MODIFY_DATE>
+        <SET_ID1>454964</SET_ID1>
+        <ACT_ID>28298</ACT_ID>
+        <ACT_TYPE>WL</ACT_TYPE>
+        <TITLE>Solar Flight History</TITLE>
+        <TEST_TIME>0</TEST_TIME>
+        <ETC_INT1>0</ETC_INT1>
+        <ETC_INT2>0</ETC_INT2>
+        <CREATE_ID1>sjin0201</CREATE_ID1>
+        <CREATE_DATE1>2018-11-14T15:31:33.253+09:00</CREATE_DATE1>
+        <MODIFY_ID1>sjin0201</MODIFY_ID1>
+        <MODIFY_DATE1>2019-01-29T01:04:32.33+09:00</MODIFY_DATE1>
+        <DIC_ID1>181290</DIC_ID1>
+        <WORD>delay</WORD>
+        <WORD_TYPE>noun</WORD_TYPE>
+        <MEAN_E>to make something happen at a later time than originally planned</MEAN_E>
+        <MEAN_K>연기하다</MEAN_K>
+        <PICTURE>delay_RFch2e1.png</PICTURE>
+        <MEDIA>delay_RFch2e1.mp3</MEDIA>
+        <EXAMPLE>My plane was delayed by an hour.</EXAMPLE>
+        <CREATE_ID2>sjin0201</CREATE_ID2>
+        <CREATE_DATE2>2018-11-16T01:33:09.797+09:00</CREATE_DATE2>
+        <MODIFY_ID2>sjin0201</MODIFY_ID2>
+        <MODIFY_DATE2>2019-01-20T17:52:03.39+09:00</MODIFY_DATE2>
+      </Table>
+      <Table diffgr:id="Table7" msdata:rowOrder="6">
+        <IDX>240339</IDX>
+        <SET_ID>454964</SET_ID>
+        <DIC_ID>181289</DIC_ID>
+        <PRT_Q>She will get the job she wants - she's a very ______ person.</PRT_Q>
+        <PRT_ANSWER>4</PRT_ANSWER>
+        <PRT_CHOICE1>delay</PRT_CHOICE1>
+        <PRT_CHOICE2>intend</PRT_CHOICE2>
+        <PRT_CHOICE3>solar</PRT_CHOICE3>
+        <PRT_CHOICE4>determined</PRT_CHOICE4>
+        <CREATE_ID>sjin0201</CREATE_ID>
+        <CREATE_DATE>2018-11-16T01:34:02.207+09:00</CREATE_DATE>
+        <MODIFY_ID>sjin0201</MODIFY_ID>
+        <MODIFY_DATE>2019-01-20T17:52:57.427+09:00</MODIFY_DATE>
+        <SET_ID1>454964</SET_ID1>
+        <ACT_ID>28298</ACT_ID>
+        <ACT_TYPE>WL</ACT_TYPE>
+        <TITLE>Solar Flight History</TITLE>
+        <TEST_TIME>0</TEST_TIME>
+        <ETC_INT1>0</ETC_INT1>
+        <ETC_INT2>0</ETC_INT2>
+        <CREATE_ID1>sjin0201</CREATE_ID1>
+        <CREATE_DATE1>2018-11-14T15:31:33.253+09:00</CREATE_DATE1>
+        <MODIFY_ID1>sjin0201</MODIFY_ID1>
+        <MODIFY_DATE1>2019-01-29T01:04:32.33+09:00</MODIFY_DATE1>
+        <DIC_ID1>181289</DIC_ID1>
+        <WORD>determined</WORD>
+        <WORD_TYPE>noun</WORD_TYPE>
+        <MEAN_E>having a strong feeling that you are going to do something</MEAN_E>
+        <MEAN_K>단단히 결심한</MEAN_K>
+        <PICTURE>determined_RFch2e1.png</PICTURE>
+        <MEDIA>determined_RFch2e1.mp3</MEDIA>
+        <EXAMPLE>She will get the job she wants - she's a very determined person.</EXAMPLE>
+        <CREATE_ID2>sjin0201</CREATE_ID2>
+        <CREATE_DATE2>2018-11-16T01:33:09.797+09:00</CREATE_DATE2>
+        <MODIFY_ID2>sjin0201</MODIFY_ID2>
+        <MODIFY_DATE2>2019-01-20T17:52:57.43+09:00</MODIFY_DATE2>
+      </Table>
+      <Table diffgr:id="Table8" msdata:rowOrder="7">
+        <IDX>240340</IDX>
+        <SET_ID>454964</SET_ID>
+        <DIC_ID>181288</DIC_ID>
+        <PRT_Q>My husband ________ completed a master's degree.</PRT_Q>
+        <PRT_ANSWER>2</PRT_ANSWER>
+        <PRT_CHOICE1>determined</PRT_CHOICE1>
+        <PRT_CHOICE2>successfully</PRT_CHOICE2>
+        <PRT_CHOICE3>technical</PRT_CHOICE3>
+        <PRT_CHOICE4>delay</PRT_CHOICE4>
+        <CREATE_ID>sjin0201</CREATE_ID>
+        <CREATE_DATE>2018-11-16T01:34:02.21+09:00</CREATE_DATE>
+        <MODIFY_ID>sjin0201</MODIFY_ID>
+        <MODIFY_DATE>2019-01-20T17:52:57.43+09:00</MODIFY_DATE>
+        <SET_ID1>454964</SET_ID1>
+        <ACT_ID>28298</ACT_ID>
+        <ACT_TYPE>WL</ACT_TYPE>
+        <TITLE>Solar Flight History</TITLE>
+        <TEST_TIME>0</TEST_TIME>
+        <ETC_INT1>0</ETC_INT1>
+        <ETC_INT2>0</ETC_INT2>
+        <CREATE_ID1>sjin0201</CREATE_ID1>
+        <CREATE_DATE1>2018-11-14T15:31:33.253+09:00</CREATE_DATE1>
+        <MODIFY_ID1>sjin0201</MODIFY_ID1>
+        <MODIFY_DATE1>2019-01-29T01:04:32.33+09:00</MODIFY_DATE1>
+        <DIC_ID1>181288</DIC_ID1>
+        <WORD>successfully</WORD>
+        <WORD_TYPE>noun</WORD_TYPE>
+        <MEAN_E>achieving the results wanted or hoped for</MEAN_E>
+        <MEAN_K>성공적으로</MEAN_K>
+        <PICTURE>successfully_RFch2e1.png</PICTURE>
+        <MEDIA>successfully_RFch2e1.mp3</MEDIA>
+        <EXAMPLE>My husband successfully completed a master's degree.</EXAMPLE>
+        <CREATE_ID2>sjin0201</CREATE_ID2>
+        <CREATE_DATE2>2018-11-16T01:33:09.78+09:00</CREATE_DATE2>
+        <MODIFY_ID2>sjin0201</MODIFY_ID2>
+        <MODIFY_DATE2>2019-01-20T17:52:57.433+09:00</MODIFY_DATE2>
+      </Table>
+    </NewDataSet>

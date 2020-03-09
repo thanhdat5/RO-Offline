@@ -1,0 +1,20 @@
+﻿<NewDataSet xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:diffgr="urn:schemas-microsoft-com:xml-diffgram-v1" xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <Table diffgr:id="Table1" msdata:rowOrder="0">
+        <IDX>24048</IDX>
+        <SET_ID>454930</SET_ID>
+        <SCRIPT>A new headband lets you [{control}] your dreams. Users put the headband on when they go to sleep. They wear it the [{whole}] night. The headband [{senses}] body movement, body [{temperature}], and brain waves. When REM sleep starts, the headband goes into action. It plays low-volume sounds as [{signals}], which tell the user that they are dreaming. Now that person can control what they dream. They can [{play}] piano or turn themselves into a [{superhero}]. Developers are still working on the headbands abilities.</SCRIPT>
+        <ACT_ID>28292</ACT_ID>
+        <ACT_TYPE>BF</ACT_TYPE>
+        <TITLE>Control Your Dreams</TITLE>
+        <SUB_TITLE />
+        <TEST_TIME>0</TEST_TIME>
+        <ETC_INT1>0</ETC_INT1>
+        <ETC_INT2>0</ETC_INT2>
+        <SUB_SET_ID>488678</SUB_SET_ID>
+        <SUB_TYPE>CBBFS</SUB_TYPE>
+        <STUDENT>true</STUDENT>
+        <TEACHER>false</TEACHER>
+        <IS_SILVERLIGHT>false</IS_SILVERLIGHT>
+        <IS_FLASH>false</IS_FLASH>
+      </Table>
+    </NewDataSet>

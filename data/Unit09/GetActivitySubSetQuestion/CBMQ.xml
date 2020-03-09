@@ -1,0 +1,35 @@
+﻿<NewDataSet xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:diffgr="urn:schemas-microsoft-com:xml-diffgram-v1" xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <Table diffgr:id="Table1" msdata:rowOrder="0">
+        <IDX>92110</IDX>
+        <ACT_ID>28295</ACT_ID>
+        <PRT_Q>What is the reading mainly about?</PRT_Q>
+        <PRT_CHOICE1>Why flying is dangerous </PRT_CHOICE1>
+        <PRT_CHOICE2>The first toy that could fly</PRT_CHOICE2>
+        <PRT_CHOICE3>How to build a plane </PRT_CHOICE3>
+        <PRT_CHOICE4>Two inventor brothers</PRT_CHOICE4>
+        <PRT_ANSWER>4</PRT_ANSWER>
+        <WORD_MAP />
+      </Table>
+      <Table diffgr:id="Table2" msdata:rowOrder="1">
+        <IDX>92111</IDX>
+        <ACT_ID>28295</ACT_ID>
+        <PRT_Q>The Wright brothers’ first flight ______________.</PRT_Q>
+        <PRT_CHOICE1>didn’t crash </PRT_CHOICE1>
+        <PRT_CHOICE2>went almost 260 meters</PRT_CHOICE2>
+        <PRT_CHOICE3>flew for more than four seconds </PRT_CHOICE3>
+        <PRT_CHOICE4>used a flying machine with an engine</PRT_CHOICE4>
+        <PRT_ANSWER>4</PRT_ANSWER>
+        <WORD_MAP />
+      </Table>
+      <Table diffgr:id="Table3" msdata:rowOrder="2">
+        <IDX>92112</IDX>
+        <ACT_ID>28295</ACT_ID>
+        <PRT_Q>Which is NOT true according to the reading?</PRT_Q>
+        <PRT_CHOICE1>The Wrights built a plane with an engine.</PRT_CHOICE1>
+        <PRT_CHOICE2>After the first plane crashed, they built a new one.</PRT_CHOICE2>
+        <PRT_CHOICE3>One of their planes flew four times on the same day.</PRT_CHOICE3>
+        <PRT_CHOICE4>Before 1903, people did not fly in any kind of machine.</PRT_CHOICE4>
+        <PRT_ANSWER>2</PRT_ANSWER>
+        <WORD_MAP />
+      </Table>
+    </NewDataSet>

@@ -1,0 +1,113 @@
+.card-list {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 85%;
+    height: 90%;
+    text-align: center;
+    display: inline-block;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+
+.card-list .card-item {
+    width: 25%;
+    height: 130px;
+    text-align: center;
+    float: left;
+    margin-bottom: 25px;
+    position: relative;
+}
+
+.card-list .card-item .card-item-inner {
+    margin: 5px;
+    width: calc(100% - 20px);
+    height: calc(100% - 10px);
+    background-color: #9be202;
+    border-radius: 10px;
+    padding: 4px;
+    cursor: pointer;
+    text-align: center;
+    position: relative;
+    top: 0;
+    left: 0;
+    max-height: 150px;
+    border-bottom: 2px green solid;
+    transition: transform 0.6s;
+    transform-style: preserve-3d;
+}
+
+.card-list .card-item .card-item-inner .card-item-image,
+.card-list .card-item .card-item-inner .card-item-text {
+    border: 1px #e2f578 dashed;
+    border-radius: 10px;
+    padding: 5px;
+    width: calc(100% - 20px);
+    height: calc(100% - 20px);
+    position: absolute;
+    backface-visibility: hidden;
+}
+
+.card-list .card-item .card-item-inner .card-item-image.card-item-word div {
+    height: 100%;
+    background: #fff;
+    border-radius: 10px;
+    font-weight: bold;
+}
+
+.card-list .card-item .card-item-inner .card-item-image.card-item-word div p {
+    padding-top: 30px;
+}
+
+.card-list .card-item .card-item-text {
+    transform: rotateY(180deg);
+    text-align: center;
+}
+
+.card-list .card-item .card-item-text b {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 20px;
+}
+
+.card-list .card-item .card-item-inner .card-item-image img {
+    max-width: 100%;
+    height: 100%;
+    border-radius: 5px;
+}
+
+.card-item.hover .card-item-inner {
+    transform: rotateY(180deg);
+}
+
+.card-list-1line {
+    padding-top: 350px;
+}
+
+.card-list-2line {
+    padding-top: 160px;
+}
+
+.card-list-3line {
+    padding-top: 80px;
+}
+
+.card-list-1line .card-item,
+.card-list-2line .card-item,
+.card-list-3line .card-item {
+    height: 150px !important;
+}
+
+.card-list-1line .card-item .card-item-inner,
+.card-list-2line .card-item .card-item-inner,
+.card-list-3line .card-item .card-item-inner {
+    max-height: 180px !important;
+}
+
+.card-list-4line {
+    padding-top: 0;
+}

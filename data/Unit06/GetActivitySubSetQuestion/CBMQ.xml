@@ -1,0 +1,35 @@
+﻿<NewDataSet xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:diffgr="urn:schemas-microsoft-com:xml-diffgram-v1" xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <Table diffgr:id="Table1" msdata:rowOrder="0">
+        <IDX>92101</IDX>
+        <ACT_ID>28292</ACT_ID>
+        <PRT_Q>What is the reading mainly about?</PRT_Q>
+        <PRT_CHOICE1>Getting a new headband</PRT_CHOICE1>
+        <PRT_CHOICE2>Creating a way to control what we dream</PRT_CHOICE2>
+        <PRT_CHOICE3>Receiving signals that tell us we are dreaming</PRT_CHOICE3>
+        <PRT_CHOICE4>Having only delightful dreams when we sleep</PRT_CHOICE4>
+        <PRT_ANSWER>2</PRT_ANSWER>
+        <WORD_MAP />
+      </Table>
+      <Table diffgr:id="Table2" msdata:rowOrder="1">
+        <IDX>92102</IDX>
+        <ACT_ID>28292</ACT_ID>
+        <PRT_Q>What is REM sleep?</PRT_Q>
+        <PRT_CHOICE1>The time when dreams happen</PRT_CHOICE1>
+        <PRT_CHOICE2>The signal sent by the headband</PRT_CHOICE2>
+        <PRT_CHOICE3>The kind of sleep the headband makes</PRT_CHOICE3>
+        <PRT_CHOICE4>The control a person has in their dreams</PRT_CHOICE4>
+        <PRT_ANSWER>1</PRT_ANSWER>
+        <WORD_MAP />
+      </Table>
+      <Table diffgr:id="Table3" msdata:rowOrder="2">
+        <IDX>92103</IDX>
+        <ACT_ID>28292</ACT_ID>
+        <PRT_Q>Which is NOT true according to the reading?</PRT_Q>
+        <PRT_CHOICE1>The headband does not allow bad dreams.</PRT_CHOICE1>
+        <PRT_CHOICE2>The user gets a signal from the headband.</PRT_CHOICE2>
+        <PRT_CHOICE3>The user wears the headband for the whole night.</PRT_CHOICE3>
+        <PRT_CHOICE4>Two people may soon use the headbands together.</PRT_CHOICE4>
+        <PRT_ANSWER>1</PRT_ANSWER>
+        <WORD_MAP />
+      </Table>
+    </NewDataSet>

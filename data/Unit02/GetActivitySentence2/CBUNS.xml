@@ -1,0 +1,50 @@
+﻿<NewDataSet xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:diffgr="urn:schemas-microsoft-com:xml-diffgram-v1" xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <Table diffgr:id="Table1" msdata:rowOrder="0">
+        <IDX>1589857</IDX>
+        <ACT_STN_ORDER>1</ACT_STN_ORDER>
+        <ACT_STN_SEQ>1</ACT_STN_SEQ>
+        <ACT_STN_SCRIPT>[{Alaska}] [{is}] [{the largest state}] [{in}] [{the U.S}]. </ACT_STN_SCRIPT>
+        <IsLineBreak>0</IsLineBreak>
+        <START_TIME>0</START_TIME>
+        <END_TIME>4217</END_TIME>
+        <MEDIA>RFch2e1_u2.mp3</MEDIA>
+        <MOVIE_LINK />
+        <EBOOK_LINK>https://ebook2.successtesting.net/?uri=books/RF_change_1/work/&amp;page=12</EBOOK_LINK>
+      </Table>
+      <Table diffgr:id="Table2" msdata:rowOrder="1">
+        <IDX>1589858</IDX>
+        <ACT_STN_ORDER>1</ACT_STN_ORDER>
+        <ACT_STN_SEQ>2</ACT_STN_SEQ>
+        <ACT_STN_SCRIPT>[{But in the city}], [{there is}] [{plenty of}] [{food}] [{to eat}]. </ACT_STN_SCRIPT>
+        <IsLineBreak>0</IsLineBreak>
+        <START_TIME>38452</START_TIME>
+        <END_TIME>42627</END_TIME>
+        <MEDIA>RFch2e1_u2.mp3</MEDIA>
+        <MOVIE_LINK />
+        <EBOOK_LINK>https://ebook2.successtesting.net/?uri=books/RF_change_1/work/&amp;page=12</EBOOK_LINK>
+      </Table>
+      <Table diffgr:id="Table3" msdata:rowOrder="2">
+        <IDX>1589859</IDX>
+        <ACT_STN_ORDER>1</ACT_STN_ORDER>
+        <ACT_STN_SEQ>3</ACT_STN_SEQ>
+        <ACT_STN_SCRIPT>[{In the summer}], [{they can}] [{eat plants}] [{from}] [{people’s gardens}]. </ACT_STN_SCRIPT>
+        <IsLineBreak>0</IsLineBreak>
+        <START_TIME>54873</START_TIME>
+        <END_TIME>59690</END_TIME>
+        <MEDIA>RFch2e1_u2.mp3</MEDIA>
+        <MOVIE_LINK />
+        <EBOOK_LINK>https://ebook2.successtesting.net/?uri=books/RF_change_1/work/&amp;page=12</EBOOK_LINK>
+      </Table>
+      <Table diffgr:id="Table4" msdata:rowOrder="3">
+        <IDX>1589860</IDX>
+        <ACT_STN_ORDER>1</ACT_STN_ORDER>
+        <ACT_STN_SEQ>4</ACT_STN_SEQ>
+        <ACT_STN_SCRIPT>[{Most people}] [{don’t mind}] [{having}] [{moose}] [{in the city}]. </ACT_STN_SCRIPT>
+        <IsLineBreak>0</IsLineBreak>
+        <START_TIME>59690</START_TIME>
+        <END_TIME>63753</END_TIME>
+        <MEDIA>RFch2e1_u2.mp3</MEDIA>
+        <MOVIE_LINK />
+        <EBOOK_LINK>https://ebook2.successtesting.net/?uri=books/RF_change_1/work/&amp;page=12</EBOOK_LINK>
+      </Table>
+    </NewDataSet>

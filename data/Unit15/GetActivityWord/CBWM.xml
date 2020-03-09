@@ -1,0 +1,314 @@
+﻿<NewDataSet xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:diffgr="urn:schemas-microsoft-com:xml-diffgram-v1" xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <Table diffgr:id="Table1" msdata:rowOrder="0">
+        <IDX>240357</IDX>
+        <SET_ID>454982</SET_ID>
+        <DIC_ID>181319</DIC_ID>
+        <PRT_Q>2, 4, 6 and 8 are ______ numbers.</PRT_Q>
+        <PRT_ANSWER>4</PRT_ANSWER>
+        <PRT_CHOICE1>dodge</PRT_CHOICE1>
+        <PRT_CHOICE2>odd</PRT_CHOICE2>
+        <PRT_CHOICE3>field</PRT_CHOICE3>
+        <PRT_CHOICE4>even</PRT_CHOICE4>
+        <CREATE_ID>sjin0201</CREATE_ID>
+        <CREATE_DATE>2018-11-16T01:56:39.293+09:00</CREATE_DATE>
+        <MODIFY_ID>sjin0201</MODIFY_ID>
+        <MODIFY_DATE>2019-01-20T18:07:32.617+09:00</MODIFY_DATE>
+        <SET_ID1>454982</SET_ID1>
+        <ACT_ID>28301</ACT_ID>
+        <ACT_TYPE>WL</ACT_TYPE>
+        <TITLE>Dodgeball</TITLE>
+        <MULTI_TEXT />
+        <TEST_TIME>0</TEST_TIME>
+        <ETC_INT1>0</ETC_INT1>
+        <ETC_INT2>0</ETC_INT2>
+        <CREATE_ID1>sjin0201</CREATE_ID1>
+        <CREATE_DATE1>2018-11-14T15:33:12.763+09:00</CREATE_DATE1>
+        <MODIFY_ID1>sjin0201</MODIFY_ID1>
+        <MODIFY_DATE1>2019-02-01T01:04:57.71+09:00</MODIFY_DATE1>
+        <DIC_ID1>181319</DIC_ID1>
+        <WORD>even</WORD>
+        <WORD_TYPE>noun</WORD_TYPE>
+        <MEAN_E>can be divided exactly by two</MEAN_E>
+        <MEAN_K>짝수의</MEAN_K>
+        <PICTURE>even_RFch2e1.png</PICTURE>
+        <MEDIA>even_RFch2e1.mp3</MEDIA>
+        <EXAMPLE>2, 4, 6 and 8 are even numbers.</EXAMPLE>
+        <CREATE_ID2>sjin0201</CREATE_ID2>
+        <CREATE_DATE2>2018-11-16T01:55:56.153+09:00</CREATE_DATE2>
+        <MODIFY_ID2>sjin0201</MODIFY_ID2>
+        <MODIFY_DATE2>2019-01-20T18:07:32.62+09:00</MODIFY_DATE2>
+      </Table>
+      <Table diffgr:id="Table2" msdata:rowOrder="1">
+        <IDX>240358</IDX>
+        <SET_ID>454982</SET_ID>
+        <DIC_ID>181318</DIC_ID>
+        <PRT_Q>The festival is held in the ______ years.</PRT_Q>
+        <PRT_ANSWER>3</PRT_ANSWER>
+        <PRT_CHOICE1>simple</PRT_CHOICE1>
+        <PRT_CHOICE2>eliminate</PRT_CHOICE2>
+        <PRT_CHOICE3>odd</PRT_CHOICE3>
+        <PRT_CHOICE4>dodge</PRT_CHOICE4>
+        <CREATE_ID>sjin0201</CREATE_ID>
+        <CREATE_DATE>2018-11-16T01:56:39.297+09:00</CREATE_DATE>
+        <MODIFY_ID>sjin0201</MODIFY_ID>
+        <MODIFY_DATE>2019-01-20T18:09:43.657+09:00</MODIFY_DATE>
+        <SET_ID1>454982</SET_ID1>
+        <ACT_ID>28301</ACT_ID>
+        <ACT_TYPE>WL</ACT_TYPE>
+        <TITLE>Dodgeball</TITLE>
+        <MULTI_TEXT />
+        <TEST_TIME>0</TEST_TIME>
+        <ETC_INT1>0</ETC_INT1>
+        <ETC_INT2>0</ETC_INT2>
+        <CREATE_ID1>sjin0201</CREATE_ID1>
+        <CREATE_DATE1>2018-11-14T15:33:12.763+09:00</CREATE_DATE1>
+        <MODIFY_ID1>sjin0201</MODIFY_ID1>
+        <MODIFY_DATE1>2019-02-01T01:04:57.71+09:00</MODIFY_DATE1>
+        <DIC_ID1>181318</DIC_ID1>
+        <WORD>odd</WORD>
+        <WORD_TYPE>noun</WORD_TYPE>
+        <MEAN_E>(of numbers) not able to be divided exactly by two</MEAN_E>
+        <MEAN_K>홀수의</MEAN_K>
+        <PICTURE>odd_RFch2e1.png</PICTURE>
+        <MEDIA>odd_RFch2e1.mp3</MEDIA>
+        <EXAMPLE>The festival is held in the odd years.</EXAMPLE>
+        <CREATE_ID2>sjin0201</CREATE_ID2>
+        <CREATE_DATE2>2018-11-16T01:55:56.15+09:00</CREATE_DATE2>
+        <MODIFY_ID2>sjin0201</MODIFY_ID2>
+        <MODIFY_DATE2>2019-01-20T18:09:43.66+09:00</MODIFY_DATE2>
+      </Table>
+      <Table diffgr:id="Table3" msdata:rowOrder="2">
+        <IDX>240359</IDX>
+        <SET_ID>454982</SET_ID>
+        <DIC_ID>181317</DIC_ID>
+        <PRT_Q>She walked towards the ______.</PRT_Q>
+        <PRT_ANSWER>1</PRT_ANSWER>
+        <PRT_CHOICE1>aim</PRT_CHOICE1>
+        <PRT_CHOICE2>even</PRT_CHOICE2>
+        <PRT_CHOICE3>odd</PRT_CHOICE3>
+        <PRT_CHOICE4>eliminate</PRT_CHOICE4>
+        <CREATE_ID>sjin0201</CREATE_ID>
+        <CREATE_DATE>2018-11-16T01:56:39.3+09:00</CREATE_DATE>
+        <MODIFY_ID>sjin0201</MODIFY_ID>
+        <MODIFY_DATE>2019-01-20T18:10:07.117+09:00</MODIFY_DATE>
+        <SET_ID1>454982</SET_ID1>
+        <ACT_ID>28301</ACT_ID>
+        <ACT_TYPE>WL</ACT_TYPE>
+        <TITLE>Dodgeball</TITLE>
+        <MULTI_TEXT />
+        <TEST_TIME>0</TEST_TIME>
+        <ETC_INT1>0</ETC_INT1>
+        <ETC_INT2>0</ETC_INT2>
+        <CREATE_ID1>sjin0201</CREATE_ID1>
+        <CREATE_DATE1>2018-11-14T15:33:12.763+09:00</CREATE_DATE1>
+        <MODIFY_ID1>sjin0201</MODIFY_ID1>
+        <MODIFY_DATE1>2019-02-01T01:04:57.71+09:00</MODIFY_DATE1>
+        <DIC_ID1>181317</DIC_ID1>
+        <WORD>aim</WORD>
+        <WORD_TYPE>noun</WORD_TYPE>
+        <MEAN_E>the goal of some action</MEAN_E>
+        <MEAN_K>목표</MEAN_K>
+        <PICTURE>aim_RFch2e1.png</PICTURE>
+        <MEDIA>aim_RFch2e1.mp3</MEDIA>
+        <EXAMPLE>She walked towards the aim.</EXAMPLE>
+        <CREATE_ID2>sjin0201</CREATE_ID2>
+        <CREATE_DATE2>2018-11-16T01:55:56.147+09:00</CREATE_DATE2>
+        <MODIFY_ID2>sjin0201</MODIFY_ID2>
+        <MODIFY_DATE2>2019-01-20T18:10:07.12+09:00</MODIFY_DATE2>
+      </Table>
+      <Table diffgr:id="Table4" msdata:rowOrder="3">
+        <IDX>240360</IDX>
+        <SET_ID>454982</SET_ID>
+        <DIC_ID>181316</DIC_ID>
+        <PRT_Q>Anyone can make tea; it's _______.</PRT_Q>
+        <PRT_ANSWER>3</PRT_ANSWER>
+        <PRT_CHOICE1>court</PRT_CHOICE1>
+        <PRT_CHOICE2>aim</PRT_CHOICE2>
+        <PRT_CHOICE3>simple</PRT_CHOICE3>
+        <PRT_CHOICE4>eliminate</PRT_CHOICE4>
+        <CREATE_ID>sjin0201</CREATE_ID>
+        <CREATE_DATE>2018-11-16T01:56:39.303+09:00</CREATE_DATE>
+        <MODIFY_ID>sjin0201</MODIFY_ID>
+        <MODIFY_DATE>2019-01-20T18:11:43.267+09:00</MODIFY_DATE>
+        <SET_ID1>454982</SET_ID1>
+        <ACT_ID>28301</ACT_ID>
+        <ACT_TYPE>WL</ACT_TYPE>
+        <TITLE>Dodgeball</TITLE>
+        <MULTI_TEXT />
+        <TEST_TIME>0</TEST_TIME>
+        <ETC_INT1>0</ETC_INT1>
+        <ETC_INT2>0</ETC_INT2>
+        <CREATE_ID1>sjin0201</CREATE_ID1>
+        <CREATE_DATE1>2018-11-14T15:33:12.763+09:00</CREATE_DATE1>
+        <MODIFY_ID1>sjin0201</MODIFY_ID1>
+        <MODIFY_DATE1>2019-02-01T01:04:57.71+09:00</MODIFY_DATE1>
+        <DIC_ID1>181316</DIC_ID1>
+        <WORD>simple</WORD>
+        <WORD_TYPE>noun</WORD_TYPE>
+        <MEAN_E>easy to understand or do; not difficult</MEAN_E>
+        <MEAN_K>간단한</MEAN_K>
+        <PICTURE>simple_RFch2e1.png</PICTURE>
+        <MEDIA>simple_RFch2e1.mp3</MEDIA>
+        <EXAMPLE>Anyone can make tea; it's simple.</EXAMPLE>
+        <CREATE_ID2>sjin0201</CREATE_ID2>
+        <CREATE_DATE2>2018-11-16T01:55:56.143+09:00</CREATE_DATE2>
+        <MODIFY_ID2>sjin0201</MODIFY_ID2>
+        <MODIFY_DATE2>2019-01-20T18:11:43.27+09:00</MODIFY_DATE2>
+      </Table>
+      <Table diffgr:id="Table5" msdata:rowOrder="4">
+        <IDX>240361</IDX>
+        <SET_ID>454982</SET_ID>
+        <DIC_ID>181315</DIC_ID>
+        <PRT_Q>She ______ the items she did not want to buy from the list.</PRT_Q>
+        <PRT_ANSWER>3</PRT_ANSWER>
+        <PRT_CHOICE1>field</PRT_CHOICE1>
+        <PRT_CHOICE2>odd</PRT_CHOICE2>
+        <PRT_CHOICE3>eliminated</PRT_CHOICE3>
+        <PRT_CHOICE4>even</PRT_CHOICE4>
+        <CREATE_ID>sjin0201</CREATE_ID>
+        <CREATE_DATE>2018-11-16T01:56:39.307+09:00</CREATE_DATE>
+        <MODIFY_ID>sjin0201</MODIFY_ID>
+        <MODIFY_DATE>2019-01-20T18:11:53.517+09:00</MODIFY_DATE>
+        <SET_ID1>454982</SET_ID1>
+        <ACT_ID>28301</ACT_ID>
+        <ACT_TYPE>WL</ACT_TYPE>
+        <TITLE>Dodgeball</TITLE>
+        <MULTI_TEXT />
+        <TEST_TIME>0</TEST_TIME>
+        <ETC_INT1>0</ETC_INT1>
+        <ETC_INT2>0</ETC_INT2>
+        <CREATE_ID1>sjin0201</CREATE_ID1>
+        <CREATE_DATE1>2018-11-14T15:33:12.763+09:00</CREATE_DATE1>
+        <MODIFY_ID1>sjin0201</MODIFY_ID1>
+        <MODIFY_DATE1>2019-02-01T01:04:57.71+09:00</MODIFY_DATE1>
+        <DIC_ID1>181315</DIC_ID1>
+        <WORD>eliminate</WORD>
+        <WORD_TYPE>noun</WORD_TYPE>
+        <MEAN_E>to remove or take away someone or something</MEAN_E>
+        <MEAN_K>제거하다</MEAN_K>
+        <PICTURE>eliminate_RFch2e1.png</PICTURE>
+        <MEDIA>eliminate_RFch2e1.mp3</MEDIA>
+        <EXAMPLE>She eliminated the items she did not want to buy from the list.</EXAMPLE>
+        <CREATE_ID2>sjin0201</CREATE_ID2>
+        <CREATE_DATE2>2018-11-16T01:55:56.14+09:00</CREATE_DATE2>
+        <MODIFY_ID2>sjin0201</MODIFY_ID2>
+        <MODIFY_DATE2>2019-01-20T18:11:53.52+09:00</MODIFY_DATE2>
+      </Table>
+      <Table diffgr:id="Table6" msdata:rowOrder="5">
+        <IDX>240362</IDX>
+        <SET_ID>454982</SET_ID>
+        <DIC_ID>181314</DIC_ID>
+        <PRT_Q>I will never know how he ______ the other car!</PRT_Q>
+        <PRT_ANSWER>2</PRT_ANSWER>
+        <PRT_CHOICE1>even</PRT_CHOICE1>
+        <PRT_CHOICE2>dodged</PRT_CHOICE2>
+        <PRT_CHOICE3>simple</PRT_CHOICE3>
+        <PRT_CHOICE4>odd</PRT_CHOICE4>
+        <CREATE_ID>sjin0201</CREATE_ID>
+        <CREATE_DATE>2018-11-16T01:56:39.31+09:00</CREATE_DATE>
+        <MODIFY_ID>sjin0201</MODIFY_ID>
+        <MODIFY_DATE>2019-01-20T18:12:39.447+09:00</MODIFY_DATE>
+        <SET_ID1>454982</SET_ID1>
+        <ACT_ID>28301</ACT_ID>
+        <ACT_TYPE>WL</ACT_TYPE>
+        <TITLE>Dodgeball</TITLE>
+        <MULTI_TEXT />
+        <TEST_TIME>0</TEST_TIME>
+        <ETC_INT1>0</ETC_INT1>
+        <ETC_INT2>0</ETC_INT2>
+        <CREATE_ID1>sjin0201</CREATE_ID1>
+        <CREATE_DATE1>2018-11-14T15:33:12.763+09:00</CREATE_DATE1>
+        <MODIFY_ID1>sjin0201</MODIFY_ID1>
+        <MODIFY_DATE1>2019-02-01T01:04:57.71+09:00</MODIFY_DATE1>
+        <DIC_ID1>181314</DIC_ID1>
+        <WORD>dodge</WORD>
+        <WORD_TYPE>verb</WORD_TYPE>
+        <MEAN_E>to avoid</MEAN_E>
+        <MEAN_K>(재빨리) 피하다</MEAN_K>
+        <PICTURE>dodge_RFch2e1.png</PICTURE>
+        <MEDIA>dodge_RFch2e1.mp3</MEDIA>
+        <EXAMPLE>I will never know how he dodged the other car!</EXAMPLE>
+        <CREATE_ID2>sjin0201</CREATE_ID2>
+        <CREATE_DATE2>2018-11-16T01:55:56.12+09:00</CREATE_DATE2>
+        <MODIFY_ID2>admin</MODIFY_ID2>
+        <MODIFY_DATE2>2020-02-24T14:14:46.89+09:00</MODIFY_DATE2>
+      </Table>
+      <Table diffgr:id="Table7" msdata:rowOrder="6">
+        <IDX>240363</IDX>
+        <SET_ID>454982</SET_ID>
+        <DIC_ID>181313</DIC_ID>
+        <PRT_Q>When the players took the ______, the game was ready to begin.</PRT_Q>
+        <PRT_ANSWER>2</PRT_ANSWER>
+        <PRT_CHOICE1>simple</PRT_CHOICE1>
+        <PRT_CHOICE2>field</PRT_CHOICE2>
+        <PRT_CHOICE3>dodge</PRT_CHOICE3>
+        <PRT_CHOICE4>even</PRT_CHOICE4>
+        <CREATE_ID>sjin0201</CREATE_ID>
+        <CREATE_DATE>2018-11-16T01:56:39.31+09:00</CREATE_DATE>
+        <MODIFY_ID>sjin0201</MODIFY_ID>
+        <MODIFY_DATE>2019-01-20T18:13:06.623+09:00</MODIFY_DATE>
+        <SET_ID1>454982</SET_ID1>
+        <ACT_ID>28301</ACT_ID>
+        <ACT_TYPE>WL</ACT_TYPE>
+        <TITLE>Dodgeball</TITLE>
+        <MULTI_TEXT />
+        <TEST_TIME>0</TEST_TIME>
+        <ETC_INT1>0</ETC_INT1>
+        <ETC_INT2>0</ETC_INT2>
+        <CREATE_ID1>sjin0201</CREATE_ID1>
+        <CREATE_DATE1>2018-11-14T15:33:12.763+09:00</CREATE_DATE1>
+        <MODIFY_ID1>sjin0201</MODIFY_ID1>
+        <MODIFY_DATE1>2019-02-01T01:04:57.71+09:00</MODIFY_DATE1>
+        <DIC_ID1>181313</DIC_ID1>
+        <WORD>field</WORD>
+        <WORD_TYPE>noun</WORD_TYPE>
+        <MEAN_E>an area in which sports are played</MEAN_E>
+        <MEAN_K>경기장</MEAN_K>
+        <PICTURE>field_RFch2e1.png</PICTURE>
+        <MEDIA>field_RFch2e1.mp3</MEDIA>
+        <EXAMPLE>When the players took the field, the game was ready to begin.</EXAMPLE>
+        <CREATE_ID2>sjin0201</CREATE_ID2>
+        <CREATE_DATE2>2018-11-16T01:55:56.083+09:00</CREATE_DATE2>
+        <MODIFY_ID2>sjin0201</MODIFY_ID2>
+        <MODIFY_DATE2>2019-01-20T18:13:06.63+09:00</MODIFY_DATE2>
+      </Table>
+      <Table diffgr:id="Table8" msdata:rowOrder="7">
+        <IDX>240364</IDX>
+        <SET_ID>454982</SET_ID>
+        <DIC_ID>181312</DIC_ID>
+        <PRT_Q>We play basketball on a(n) _______.</PRT_Q>
+        <PRT_ANSWER>2</PRT_ANSWER>
+        <PRT_CHOICE1>even</PRT_CHOICE1>
+        <PRT_CHOICE2>court</PRT_CHOICE2>
+        <PRT_CHOICE3>odd</PRT_CHOICE3>
+        <PRT_CHOICE4>eliminate</PRT_CHOICE4>
+        <CREATE_ID>sjin0201</CREATE_ID>
+        <CREATE_DATE>2018-11-16T01:56:39.317+09:00</CREATE_DATE>
+        <MODIFY_ID>sjin0201</MODIFY_ID>
+        <MODIFY_DATE>2019-02-01T01:04:57.74+09:00</MODIFY_DATE>
+        <SET_ID1>454982</SET_ID1>
+        <ACT_ID>28301</ACT_ID>
+        <ACT_TYPE>WL</ACT_TYPE>
+        <TITLE>Dodgeball</TITLE>
+        <MULTI_TEXT />
+        <TEST_TIME>0</TEST_TIME>
+        <ETC_INT1>0</ETC_INT1>
+        <ETC_INT2>0</ETC_INT2>
+        <CREATE_ID1>sjin0201</CREATE_ID1>
+        <CREATE_DATE1>2018-11-14T15:33:12.763+09:00</CREATE_DATE1>
+        <MODIFY_ID1>sjin0201</MODIFY_ID1>
+        <MODIFY_DATE1>2019-02-01T01:04:57.71+09:00</MODIFY_DATE1>
+        <DIC_ID1>181312</DIC_ID1>
+        <WORD>court</WORD>
+        <WORD_TYPE>noun</WORD_TYPE>
+        <MEAN_E>a large flat surface that is shaped like a square or rectangle and that is used for playing games</MEAN_E>
+        <MEAN_K>코트, 경기장</MEAN_K>
+        <PICTURE>court_RFch2e1.png</PICTURE>
+        <MEDIA>court_RFch2e1.mp3</MEDIA>
+        <EXAMPLE>We play basketball on a court.</EXAMPLE>
+        <CREATE_ID2>sjin0201</CREATE_ID2>
+        <CREATE_DATE2>2018-11-16T01:55:56.073+09:00</CREATE_DATE2>
+        <MODIFY_ID2>sjin0201</MODIFY_ID2>
+        <MODIFY_DATE2>2019-02-01T01:04:57.783+09:00</MODIFY_DATE2>
+      </Table>
+    </NewDataSet>

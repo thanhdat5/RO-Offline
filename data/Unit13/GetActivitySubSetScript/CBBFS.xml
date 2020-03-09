@@ -1,0 +1,20 @@
+﻿<NewDataSet xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:diffgr="urn:schemas-microsoft-com:xml-diffgram-v1" xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <Table diffgr:id="Table1" msdata:rowOrder="0">
+        <IDX>24055</IDX>
+        <SET_ID>454972</SET_ID>
+        <SCRIPT>Professional [{athletes}] want to be the best at their sport. They exercise, eat healthy food, and [{practice}] a lot. The newest sports clothes for athletes include new designs and technology. These smart clothes enable athletes to improve their performance. One example is a new swimsuit for [{competitive}] swimmers. The body, swimming cap, and [{goggles}] are all one piece. This is more comfortable and [{efficient}] for the swimmers. Recently, some soccer players started wearing smart shirts. These shirts have computers in them that send data to the [{coach}]. Then the coach can see when certain players need to [{rest}].</SCRIPT>
+        <ACT_ID>28299</ACT_ID>
+        <ACT_TYPE>BF</ACT_TYPE>
+        <TITLE>Smart Sportswear</TITLE>
+        <SUB_TITLE />
+        <TEST_TIME>0</TEST_TIME>
+        <ETC_INT1>0</ETC_INT1>
+        <ETC_INT2>0</ETC_INT2>
+        <SUB_SET_ID>488713</SUB_SET_ID>
+        <SUB_TYPE>CBBFS</SUB_TYPE>
+        <STUDENT>true</STUDENT>
+        <TEACHER>false</TEACHER>
+        <IS_SILVERLIGHT>false</IS_SILVERLIGHT>
+        <IS_FLASH>false</IS_FLASH>
+      </Table>
+    </NewDataSet>

@@ -1,0 +1,22 @@
+﻿<NewDataSet xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:diffgr="urn:schemas-microsoft-com:xml-diffgram-v1" xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <Table diffgr:id="Table1" msdata:rowOrder="0">
+        <IDX>24053</IDX>
+        <SET_ID>454960</SET_ID>
+        <SCRIPT>The Wright brothers were the first people to fly a(n) [{aircraft}] in 1903. A little over twenty years later, airplane technology has [{advanced}] a lot. In 1924, eight U.S. [{Army}] pilots took off in four airplanes from the city of Seattle. Their [{mission}] was to fly around the world. After 175 days, only two of the four [{original}] planes finished the voyage. One crashed and the other had [{mechanical}] problems. The other planes returned home. The first airplane could only fly 260 meters, but twenty years later planes could fly over 44,342 kilometers around the [{globe}].
+
+</SCRIPT>
+        <ACT_ID>28297</ACT_ID>
+        <ACT_TYPE>BF</ACT_TYPE>
+        <TITLE>Flying Around the World</TITLE>
+        <SUB_TITLE />
+        <TEST_TIME>0</TEST_TIME>
+        <ETC_INT1>0</ETC_INT1>
+        <ETC_INT2>0</ETC_INT2>
+        <SUB_SET_ID>488703</SUB_SET_ID>
+        <SUB_TYPE>CBBFS</SUB_TYPE>
+        <STUDENT>true</STUDENT>
+        <TEACHER>false</TEACHER>
+        <IS_SILVERLIGHT>false</IS_SILVERLIGHT>
+        <IS_FLASH>false</IS_FLASH>
+      </Table>
+    </NewDataSet>

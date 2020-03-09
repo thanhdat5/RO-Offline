@@ -1,0 +1,50 @@
+﻿<NewDataSet xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:diffgr="urn:schemas-microsoft-com:xml-diffgram-v1" xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <Table diffgr:id="Table1" msdata:rowOrder="0">
+        <IDX>1589909</IDX>
+        <ACT_STN_ORDER>1</ACT_STN_ORDER>
+        <ACT_STN_SEQ>1</ACT_STN_SEQ>
+        <ACT_STN_SCRIPT>[{You}] [{try to eliminate}] [{other players}] [{by hitting them}] [{with a ball}]. </ACT_STN_SCRIPT>
+        <IsLineBreak>0</IsLineBreak>
+        <START_TIME>10454</START_TIME>
+        <END_TIME>16006</END_TIME>
+        <MEDIA>RFch2e1_u15.mp3</MEDIA>
+        <MOVIE_LINK />
+        <EBOOK_LINK>https://ebook2.successtesting.net/?uri=books/RF_change_1/work/&amp;page=64</EBOOK_LINK>
+      </Table>
+      <Table diffgr:id="Table2" msdata:rowOrder="1">
+        <IDX>1589910</IDX>
+        <ACT_STN_ORDER>1</ACT_STN_ORDER>
+        <ACT_STN_SEQ>2</ACT_STN_SEQ>
+        <ACT_STN_SCRIPT>[{To play a game}], [{you}] [{need}] [{four or more}] [{players}]. </ACT_STN_SCRIPT>
+        <IsLineBreak>0</IsLineBreak>
+        <START_TIME>31142</START_TIME>
+        <END_TIME>35747</END_TIME>
+        <MEDIA>RFch2e1_u15.mp3</MEDIA>
+        <MOVIE_LINK />
+        <EBOOK_LINK>https://ebook2.successtesting.net/?uri=books/RF_change_1/work/&amp;page=64</EBOOK_LINK>
+      </Table>
+      <Table diffgr:id="Table3" msdata:rowOrder="2">
+        <IDX>1589911</IDX>
+        <ACT_STN_ORDER>1</ACT_STN_ORDER>
+        <ACT_STN_SEQ>3</ACT_STN_SEQ>
+        <ACT_STN_SCRIPT>[{Dodgeball is great}] [{because}] [{there are}] [{different ways}] [{to play it}]. </ACT_STN_SCRIPT>
+        <IsLineBreak>0</IsLineBreak>
+        <START_TIME>47641</START_TIME>
+        <END_TIME>52701</END_TIME>
+        <MEDIA>RFch2e1_u15.mp3</MEDIA>
+        <MOVIE_LINK />
+        <EBOOK_LINK>https://ebook2.successtesting.net/?uri=books/RF_change_1/work/&amp;page=64</EBOOK_LINK>
+      </Table>
+      <Table diffgr:id="Table4" msdata:rowOrder="3">
+        <IDX>1589912</IDX>
+        <ACT_STN_ORDER>1</ACT_STN_ORDER>
+        <ACT_STN_SEQ>4</ACT_STN_SEQ>
+        <ACT_STN_SCRIPT>[{It’s easy to understand}] [{why so many}] [{people around}] [{the world}] [{love this game}]. </ACT_STN_SCRIPT>
+        <IsLineBreak>0</IsLineBreak>
+        <START_TIME>65755</START_TIME>
+        <END_TIME>73492</END_TIME>
+        <MEDIA>RFch2e1_u15.mp3</MEDIA>
+        <MOVIE_LINK />
+        <EBOOK_LINK>https://ebook2.successtesting.net/?uri=books/RF_change_1/work/&amp;page=64</EBOOK_LINK>
+      </Table>
+    </NewDataSet>

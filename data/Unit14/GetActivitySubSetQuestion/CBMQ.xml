@@ -1,0 +1,35 @@
+﻿<NewDataSet xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:diffgr="urn:schemas-microsoft-com:xml-diffgram-v1" xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <Table diffgr:id="Table1" msdata:rowOrder="0">
+        <IDX>92125</IDX>
+        <ACT_ID>28300</ACT_ID>
+        <PRT_Q>What is the reading mainly about?</PRT_Q>
+        <PRT_CHOICE1>How to swim</PRT_CHOICE1>
+        <PRT_CHOICE2>Why water is deep</PRT_CHOICE2>
+        <PRT_CHOICE3>How to survive in the water</PRT_CHOICE3>
+        <PRT_CHOICE4>Why swimming is dangerous</PRT_CHOICE4>
+        <PRT_ANSWER>3</PRT_ANSWER>
+        <WORD_MAP />
+      </Table>
+      <Table diffgr:id="Table2" msdata:rowOrder="1">
+        <IDX>92126</IDX>
+        <ACT_ID>28300</ACT_ID>
+        <PRT_Q>What is a good way to survive in the water?</PRT_Q>
+        <PRT_CHOICE1>Floating on your back</PRT_CHOICE1>
+        <PRT_CHOICE2>Panicking and swimming fast</PRT_CHOICE2>
+        <PRT_CHOICE3>Running nearby the water</PRT_CHOICE3>
+        <PRT_CHOICE4>Falling into the water</PRT_CHOICE4>
+        <PRT_ANSWER>1</PRT_ANSWER>
+        <WORD_MAP />
+      </Table>
+      <Table diffgr:id="Table3" msdata:rowOrder="2">
+        <IDX>92127</IDX>
+        <ACT_ID>28300</ACT_ID>
+        <PRT_Q>Which is NOT true according to the reading?</PRT_Q>
+        <PRT_CHOICE1>People like playing in the water.</PRT_CHOICE1>
+        <PRT_CHOICE2>If you feel unsafe in the water, you should panic.</PRT_CHOICE2>
+        <PRT_CHOICE3>Learning to float makes you safer in the water.</PRT_CHOICE3>
+        <PRT_CHOICE4>Some people panic if they fall into the water.</PRT_CHOICE4>
+        <PRT_ANSWER>2</PRT_ANSWER>
+        <WORD_MAP />
+      </Table>
+    </NewDataSet>

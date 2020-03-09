@@ -1,0 +1,50 @@
+﻿<NewDataSet xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:diffgr="urn:schemas-microsoft-com:xml-diffgram-v1" xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <Table diffgr:id="Table1" msdata:rowOrder="0">
+        <IDX>1589873</IDX>
+        <ACT_STN_ORDER>1</ACT_STN_ORDER>
+        <ACT_STN_SEQ>1</ACT_STN_SEQ>
+        <ACT_STN_SCRIPT>[{A bad dream}] [{could change}] [{into}] [{a beautiful}] [{fantasy}]. </ACT_STN_SCRIPT>
+        <IsLineBreak>0</IsLineBreak>
+        <START_TIME>3468</START_TIME>
+        <END_TIME>8436</END_TIME>
+        <MEDIA>RFch2e1_u6.mp3</MEDIA>
+        <MOVIE_LINK />
+        <EBOOK_LINK>https://ebook2.successtesting.net/?uri=books/RF_change_1/work/&amp;page=28</EBOOK_LINK>
+      </Table>
+      <Table diffgr:id="Table2" msdata:rowOrder="1">
+        <IDX>1589874</IDX>
+        <ACT_STN_ORDER>1</ACT_STN_ORDER>
+        <ACT_STN_SEQ>2</ACT_STN_SEQ>
+        <ACT_STN_SCRIPT>[{A new headband}] [{lets}] [{you}] [{control}] [{your dreams}]. </ACT_STN_SCRIPT>
+        <IsLineBreak>0</IsLineBreak>
+        <START_TIME>11608</START_TIME>
+        <END_TIME>16094</END_TIME>
+        <MEDIA>RFch2e1_u6.mp3</MEDIA>
+        <MOVIE_LINK />
+        <EBOOK_LINK>https://ebook2.successtesting.net/?uri=books/RF_change_1/work/&amp;page=28</EBOOK_LINK>
+      </Table>
+      <Table diffgr:id="Table3" msdata:rowOrder="2">
+        <IDX>1589875</IDX>
+        <ACT_STN_ORDER>1</ACT_STN_ORDER>
+        <ACT_STN_SEQ>3</ACT_STN_SEQ>
+        <ACT_STN_SCRIPT>[{Now}], [{that person}] [{can control}] [{what}] [{they dream}]. </ACT_STN_SCRIPT>
+        <IsLineBreak>0</IsLineBreak>
+        <START_TIME>54717</START_TIME>
+        <END_TIME>58986</END_TIME>
+        <MEDIA>RFch2e1_u6.mp3</MEDIA>
+        <MOVIE_LINK />
+        <EBOOK_LINK>https://ebook2.successtesting.net/?uri=books/RF_change_1/work/&amp;page=28</EBOOK_LINK>
+      </Table>
+      <Table diffgr:id="Table4" msdata:rowOrder="3">
+        <IDX>1589876</IDX>
+        <ACT_STN_ORDER>1</ACT_STN_ORDER>
+        <ACT_STN_SEQ>4</ACT_STN_SEQ>
+        <ACT_STN_SCRIPT>[{They}] [{can}] [{go}] [{on}] [{an ideal vacation}]. </ACT_STN_SCRIPT>
+        <IsLineBreak>0</IsLineBreak>
+        <START_TIME>64389</START_TIME>
+        <END_TIME>68000</END_TIME>
+        <MEDIA>RFch2e1_u6.mp3</MEDIA>
+        <MOVIE_LINK />
+        <EBOOK_LINK>https://ebook2.successtesting.net/?uri=books/RF_change_1/work/&amp;page=28</EBOOK_LINK>
+      </Table>
+    </NewDataSet>

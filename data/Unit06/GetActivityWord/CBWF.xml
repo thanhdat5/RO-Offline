@@ -1,0 +1,306 @@
+﻿<NewDataSet xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:diffgr="urn:schemas-microsoft-com:xml-diffgram-v1" xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <Table diffgr:id="Table1" msdata:rowOrder="0">
+        <IDX>240285</IDX>
+        <SET_ID>454928</SET_ID>
+        <DIC_ID>181247</DIC_ID>
+        <PRT_Q>The ______ town was destroyed by the earthquake.</PRT_Q>
+        <PRT_ANSWER>2</PRT_ANSWER>
+        <PRT_CHOICE1>get rid of</PRT_CHOICE1>
+        <PRT_CHOICE2>whole</PRT_CHOICE2>
+        <PRT_CHOICE3>strengthen</PRT_CHOICE3>
+        <PRT_CHOICE4>temperature</PRT_CHOICE4>
+        <CREATE_ID>sjin0201</CREATE_ID>
+        <CREATE_DATE>2018-11-16T00:27:36.693+09:00</CREATE_DATE>
+        <MODIFY_ID>sjin0201</MODIFY_ID>
+        <MODIFY_DATE>2019-01-20T17:02:38.303+09:00</MODIFY_DATE>
+        <SET_ID1>454928</SET_ID1>
+        <ACT_ID>28292</ACT_ID>
+        <ACT_TYPE>WL</ACT_TYPE>
+        <TITLE>Control Your Dreams</TITLE>
+        <TEST_TIME>0</TEST_TIME>
+        <ETC_INT1>0</ETC_INT1>
+        <ETC_INT2>0</ETC_INT2>
+        <CREATE_ID1>sjin0201</CREATE_ID1>
+        <CREATE_DATE1>2018-11-14T15:28:14.87+09:00</CREATE_DATE1>
+        <MODIFY_ID1>sjin0201</MODIFY_ID1>
+        <MODIFY_DATE1>2019-01-29T01:00:03.153+09:00</MODIFY_DATE1>
+        <DIC_ID1>181247</DIC_ID1>
+        <WORD>whole</WORD>
+        <WORD_TYPE>adj</WORD_TYPE>
+        <MEAN_E>the entire thing; not just a part</MEAN_E>
+        <MEAN_K>전체의</MEAN_K>
+        <PICTURE>whole_RFch2e1.png</PICTURE>
+        <MEDIA>whole_RFch2e1.mp3</MEDIA>
+        <EXAMPLE>The whole town was destroyed by the earthquake.</EXAMPLE>
+        <CREATE_ID2>sjin0201</CREATE_ID2>
+        <CREATE_DATE2>2018-11-16T00:26:45.9+09:00</CREATE_DATE2>
+        <MODIFY_ID2>admin</MODIFY_ID2>
+        <MODIFY_DATE2>2020-02-10T15:39:13.98+09:00</MODIFY_DATE2>
+      </Table>
+      <Table diffgr:id="Table2" msdata:rowOrder="1">
+        <IDX>240286</IDX>
+        <SET_ID>454928</SET_ID>
+        <DIC_ID>181246</DIC_ID>
+        <PRT_Q>He ______ something was about to happen.</PRT_Q>
+        <PRT_ANSWER>1</PRT_ANSWER>
+        <PRT_CHOICE1>sensed</PRT_CHOICE1>
+        <PRT_CHOICE2>delightful</PRT_CHOICE2>
+        <PRT_CHOICE3>superhero</PRT_CHOICE3>
+        <PRT_CHOICE4>temperature</PRT_CHOICE4>
+        <CREATE_ID>sjin0201</CREATE_ID>
+        <CREATE_DATE>2018-11-16T00:27:36.697+09:00</CREATE_DATE>
+        <MODIFY_ID>sjin0201</MODIFY_ID>
+        <MODIFY_DATE>2019-01-20T17:02:50.377+09:00</MODIFY_DATE>
+        <SET_ID1>454928</SET_ID1>
+        <ACT_ID>28292</ACT_ID>
+        <ACT_TYPE>WL</ACT_TYPE>
+        <TITLE>Control Your Dreams</TITLE>
+        <TEST_TIME>0</TEST_TIME>
+        <ETC_INT1>0</ETC_INT1>
+        <ETC_INT2>0</ETC_INT2>
+        <CREATE_ID1>sjin0201</CREATE_ID1>
+        <CREATE_DATE1>2018-11-14T15:28:14.87+09:00</CREATE_DATE1>
+        <MODIFY_ID1>sjin0201</MODIFY_ID1>
+        <MODIFY_DATE1>2019-01-29T01:00:03.153+09:00</MODIFY_DATE1>
+        <DIC_ID1>181246</DIC_ID1>
+        <WORD>sense</WORD>
+        <WORD_TYPE>noun</WORD_TYPE>
+        <MEAN_E>to know, feel, or understand</MEAN_E>
+        <MEAN_K>감지하다</MEAN_K>
+        <PICTURE>sense_RFch2e1.png</PICTURE>
+        <MEDIA>sense_RFch2e1.mp3</MEDIA>
+        <EXAMPLE>He sensed something was about to happen.</EXAMPLE>
+        <CREATE_ID2>sjin0201</CREATE_ID2>
+        <CREATE_DATE2>2018-11-16T00:26:45.857+09:00</CREATE_DATE2>
+        <MODIFY_ID2>sjin0201</MODIFY_ID2>
+        <MODIFY_DATE2>2019-01-20T17:02:50.38+09:00</MODIFY_DATE2>
+      </Table>
+      <Table diffgr:id="Table3" msdata:rowOrder="2">
+        <IDX>240287</IDX>
+        <SET_ID>454928</SET_ID>
+        <DIC_ID>181245</DIC_ID>
+        <PRT_Q>The doctor examined him and took his ______.</PRT_Q>
+        <PRT_ANSWER>1</PRT_ANSWER>
+        <PRT_CHOICE1>temperature</PRT_CHOICE1>
+        <PRT_CHOICE2>delightful</PRT_CHOICE2>
+        <PRT_CHOICE3>superhero</PRT_CHOICE3>
+        <PRT_CHOICE4>ideal</PRT_CHOICE4>
+        <CREATE_ID>sjin0201</CREATE_ID>
+        <CREATE_DATE>2018-11-16T00:27:36.7+09:00</CREATE_DATE>
+        <MODIFY_ID>sjin0201</MODIFY_ID>
+        <MODIFY_DATE>2019-01-20T17:03:26.82+09:00</MODIFY_DATE>
+        <SET_ID1>454928</SET_ID1>
+        <ACT_ID>28292</ACT_ID>
+        <ACT_TYPE>WL</ACT_TYPE>
+        <TITLE>Control Your Dreams</TITLE>
+        <TEST_TIME>0</TEST_TIME>
+        <ETC_INT1>0</ETC_INT1>
+        <ETC_INT2>0</ETC_INT2>
+        <CREATE_ID1>sjin0201</CREATE_ID1>
+        <CREATE_DATE1>2018-11-14T15:28:14.87+09:00</CREATE_DATE1>
+        <MODIFY_ID1>sjin0201</MODIFY_ID1>
+        <MODIFY_DATE1>2019-01-29T01:00:03.153+09:00</MODIFY_DATE1>
+        <DIC_ID1>181245</DIC_ID1>
+        <WORD>temperature</WORD>
+        <WORD_TYPE>noun</WORD_TYPE>
+        <MEAN_E>how hot or how cold something is</MEAN_E>
+        <MEAN_K>기온</MEAN_K>
+        <PICTURE>temperature_RFch2e1.png</PICTURE>
+        <MEDIA>temperature_RFch2e1.mp3</MEDIA>
+        <EXAMPLE>The doctor examined him and took his temperature.</EXAMPLE>
+        <CREATE_ID2>sjin0201</CREATE_ID2>
+        <CREATE_DATE2>2018-11-16T00:26:45.847+09:00</CREATE_DATE2>
+        <MODIFY_ID2>sjin0201</MODIFY_ID2>
+        <MODIFY_DATE2>2019-01-20T17:03:26.823+09:00</MODIFY_DATE2>
+      </Table>
+      <Table diffgr:id="Table4" msdata:rowOrder="3">
+        <IDX>240288</IDX>
+        <SET_ID>454928</SET_ID>
+        <DIC_ID>181244</DIC_ID>
+        <PRT_Q>The laws ______ drugs are very strict in this country.</PRT_Q>
+        <PRT_ANSWER>1</PRT_ANSWER>
+        <PRT_CHOICE1>controlling</PRT_CHOICE1>
+        <PRT_CHOICE2>superhero</PRT_CHOICE2>
+        <PRT_CHOICE3>signal</PRT_CHOICE3>
+        <PRT_CHOICE4>whole</PRT_CHOICE4>
+        <CREATE_ID>sjin0201</CREATE_ID>
+        <CREATE_DATE>2018-11-16T00:27:36.703+09:00</CREATE_DATE>
+        <MODIFY_ID>sjin0201</MODIFY_ID>
+        <MODIFY_DATE>2019-01-20T17:03:36.38+09:00</MODIFY_DATE>
+        <SET_ID1>454928</SET_ID1>
+        <ACT_ID>28292</ACT_ID>
+        <ACT_TYPE>WL</ACT_TYPE>
+        <TITLE>Control Your Dreams</TITLE>
+        <TEST_TIME>0</TEST_TIME>
+        <ETC_INT1>0</ETC_INT1>
+        <ETC_INT2>0</ETC_INT2>
+        <CREATE_ID1>sjin0201</CREATE_ID1>
+        <CREATE_DATE1>2018-11-14T15:28:14.87+09:00</CREATE_DATE1>
+        <MODIFY_ID1>sjin0201</MODIFY_ID1>
+        <MODIFY_DATE1>2019-01-29T01:00:03.153+09:00</MODIFY_DATE1>
+        <DIC_ID1>181244</DIC_ID1>
+        <WORD>control</WORD>
+        <WORD_TYPE>noun</WORD_TYPE>
+        <MEAN_E>to order, limit, or rule something, or someone's actions or behavior</MEAN_E>
+        <MEAN_K>제어하다</MEAN_K>
+        <PICTURE>control_RFch2e1.png</PICTURE>
+        <MEDIA>control_RFch2e1.mp3</MEDIA>
+        <EXAMPLE>The laws controlling drugs are very strict in this country.</EXAMPLE>
+        <CREATE_ID2>sjin0201</CREATE_ID2>
+        <CREATE_DATE2>2018-11-16T00:26:45.83+09:00</CREATE_DATE2>
+        <MODIFY_ID2>sjin0201</MODIFY_ID2>
+        <MODIFY_DATE2>2019-01-20T17:03:36.383+09:00</MODIFY_DATE2>
+      </Table>
+      <Table diffgr:id="Table5" msdata:rowOrder="4">
+        <IDX>240289</IDX>
+        <SET_ID>454928</SET_ID>
+        <DIC_ID>181243</DIC_ID>
+        <PRT_Q>The fireworks were a ______ that the festival had started.</PRT_Q>
+        <PRT_ANSWER>3</PRT_ANSWER>
+        <PRT_CHOICE1>superhero</PRT_CHOICE1>
+        <PRT_CHOICE2>whole</PRT_CHOICE2>
+        <PRT_CHOICE3>signal</PRT_CHOICE3>
+        <PRT_CHOICE4>delightful</PRT_CHOICE4>
+        <CREATE_ID>sjin0201</CREATE_ID>
+        <CREATE_DATE>2018-11-16T00:27:36.707+09:00</CREATE_DATE>
+        <MODIFY_ID>sjin0201</MODIFY_ID>
+        <MODIFY_DATE>2019-01-20T17:05:30.153+09:00</MODIFY_DATE>
+        <SET_ID1>454928</SET_ID1>
+        <ACT_ID>28292</ACT_ID>
+        <ACT_TYPE>WL</ACT_TYPE>
+        <TITLE>Control Your Dreams</TITLE>
+        <TEST_TIME>0</TEST_TIME>
+        <ETC_INT1>0</ETC_INT1>
+        <ETC_INT2>0</ETC_INT2>
+        <CREATE_ID1>sjin0201</CREATE_ID1>
+        <CREATE_DATE1>2018-11-14T15:28:14.87+09:00</CREATE_DATE1>
+        <MODIFY_ID1>sjin0201</MODIFY_ID1>
+        <MODIFY_DATE1>2019-01-29T01:00:03.153+09:00</MODIFY_DATE1>
+        <DIC_ID1>181243</DIC_ID1>
+        <WORD>signal</WORD>
+        <WORD_TYPE>noun</WORD_TYPE>
+        <MEAN_E>a sign that gives information</MEAN_E>
+        <MEAN_K>신호</MEAN_K>
+        <PICTURE>signal_RFch2e1.png</PICTURE>
+        <MEDIA>signal_RFch2e1.mp3</MEDIA>
+        <EXAMPLE>The fireworks were a signal that the festival had started.</EXAMPLE>
+        <CREATE_ID2>sjin0201</CREATE_ID2>
+        <CREATE_DATE2>2018-11-16T00:26:45.83+09:00</CREATE_DATE2>
+        <MODIFY_ID2>sjin0201</MODIFY_ID2>
+        <MODIFY_DATE2>2019-01-20T17:05:30.153+09:00</MODIFY_DATE2>
+      </Table>
+      <Table diffgr:id="Table6" msdata:rowOrder="5">
+        <IDX>240290</IDX>
+        <SET_ID>454928</SET_ID>
+        <DIC_ID>181242</DIC_ID>
+        <PRT_Q>Police officers are the real _______.</PRT_Q>
+        <PRT_ANSWER>1</PRT_ANSWER>
+        <PRT_CHOICE1>superheroes</PRT_CHOICE1>
+        <PRT_CHOICE2>ideal</PRT_CHOICE2>
+        <PRT_CHOICE3>delightful</PRT_CHOICE3>
+        <PRT_CHOICE4>temperature</PRT_CHOICE4>
+        <CREATE_ID>sjin0201</CREATE_ID>
+        <CREATE_DATE>2018-11-16T00:27:36.71+09:00</CREATE_DATE>
+        <MODIFY_ID>sjin0201</MODIFY_ID>
+        <MODIFY_DATE>2019-01-20T17:06:47.723+09:00</MODIFY_DATE>
+        <SET_ID1>454928</SET_ID1>
+        <ACT_ID>28292</ACT_ID>
+        <ACT_TYPE>WL</ACT_TYPE>
+        <TITLE>Control Your Dreams</TITLE>
+        <TEST_TIME>0</TEST_TIME>
+        <ETC_INT1>0</ETC_INT1>
+        <ETC_INT2>0</ETC_INT2>
+        <CREATE_ID1>sjin0201</CREATE_ID1>
+        <CREATE_DATE1>2018-11-14T15:28:14.87+09:00</CREATE_DATE1>
+        <MODIFY_ID1>sjin0201</MODIFY_ID1>
+        <MODIFY_DATE1>2019-01-29T01:00:03.153+09:00</MODIFY_DATE1>
+        <DIC_ID1>181242</DIC_ID1>
+        <WORD>superhero</WORD>
+        <WORD_TYPE>noun</WORD_TYPE>
+        <MEAN_E>a character that is not real that has amazing powers</MEAN_E>
+        <MEAN_K>영웅</MEAN_K>
+        <PICTURE>superhero_RFch2e1.png</PICTURE>
+        <MEDIA>superhero_RFch2e1.mp3</MEDIA>
+        <EXAMPLE>Police officers are the real superheroes.</EXAMPLE>
+        <CREATE_ID2>sjin0201</CREATE_ID2>
+        <CREATE_DATE2>2018-11-16T00:26:45.793+09:00</CREATE_DATE2>
+        <MODIFY_ID2>sjin0201</MODIFY_ID2>
+        <MODIFY_DATE2>2019-01-20T17:06:47.727+09:00</MODIFY_DATE2>
+      </Table>
+      <Table diffgr:id="Table7" msdata:rowOrder="6">
+        <IDX>240291</IDX>
+        <SET_ID>454928</SET_ID>
+        <DIC_ID>181241</DIC_ID>
+        <PRT_Q>This house is a(n) _______ place for my family. It has everything we need.</PRT_Q>
+        <PRT_ANSWER>2</PRT_ANSWER>
+        <PRT_CHOICE1>superhero</PRT_CHOICE1>
+        <PRT_CHOICE2>ideal</PRT_CHOICE2>
+        <PRT_CHOICE3>sense</PRT_CHOICE3>
+        <PRT_CHOICE4>temperature</PRT_CHOICE4>
+        <CREATE_ID>sjin0201</CREATE_ID>
+        <CREATE_DATE>2018-11-16T00:27:36.71+09:00</CREATE_DATE>
+        <MODIFY_ID>sjin0201</MODIFY_ID>
+        <MODIFY_DATE>2019-01-20T17:07:46.13+09:00</MODIFY_DATE>
+        <SET_ID1>454928</SET_ID1>
+        <ACT_ID>28292</ACT_ID>
+        <ACT_TYPE>WL</ACT_TYPE>
+        <TITLE>Control Your Dreams</TITLE>
+        <TEST_TIME>0</TEST_TIME>
+        <ETC_INT1>0</ETC_INT1>
+        <ETC_INT2>0</ETC_INT2>
+        <CREATE_ID1>sjin0201</CREATE_ID1>
+        <CREATE_DATE1>2018-11-14T15:28:14.87+09:00</CREATE_DATE1>
+        <MODIFY_ID1>sjin0201</MODIFY_ID1>
+        <MODIFY_DATE1>2019-01-29T01:00:03.153+09:00</MODIFY_DATE1>
+        <DIC_ID1>181241</DIC_ID1>
+        <WORD>ideal</WORD>
+        <WORD_TYPE>noun</WORD_TYPE>
+        <MEAN_E>perfect, or the best possible</MEAN_E>
+        <MEAN_K>이상적인</MEAN_K>
+        <PICTURE>ideal_RFch2e1.png</PICTURE>
+        <MEDIA>ideal_RFch2e1.mp3</MEDIA>
+        <EXAMPLE>This house is an ideal place for my family. It has everything we need.</EXAMPLE>
+        <CREATE_ID2>sjin0201</CREATE_ID2>
+        <CREATE_DATE2>2018-11-16T00:26:45.793+09:00</CREATE_DATE2>
+        <MODIFY_ID2>sjin0201</MODIFY_ID2>
+        <MODIFY_DATE2>2019-01-20T17:07:46.133+09:00</MODIFY_DATE2>
+      </Table>
+      <Table diffgr:id="Table8" msdata:rowOrder="7">
+        <IDX>240292</IDX>
+        <SET_ID>454928</SET_ID>
+        <DIC_ID>181240</DIC_ID>
+        <PRT_Q>It is ______ to meet you.</PRT_Q>
+        <PRT_ANSWER>3</PRT_ANSWER>
+        <PRT_CHOICE1>superhero</PRT_CHOICE1>
+        <PRT_CHOICE2>strengthen</PRT_CHOICE2>
+        <PRT_CHOICE3>delightful</PRT_CHOICE3>
+        <PRT_CHOICE4>temperature</PRT_CHOICE4>
+        <CREATE_ID>sjin0201</CREATE_ID>
+        <CREATE_DATE>2018-11-16T00:27:36.713+09:00</CREATE_DATE>
+        <MODIFY_ID>sjin0201</MODIFY_ID>
+        <MODIFY_DATE>2019-01-20T17:08:24.277+09:00</MODIFY_DATE>
+        <SET_ID1>454928</SET_ID1>
+        <ACT_ID>28292</ACT_ID>
+        <ACT_TYPE>WL</ACT_TYPE>
+        <TITLE>Control Your Dreams</TITLE>
+        <TEST_TIME>0</TEST_TIME>
+        <ETC_INT1>0</ETC_INT1>
+        <ETC_INT2>0</ETC_INT2>
+        <CREATE_ID1>sjin0201</CREATE_ID1>
+        <CREATE_DATE1>2018-11-14T15:28:14.87+09:00</CREATE_DATE1>
+        <MODIFY_ID1>sjin0201</MODIFY_ID1>
+        <MODIFY_DATE1>2019-01-29T01:00:03.153+09:00</MODIFY_DATE1>
+        <DIC_ID1>181240</DIC_ID1>
+        <WORD>delightful</WORD>
+        <WORD_TYPE>noun</WORD_TYPE>
+        <MEAN_E>very pleasant </MEAN_E>
+        <MEAN_K>기쁜</MEAN_K>
+        <PICTURE>delightful_RFch2e1.png</PICTURE>
+        <MEDIA>delightful_RFch2e1.mp3</MEDIA>
+        <EXAMPLE>It is delightful to meet you.</EXAMPLE>
+        <CREATE_ID2>sjin0201</CREATE_ID2>
+        <CREATE_DATE2>2018-11-16T00:26:45.763+09:00</CREATE_DATE2>
+        <MODIFY_ID2>sjin0201</MODIFY_ID2>
+        <MODIFY_DATE2>2019-01-20T17:08:24.28+09:00</MODIFY_DATE2>
+      </Table>
+    </NewDataSet>

@@ -1,0 +1,306 @@
+﻿<NewDataSet xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:diffgr="urn:schemas-microsoft-com:xml-diffgram-v1" xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <Table diffgr:id="Table1" msdata:rowOrder="0">
+        <IDX>240301</IDX>
+        <SET_ID>454940</SET_ID>
+        <DIC_ID>181263</DIC_ID>
+        <PRT_Q>Both buildings were badly ______ by the fire.</PRT_Q>
+        <PRT_ANSWER>4</PRT_ANSWER>
+        <PRT_CHOICE1>rose</PRT_CHOICE1>
+        <PRT_CHOICE2>agree</PRT_CHOICE2>
+        <PRT_CHOICE3>avoid</PRT_CHOICE3>
+        <PRT_CHOICE4>affected</PRT_CHOICE4>
+        <CREATE_ID>sjin0201</CREATE_ID>
+        <CREATE_DATE>2018-11-16T00:45:45.243+09:00</CREATE_DATE>
+        <MODIFY_ID>sjin0201</MODIFY_ID>
+        <MODIFY_DATE>2019-01-20T17:15:04.553+09:00</MODIFY_DATE>
+        <SET_ID1>454940</SET_ID1>
+        <ACT_ID>28294</ACT_ID>
+        <ACT_TYPE>WL</ACT_TYPE>
+        <TITLE>Testing Dreams</TITLE>
+        <TEST_TIME>0</TEST_TIME>
+        <ETC_INT1>0</ETC_INT1>
+        <ETC_INT2>0</ETC_INT2>
+        <CREATE_ID1>sjin0201</CREATE_ID1>
+        <CREATE_DATE1>2018-11-14T15:29:24.017+09:00</CREATE_DATE1>
+        <MODIFY_ID1>sjin0201</MODIFY_ID1>
+        <MODIFY_DATE1>2019-01-29T01:01:36.493+09:00</MODIFY_DATE1>
+        <DIC_ID1>181263</DIC_ID1>
+        <WORD>affect</WORD>
+        <WORD_TYPE>noun</WORD_TYPE>
+        <MEAN_E>to have an influence on someone or something, or to cause a change in someone or something</MEAN_E>
+        <MEAN_K>영향을 미치다</MEAN_K>
+        <PICTURE>affect_RFch2e1.png</PICTURE>
+        <MEDIA>affect_RFch2e1.mp3</MEDIA>
+        <EXAMPLE>Both buildings were badly affected by the fire.</EXAMPLE>
+        <CREATE_ID2>sjin0201</CREATE_ID2>
+        <CREATE_DATE2>2018-11-16T00:45:00.793+09:00</CREATE_DATE2>
+        <MODIFY_ID2>sjin0201</MODIFY_ID2>
+        <MODIFY_DATE2>2019-01-20T17:15:04.553+09:00</MODIFY_DATE2>
+      </Table>
+      <Table diffgr:id="Table2" msdata:rowOrder="1">
+        <IDX>240302</IDX>
+        <SET_ID>454940</SET_ID>
+        <DIC_ID>181262</DIC_ID>
+        <PRT_Q>Red ______ is my favorite flower. </PRT_Q>
+        <PRT_ANSWER>4</PRT_ANSWER>
+        <PRT_CHOICE1>interview</PRT_CHOICE1>
+        <PRT_CHOICE2>terrible</PRT_CHOICE2>
+        <PRT_CHOICE3>affect</PRT_CHOICE3>
+        <PRT_CHOICE4>rose</PRT_CHOICE4>
+        <CREATE_ID>sjin0201</CREATE_ID>
+        <CREATE_DATE>2018-11-16T00:45:45.247+09:00</CREATE_DATE>
+        <MODIFY_ID>sjin0201</MODIFY_ID>
+        <MODIFY_DATE>2019-01-20T17:15:44.49+09:00</MODIFY_DATE>
+        <SET_ID1>454940</SET_ID1>
+        <ACT_ID>28294</ACT_ID>
+        <ACT_TYPE>WL</ACT_TYPE>
+        <TITLE>Testing Dreams</TITLE>
+        <TEST_TIME>0</TEST_TIME>
+        <ETC_INT1>0</ETC_INT1>
+        <ETC_INT2>0</ETC_INT2>
+        <CREATE_ID1>sjin0201</CREATE_ID1>
+        <CREATE_DATE1>2018-11-14T15:29:24.017+09:00</CREATE_DATE1>
+        <MODIFY_ID1>sjin0201</MODIFY_ID1>
+        <MODIFY_DATE1>2019-01-29T01:01:36.493+09:00</MODIFY_DATE1>
+        <DIC_ID1>181262</DIC_ID1>
+        <WORD>rose</WORD>
+        <WORD_TYPE>noun</WORD_TYPE>
+        <MEAN_E>a flower that is often red and has a nice smell</MEAN_E>
+        <MEAN_K>장미</MEAN_K>
+        <PICTURE>rose_RFch2e1.png</PICTURE>
+        <MEDIA>rose_RFch2e1.mp3</MEDIA>
+        <EXAMPLE>Red rose is my favorite flower. </EXAMPLE>
+        <CREATE_ID2>sjin0201</CREATE_ID2>
+        <CREATE_DATE2>2018-11-16T00:45:00.793+09:00</CREATE_DATE2>
+        <MODIFY_ID2>sjin0201</MODIFY_ID2>
+        <MODIFY_DATE2>2019-01-20T17:15:44.49+09:00</MODIFY_DATE2>
+      </Table>
+      <Table diffgr:id="Table3" msdata:rowOrder="2">
+        <IDX>240303</IDX>
+        <SET_ID>454940</SET_ID>
+        <DIC_ID>181261</DIC_ID>
+        <PRT_Q>I ______ with you on this issue.</PRT_Q>
+        <PRT_ANSWER>4</PRT_ANSWER>
+        <PRT_CHOICE1>rose</PRT_CHOICE1>
+        <PRT_CHOICE2>rotten</PRT_CHOICE2>
+        <PRT_CHOICE3>terrible</PRT_CHOICE3>
+        <PRT_CHOICE4>agree</PRT_CHOICE4>
+        <CREATE_ID>sjin0201</CREATE_ID>
+        <CREATE_DATE>2018-11-16T00:45:45.25+09:00</CREATE_DATE>
+        <MODIFY_ID>sjin0201</MODIFY_ID>
+        <MODIFY_DATE>2019-01-20T17:15:44.493+09:00</MODIFY_DATE>
+        <SET_ID1>454940</SET_ID1>
+        <ACT_ID>28294</ACT_ID>
+        <ACT_TYPE>WL</ACT_TYPE>
+        <TITLE>Testing Dreams</TITLE>
+        <TEST_TIME>0</TEST_TIME>
+        <ETC_INT1>0</ETC_INT1>
+        <ETC_INT2>0</ETC_INT2>
+        <CREATE_ID1>sjin0201</CREATE_ID1>
+        <CREATE_DATE1>2018-11-14T15:29:24.017+09:00</CREATE_DATE1>
+        <MODIFY_ID1>sjin0201</MODIFY_ID1>
+        <MODIFY_DATE1>2019-01-29T01:01:36.493+09:00</MODIFY_DATE1>
+        <DIC_ID1>181261</DIC_ID1>
+        <WORD>agree</WORD>
+        <WORD_TYPE>verb</WORD_TYPE>
+        <MEAN_E>to have the same opinion</MEAN_E>
+        <MEAN_K>동의하다, 찬성하다</MEAN_K>
+        <PICTURE>agree_RFch2e1.png</PICTURE>
+        <MEDIA>agree_RFch2e1.mp3</MEDIA>
+        <EXAMPLE>I agree with you on this issue.</EXAMPLE>
+        <CREATE_ID2>sjin0201</CREATE_ID2>
+        <CREATE_DATE2>2018-11-16T00:45:00.777+09:00</CREATE_DATE2>
+        <MODIFY_ID2>admin</MODIFY_ID2>
+        <MODIFY_DATE2>2020-02-21T16:34:27.08+09:00</MODIFY_DATE2>
+      </Table>
+      <Table diffgr:id="Table4" msdata:rowOrder="3">
+        <IDX>240304</IDX>
+        <SET_ID>454940</SET_ID>
+        <DIC_ID>181260</DIC_ID>
+        <PRT_Q>I had a(n) ______ for a job.</PRT_Q>
+        <PRT_ANSWER>4</PRT_ANSWER>
+        <PRT_CHOICE1>affect</PRT_CHOICE1>
+        <PRT_CHOICE2>avoid</PRT_CHOICE2>
+        <PRT_CHOICE3>terrible</PRT_CHOICE3>
+        <PRT_CHOICE4>interview</PRT_CHOICE4>
+        <CREATE_ID>sjin0201</CREATE_ID>
+        <CREATE_DATE>2018-11-16T00:45:45.25+09:00</CREATE_DATE>
+        <MODIFY_ID>sjin0201</MODIFY_ID>
+        <MODIFY_DATE>2019-01-20T17:16:13.14+09:00</MODIFY_DATE>
+        <SET_ID1>454940</SET_ID1>
+        <ACT_ID>28294</ACT_ID>
+        <ACT_TYPE>WL</ACT_TYPE>
+        <TITLE>Testing Dreams</TITLE>
+        <TEST_TIME>0</TEST_TIME>
+        <ETC_INT1>0</ETC_INT1>
+        <ETC_INT2>0</ETC_INT2>
+        <CREATE_ID1>sjin0201</CREATE_ID1>
+        <CREATE_DATE1>2018-11-14T15:29:24.017+09:00</CREATE_DATE1>
+        <MODIFY_ID1>sjin0201</MODIFY_ID1>
+        <MODIFY_DATE1>2019-01-29T01:01:36.493+09:00</MODIFY_DATE1>
+        <DIC_ID1>181260</DIC_ID1>
+        <WORD>interview</WORD>
+        <WORD_TYPE>noun</WORD_TYPE>
+        <MEAN_E>to have a meeting where someone is asked questions to get information about them</MEAN_E>
+        <MEAN_K>면담, 인터뷰</MEAN_K>
+        <PICTURE>interview_RFch2e1.png</PICTURE>
+        <MEDIA>interview_RFch2e1.mp3</MEDIA>
+        <EXAMPLE>I had an interview for a job.</EXAMPLE>
+        <CREATE_ID2>sjin0201</CREATE_ID2>
+        <CREATE_DATE2>2018-11-16T00:45:00.757+09:00</CREATE_DATE2>
+        <MODIFY_ID2>sjin0201</MODIFY_ID2>
+        <MODIFY_DATE2>2019-01-20T17:16:13.143+09:00</MODIFY_DATE2>
+      </Table>
+      <Table diffgr:id="Table5" msdata:rowOrder="4">
+        <IDX>240305</IDX>
+        <SET_ID>454940</SET_ID>
+        <DIC_ID>181259</DIC_ID>
+        <PRT_Q>The room smelled of ______ eggs.</PRT_Q>
+        <PRT_ANSWER>2</PRT_ANSWER>
+        <PRT_CHOICE1>interview</PRT_CHOICE1>
+        <PRT_CHOICE2>rotten</PRT_CHOICE2>
+        <PRT_CHOICE3>avoid</PRT_CHOICE3>
+        <PRT_CHOICE4>affect</PRT_CHOICE4>
+        <CREATE_ID>sjin0201</CREATE_ID>
+        <CREATE_DATE>2018-11-16T00:45:45.253+09:00</CREATE_DATE>
+        <MODIFY_ID>sjin0201</MODIFY_ID>
+        <MODIFY_DATE>2019-01-20T17:16:27.907+09:00</MODIFY_DATE>
+        <SET_ID1>454940</SET_ID1>
+        <ACT_ID>28294</ACT_ID>
+        <ACT_TYPE>WL</ACT_TYPE>
+        <TITLE>Testing Dreams</TITLE>
+        <TEST_TIME>0</TEST_TIME>
+        <ETC_INT1>0</ETC_INT1>
+        <ETC_INT2>0</ETC_INT2>
+        <CREATE_ID1>sjin0201</CREATE_ID1>
+        <CREATE_DATE1>2018-11-14T15:29:24.017+09:00</CREATE_DATE1>
+        <MODIFY_ID1>sjin0201</MODIFY_ID1>
+        <MODIFY_DATE1>2019-01-29T01:01:36.493+09:00</MODIFY_DATE1>
+        <DIC_ID1>181259</DIC_ID1>
+        <WORD>rotten</WORD>
+        <WORD_TYPE>noun</WORD_TYPE>
+        <MEAN_E>bad and not good to eat</MEAN_E>
+        <MEAN_K>썩은</MEAN_K>
+        <PICTURE>rotten_RFch2e1.png</PICTURE>
+        <MEDIA>rotten_RFch2e1.mp3</MEDIA>
+        <EXAMPLE>The room smelled of rotten eggs.</EXAMPLE>
+        <CREATE_ID2>sjin0201</CREATE_ID2>
+        <CREATE_DATE2>2018-11-16T00:45:00.74+09:00</CREATE_DATE2>
+        <MODIFY_ID2>sjin0201</MODIFY_ID2>
+        <MODIFY_DATE2>2019-01-20T17:16:27.91+09:00</MODIFY_DATE2>
+      </Table>
+      <Table diffgr:id="Table6" msdata:rowOrder="5">
+        <IDX>240306</IDX>
+        <SET_ID>454940</SET_ID>
+        <DIC_ID>181258</DIC_ID>
+        <PRT_Q>We have just received some ______ news.</PRT_Q>
+        <PRT_ANSWER>2</PRT_ANSWER>
+        <PRT_CHOICE1>avoid</PRT_CHOICE1>
+        <PRT_CHOICE2>terrible</PRT_CHOICE2>
+        <PRT_CHOICE3>affect</PRT_CHOICE3>
+        <PRT_CHOICE4>agree</PRT_CHOICE4>
+        <CREATE_ID>sjin0201</CREATE_ID>
+        <CREATE_DATE>2018-11-16T00:45:45.257+09:00</CREATE_DATE>
+        <MODIFY_ID>sjin0201</MODIFY_ID>
+        <MODIFY_DATE>2019-01-20T17:16:42.253+09:00</MODIFY_DATE>
+        <SET_ID1>454940</SET_ID1>
+        <ACT_ID>28294</ACT_ID>
+        <ACT_TYPE>WL</ACT_TYPE>
+        <TITLE>Testing Dreams</TITLE>
+        <TEST_TIME>0</TEST_TIME>
+        <ETC_INT1>0</ETC_INT1>
+        <ETC_INT2>0</ETC_INT2>
+        <CREATE_ID1>sjin0201</CREATE_ID1>
+        <CREATE_DATE1>2018-11-14T15:29:24.017+09:00</CREATE_DATE1>
+        <MODIFY_ID1>sjin0201</MODIFY_ID1>
+        <MODIFY_DATE1>2019-01-29T01:01:36.493+09:00</MODIFY_DATE1>
+        <DIC_ID1>181258</DIC_ID1>
+        <WORD>terrible</WORD>
+        <WORD_TYPE>noun</WORD_TYPE>
+        <MEAN_E>very unpleasant or serious or of low quality:</MEAN_E>
+        <MEAN_K>끔찍한</MEAN_K>
+        <PICTURE>terrible_RFch2e1.png</PICTURE>
+        <MEDIA>terrible_RFch2e1.mp3</MEDIA>
+        <EXAMPLE>We have just received some terrible news.</EXAMPLE>
+        <CREATE_ID2>sjin0201</CREATE_ID2>
+        <CREATE_DATE2>2018-11-16T00:45:00.703+09:00</CREATE_DATE2>
+        <MODIFY_ID2>sjin0201</MODIFY_ID2>
+        <MODIFY_DATE2>2019-01-20T17:16:42.257+09:00</MODIFY_DATE2>
+      </Table>
+      <Table diffgr:id="Table7" msdata:rowOrder="6">
+        <IDX>240307</IDX>
+        <SET_ID>454940</SET_ID>
+        <DIC_ID>181257</DIC_ID>
+        <PRT_Q>Scientists do lots of ______ to find out the results.</PRT_Q>
+        <PRT_ANSWER>2</PRT_ANSWER>
+        <PRT_CHOICE1>avoid</PRT_CHOICE1>
+        <PRT_CHOICE2>experiments</PRT_CHOICE2>
+        <PRT_CHOICE3>terrible</PRT_CHOICE3>
+        <PRT_CHOICE4>affect</PRT_CHOICE4>
+        <CREATE_ID>sjin0201</CREATE_ID>
+        <CREATE_DATE>2018-11-16T00:45:45.26+09:00</CREATE_DATE>
+        <MODIFY_ID>sjin0201</MODIFY_ID>
+        <MODIFY_DATE>2019-01-20T17:16:51.67+09:00</MODIFY_DATE>
+        <SET_ID1>454940</SET_ID1>
+        <ACT_ID>28294</ACT_ID>
+        <ACT_TYPE>WL</ACT_TYPE>
+        <TITLE>Testing Dreams</TITLE>
+        <TEST_TIME>0</TEST_TIME>
+        <ETC_INT1>0</ETC_INT1>
+        <ETC_INT2>0</ETC_INT2>
+        <CREATE_ID1>sjin0201</CREATE_ID1>
+        <CREATE_DATE1>2018-11-14T15:29:24.017+09:00</CREATE_DATE1>
+        <MODIFY_ID1>sjin0201</MODIFY_ID1>
+        <MODIFY_DATE1>2019-01-29T01:01:36.493+09:00</MODIFY_DATE1>
+        <DIC_ID1>181257</DIC_ID1>
+        <WORD>experiment</WORD>
+        <WORD_TYPE>noun</WORD_TYPE>
+        <MEAN_E>a test to find out something</MEAN_E>
+        <MEAN_K>실험</MEAN_K>
+        <PICTURE>experiment_RFch2e1.png</PICTURE>
+        <MEDIA>experiment_RFch2e1.mp3</MEDIA>
+        <EXAMPLE>Scientists do lots of experiments to find out the results.</EXAMPLE>
+        <CREATE_ID2>sjin0201</CREATE_ID2>
+        <CREATE_DATE2>2018-11-16T00:45:00.703+09:00</CREATE_DATE2>
+        <MODIFY_ID2>sjin0201</MODIFY_ID2>
+        <MODIFY_DATE2>2019-01-20T17:16:51.673+09:00</MODIFY_DATE2>
+      </Table>
+      <Table diffgr:id="Table8" msdata:rowOrder="7">
+        <IDX>240308</IDX>
+        <SET_ID>454940</SET_ID>
+        <DIC_ID>181256</DIC_ID>
+        <PRT_Q>I ______ driving in the rush hour.</PRT_Q>
+        <PRT_ANSWER>2</PRT_ANSWER>
+        <PRT_CHOICE1>rotten</PRT_CHOICE1>
+        <PRT_CHOICE2>avoid</PRT_CHOICE2>
+        <PRT_CHOICE3>rose</PRT_CHOICE3>
+        <PRT_CHOICE4>terrible</PRT_CHOICE4>
+        <CREATE_ID>sjin0201</CREATE_ID>
+        <CREATE_DATE>2018-11-16T00:45:45.26+09:00</CREATE_DATE>
+        <MODIFY_ID>sjin0201</MODIFY_ID>
+        <MODIFY_DATE>2019-01-20T17:17:20.22+09:00</MODIFY_DATE>
+        <SET_ID1>454940</SET_ID1>
+        <ACT_ID>28294</ACT_ID>
+        <ACT_TYPE>WL</ACT_TYPE>
+        <TITLE>Testing Dreams</TITLE>
+        <TEST_TIME>0</TEST_TIME>
+        <ETC_INT1>0</ETC_INT1>
+        <ETC_INT2>0</ETC_INT2>
+        <CREATE_ID1>sjin0201</CREATE_ID1>
+        <CREATE_DATE1>2018-11-14T15:29:24.017+09:00</CREATE_DATE1>
+        <MODIFY_ID1>sjin0201</MODIFY_ID1>
+        <MODIFY_DATE1>2019-01-29T01:01:36.493+09:00</MODIFY_DATE1>
+        <DIC_ID1>181256</DIC_ID1>
+        <WORD>avoid</WORD>
+        <WORD_TYPE>noun</WORD_TYPE>
+        <MEAN_E>to keep away from</MEAN_E>
+        <MEAN_K>피하다</MEAN_K>
+        <PICTURE>avoid_RFch2e1.png</PICTURE>
+        <MEDIA>avoid_RFch2e1.mp3</MEDIA>
+        <EXAMPLE>I avoid driving in the rush hour.</EXAMPLE>
+        <CREATE_ID2>sjin0201</CREATE_ID2>
+        <CREATE_DATE2>2018-11-16T00:45:00.677+09:00</CREATE_DATE2>
+        <MODIFY_ID2>sjin0201</MODIFY_ID2>
+        <MODIFY_DATE2>2019-01-20T17:17:20.223+09:00</MODIFY_DATE2>
+      </Table>
+    </NewDataSet>

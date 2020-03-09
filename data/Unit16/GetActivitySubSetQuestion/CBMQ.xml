@@ -1,0 +1,35 @@
+﻿<NewDataSet xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:diffgr="urn:schemas-microsoft-com:xml-diffgram-v1" xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <Table diffgr:id="Table1" msdata:rowOrder="0">
+        <IDX>92131</IDX>
+        <ACT_ID>28302</ACT_ID>
+        <PRT_Q>If someone stops breathing, what is the first thing we must do?</PRT_Q>
+        <PRT_CHOICE1>Do chest compressions </PRT_CHOICE1>
+        <PRT_CHOICE2>Call an ambulance</PRT_CHOICE2>
+        <PRT_CHOICE3>Listen for a heartbeat </PRT_CHOICE3>
+        <PRT_CHOICE4>Check if they are on their back</PRT_CHOICE4>
+        <PRT_ANSWER>2</PRT_ANSWER>
+        <WORD_MAP />
+      </Table>
+      <Table diffgr:id="Table2" msdata:rowOrder="1">
+        <IDX>92132</IDX>
+        <ACT_ID>28302</ACT_ID>
+        <PRT_Q>Why is helping in the first four minutes important?</PRT_Q>
+        <PRT_CHOICE1>The person is more likely to live. </PRT_CHOICE1>
+        <PRT_CHOICE2>The person can call an ambulance.</PRT_CHOICE2>
+        <PRT_CHOICE3>The person will not forget anything. </PRT_CHOICE3>
+        <PRT_CHOICE4>The person will not get hurt.</PRT_CHOICE4>
+        <PRT_ANSWER>1</PRT_ANSWER>
+        <WORD_MAP />
+      </Table>
+      <Table diffgr:id="Table3" msdata:rowOrder="2">
+        <IDX>92133</IDX>
+        <ACT_ID>28302</ACT_ID>
+        <PRT_Q>When we do chest compression, how many times do we press down within a minute?</PRT_Q>
+        <PRT_CHOICE1>once </PRT_CHOICE1>
+        <PRT_CHOICE2>four times</PRT_CHOICE2>
+        <PRT_CHOICE3>at least 100 times </PRT_CHOICE3>
+        <PRT_CHOICE4>as many times as possible</PRT_CHOICE4>
+        <PRT_ANSWER>3</PRT_ANSWER>
+        <WORD_MAP />
+      </Table>
+    </NewDataSet>

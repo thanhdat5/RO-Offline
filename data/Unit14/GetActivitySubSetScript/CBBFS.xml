@@ -1,0 +1,20 @@
+﻿<NewDataSet xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:diffgr="urn:schemas-microsoft-com:xml-diffgram-v1" xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <Table diffgr:id="Table1" msdata:rowOrder="0">
+        <IDX>24056</IDX>
+        <SET_ID>454978</SET_ID>
+        <SCRIPT>People like to play in pools, rivers, lakes, and beaches. It is fun, but there is also a [{risk}]. In order to stay [{safe}], you can follow a few basic safety [{tips}]. First, have someone nearby who can help if you need it. Second, do not run near the water in case you slip and fall. If you fall into deep water, you might [{panic}] and drown. Panicking makes a person [{sink}] in water. Third, learn how to float on your back. This is a good way to [{survive}] if you get into deep water.</SCRIPT>
+        <ACT_ID>28300</ACT_ID>
+        <ACT_TYPE>BF</ACT_TYPE>
+        <TITLE>Water Safety</TITLE>
+        <SUB_TITLE />
+        <TEST_TIME>0</TEST_TIME>
+        <ETC_INT1>0</ETC_INT1>
+        <ETC_INT2>0</ETC_INT2>
+        <SUB_SET_ID>488718</SUB_SET_ID>
+        <SUB_TYPE>CBBFS</SUB_TYPE>
+        <STUDENT>true</STUDENT>
+        <TEACHER>false</TEACHER>
+        <IS_SILVERLIGHT>false</IS_SILVERLIGHT>
+        <IS_FLASH>false</IS_FLASH>
+      </Table>
+    </NewDataSet>

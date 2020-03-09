@@ -1,0 +1,306 @@
+﻿<NewDataSet xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:diffgr="urn:schemas-microsoft-com:xml-diffgram-v1" xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <Table diffgr:id="Table1" msdata:rowOrder="0">
+        <IDX>240261</IDX>
+        <SET_ID>454910</SET_ID>
+        <DIC_ID>181216</DIC_ID>
+        <PRT_Q>The captain tried to head the ship for the ______.</PRT_Q>
+        <PRT_ANSWER>4</PRT_ANSWER>
+        <PRT_CHOICE1>comfortable</PRT_CHOICE1>
+        <PRT_CHOICE2>northern</PRT_CHOICE2>
+        <PRT_CHOICE3>allow</PRT_CHOICE3>
+        <PRT_CHOICE4>channel</PRT_CHOICE4>
+        <CREATE_ID>sjin0201</CREATE_ID>
+        <CREATE_DATE>2018-11-16T00:01:21.423+09:00</CREATE_DATE>
+        <MODIFY_ID>sjin0201</MODIFY_ID>
+        <MODIFY_DATE>2019-01-20T16:35:01.833+09:00</MODIFY_DATE>
+        <SET_ID1>454910</SET_ID1>
+        <ACT_ID>28289</ACT_ID>
+        <ACT_TYPE>WL</ACT_TYPE>
+        <TITLE>The Chunnel</TITLE>
+        <TEST_TIME>0</TEST_TIME>
+        <ETC_INT1>0</ETC_INT1>
+        <ETC_INT2>0</ETC_INT2>
+        <CREATE_ID1>sjin0201</CREATE_ID1>
+        <CREATE_DATE1>2018-11-14T15:26:25.197+09:00</CREATE_DATE1>
+        <MODIFY_ID1>sjin0201</MODIFY_ID1>
+        <MODIFY_DATE1>2019-01-29T00:57:49.123+09:00</MODIFY_DATE1>
+        <DIC_ID1>181216</DIC_ID1>
+        <WORD>channel</WORD>
+        <WORD_TYPE>noun</WORD_TYPE>
+        <MEAN_E>a narrow sea between two close large areas of land</MEAN_E>
+        <MEAN_K>수로</MEAN_K>
+        <PICTURE>channel_RFch2e1.png</PICTURE>
+        <MEDIA>channel_RFch2e1.mp3</MEDIA>
+        <EXAMPLE>The captain tried to head the ship for the channel.</EXAMPLE>
+        <CREATE_ID2>sjin0201</CREATE_ID2>
+        <CREATE_DATE2>2018-11-16T00:00:30.83+09:00</CREATE_DATE2>
+        <MODIFY_ID2>sjin0201</MODIFY_ID2>
+        <MODIFY_DATE2>2019-01-20T16:35:01.833+09:00</MODIFY_DATE2>
+      </Table>
+      <Table diffgr:id="Table2" msdata:rowOrder="1">
+        <IDX>240262</IDX>
+        <SET_ID>454910</SET_ID>
+        <DIC_ID>181217</DIC_ID>
+        <PRT_Q>The _______ part of the country is coldest during the winter.</PRT_Q>
+        <PRT_ANSWER>2</PRT_ANSWER>
+        <PRT_CHOICE1>allow</PRT_CHOICE1>
+        <PRT_CHOICE2>northern</PRT_CHOICE2>
+        <PRT_CHOICE3>distance</PRT_CHOICE3>
+        <PRT_CHOICE4>possible</PRT_CHOICE4>
+        <CREATE_ID>sjin0201</CREATE_ID>
+        <CREATE_DATE>2018-11-16T00:01:21.427+09:00</CREATE_DATE>
+        <MODIFY_ID>sjin0201</MODIFY_ID>
+        <MODIFY_DATE>2019-01-20T16:36:16.797+09:00</MODIFY_DATE>
+        <SET_ID1>454910</SET_ID1>
+        <ACT_ID>28289</ACT_ID>
+        <ACT_TYPE>WL</ACT_TYPE>
+        <TITLE>The Chunnel</TITLE>
+        <TEST_TIME>0</TEST_TIME>
+        <ETC_INT1>0</ETC_INT1>
+        <ETC_INT2>0</ETC_INT2>
+        <CREATE_ID1>sjin0201</CREATE_ID1>
+        <CREATE_DATE1>2018-11-14T15:26:25.197+09:00</CREATE_DATE1>
+        <MODIFY_ID1>sjin0201</MODIFY_ID1>
+        <MODIFY_DATE1>2019-01-29T00:57:49.123+09:00</MODIFY_DATE1>
+        <DIC_ID1>181217</DIC_ID1>
+        <WORD>northern</WORD>
+        <WORD_TYPE>noun</WORD_TYPE>
+        <MEAN_E>in or toward the north</MEAN_E>
+        <MEAN_K>북쪽의</MEAN_K>
+        <PICTURE>northern_RFch2e1.png</PICTURE>
+        <MEDIA>northern_RFch2e1.mp3</MEDIA>
+        <EXAMPLE>The northern part of the country is coldest during the winter.</EXAMPLE>
+        <CREATE_ID2>sjin0201</CREATE_ID2>
+        <CREATE_DATE2>2018-11-16T00:00:30.85+09:00</CREATE_DATE2>
+        <MODIFY_ID2>sjin0201</MODIFY_ID2>
+        <MODIFY_DATE2>2019-01-20T16:36:16.797+09:00</MODIFY_DATE2>
+      </Table>
+      <Table diffgr:id="Table3" msdata:rowOrder="2">
+        <IDX>240263</IDX>
+        <SET_ID>454910</SET_ID>
+        <DIC_ID>181218</DIC_ID>
+        <PRT_Q>Try to read as fast as ______ without stopping.</PRT_Q>
+        <PRT_ANSWER>1</PRT_ANSWER>
+        <PRT_CHOICE1>possible</PRT_CHOICE1>
+        <PRT_CHOICE2>allow</PRT_CHOICE2>
+        <PRT_CHOICE3>distance</PRT_CHOICE3>
+        <PRT_CHOICE4>Europe</PRT_CHOICE4>
+        <CREATE_ID>sjin0201</CREATE_ID>
+        <CREATE_DATE>2018-11-16T00:01:21.43+09:00</CREATE_DATE>
+        <MODIFY_ID>sjin0201</MODIFY_ID>
+        <MODIFY_DATE>2019-01-20T16:33:36.42+09:00</MODIFY_DATE>
+        <SET_ID1>454910</SET_ID1>
+        <ACT_ID>28289</ACT_ID>
+        <ACT_TYPE>WL</ACT_TYPE>
+        <TITLE>The Chunnel</TITLE>
+        <TEST_TIME>0</TEST_TIME>
+        <ETC_INT1>0</ETC_INT1>
+        <ETC_INT2>0</ETC_INT2>
+        <CREATE_ID1>sjin0201</CREATE_ID1>
+        <CREATE_DATE1>2018-11-14T15:26:25.197+09:00</CREATE_DATE1>
+        <MODIFY_ID1>sjin0201</MODIFY_ID1>
+        <MODIFY_DATE1>2019-01-29T00:57:49.123+09:00</MODIFY_DATE1>
+        <DIC_ID1>181218</DIC_ID1>
+        <WORD>possible</WORD>
+        <WORD_TYPE>adj</WORD_TYPE>
+        <MEAN_E>able to be done</MEAN_E>
+        <MEAN_K>가능한</MEAN_K>
+        <PICTURE>possible_RFch2e1.png</PICTURE>
+        <MEDIA>possible_RFch2e1.mp3</MEDIA>
+        <EXAMPLE>Try to read as fast as possible without stopping.</EXAMPLE>
+        <CREATE_ID2>sjin0201</CREATE_ID2>
+        <CREATE_DATE2>2018-11-16T00:00:30.857+09:00</CREATE_DATE2>
+        <MODIFY_ID2>admin</MODIFY_ID2>
+        <MODIFY_DATE2>2020-01-31T20:32:45.86+09:00</MODIFY_DATE2>
+      </Table>
+      <Table diffgr:id="Table4" msdata:rowOrder="3">
+        <IDX>240264</IDX>
+        <SET_ID>454910</SET_ID>
+        <DIC_ID>181219</DIC_ID>
+        <PRT_Q>That country is also part of ______ and Asia.</PRT_Q>
+        <PRT_ANSWER>2</PRT_ANSWER>
+        <PRT_CHOICE1>northern</PRT_CHOICE1>
+        <PRT_CHOICE2>Europe</PRT_CHOICE2>
+        <PRT_CHOICE3>allow</PRT_CHOICE3>
+        <PRT_CHOICE4>possible</PRT_CHOICE4>
+        <CREATE_ID>sjin0201</CREATE_ID>
+        <CREATE_DATE>2018-11-16T00:01:21.433+09:00</CREATE_DATE>
+        <MODIFY_ID>sjin0201</MODIFY_ID>
+        <MODIFY_DATE>2019-01-20T16:33:36.423+09:00</MODIFY_DATE>
+        <SET_ID1>454910</SET_ID1>
+        <ACT_ID>28289</ACT_ID>
+        <ACT_TYPE>WL</ACT_TYPE>
+        <TITLE>The Chunnel</TITLE>
+        <TEST_TIME>0</TEST_TIME>
+        <ETC_INT1>0</ETC_INT1>
+        <ETC_INT2>0</ETC_INT2>
+        <CREATE_ID1>sjin0201</CREATE_ID1>
+        <CREATE_DATE1>2018-11-14T15:26:25.197+09:00</CREATE_DATE1>
+        <MODIFY_ID1>sjin0201</MODIFY_ID1>
+        <MODIFY_DATE1>2019-01-29T00:57:49.123+09:00</MODIFY_DATE1>
+        <DIC_ID1>181219</DIC_ID1>
+        <WORD>Europe</WORD>
+        <WORD_TYPE>noun</WORD_TYPE>
+        <MEAN_E>a continent in the west part of the landmass</MEAN_E>
+        <MEAN_K>유럽</MEAN_K>
+        <PICTURE>Europe_RFch2e1.png</PICTURE>
+        <MEDIA>Europe_RFch2e1.mp3</MEDIA>
+        <EXAMPLE>That country is also part of Europe and Asia.</EXAMPLE>
+        <CREATE_ID2>sjin0201</CREATE_ID2>
+        <CREATE_DATE2>2018-11-16T00:00:30.867+09:00</CREATE_DATE2>
+        <MODIFY_ID2>sjin0201</MODIFY_ID2>
+        <MODIFY_DATE2>2019-01-20T16:33:36.427+09:00</MODIFY_DATE2>
+      </Table>
+      <Table diffgr:id="Table5" msdata:rowOrder="4">
+        <IDX>240265</IDX>
+        <SET_ID>454910</SET_ID>
+        <DIC_ID>181220</DIC_ID>
+        <PRT_Q>The ______ between Boston and New York is 400 km.</PRT_Q>
+        <PRT_ANSWER>4</PRT_ANSWER>
+        <PRT_CHOICE1>allow</PRT_CHOICE1>
+        <PRT_CHOICE2>possible</PRT_CHOICE2>
+        <PRT_CHOICE3>northern</PRT_CHOICE3>
+        <PRT_CHOICE4>distance</PRT_CHOICE4>
+        <CREATE_ID>sjin0201</CREATE_ID>
+        <CREATE_DATE>2018-11-16T00:01:21.437+09:00</CREATE_DATE>
+        <MODIFY_ID>sjin0201</MODIFY_ID>
+        <MODIFY_DATE>2019-01-20T16:38:30.133+09:00</MODIFY_DATE>
+        <SET_ID1>454910</SET_ID1>
+        <ACT_ID>28289</ACT_ID>
+        <ACT_TYPE>WL</ACT_TYPE>
+        <TITLE>The Chunnel</TITLE>
+        <TEST_TIME>0</TEST_TIME>
+        <ETC_INT1>0</ETC_INT1>
+        <ETC_INT2>0</ETC_INT2>
+        <CREATE_ID1>sjin0201</CREATE_ID1>
+        <CREATE_DATE1>2018-11-14T15:26:25.197+09:00</CREATE_DATE1>
+        <MODIFY_ID1>sjin0201</MODIFY_ID1>
+        <MODIFY_DATE1>2019-01-29T00:57:49.123+09:00</MODIFY_DATE1>
+        <DIC_ID1>181220</DIC_ID1>
+        <WORD>distance</WORD>
+        <WORD_TYPE>noun</WORD_TYPE>
+        <MEAN_E>the length of the space between two places</MEAN_E>
+        <MEAN_K>거리</MEAN_K>
+        <PICTURE>distance_RFch2e1.png</PICTURE>
+        <MEDIA>distance_RFch2e1.mp3</MEDIA>
+        <EXAMPLE>The distance between Boston and New York is 400 km.</EXAMPLE>
+        <CREATE_ID2>sjin0201</CREATE_ID2>
+        <CREATE_DATE2>2018-11-16T00:00:30.893+09:00</CREATE_DATE2>
+        <MODIFY_ID2>sjin0201</MODIFY_ID2>
+        <MODIFY_DATE2>2019-01-20T16:38:30.137+09:00</MODIFY_DATE2>
+      </Table>
+      <Table diffgr:id="Table6" msdata:rowOrder="5">
+        <IDX>240266</IDX>
+        <SET_ID>454910</SET_ID>
+        <DIC_ID>181221</DIC_ID>
+        <PRT_Q>The sea narrows into a(n) ______.</PRT_Q>
+        <PRT_ANSWER>2</PRT_ANSWER>
+        <PRT_CHOICE1>distance</PRT_CHOICE1>
+        <PRT_CHOICE2>strait</PRT_CHOICE2>
+        <PRT_CHOICE3>allow</PRT_CHOICE3>
+        <PRT_CHOICE4>possible</PRT_CHOICE4>
+        <CREATE_ID>sjin0201</CREATE_ID>
+        <CREATE_DATE>2018-11-16T00:01:21.44+09:00</CREATE_DATE>
+        <MODIFY_ID>sjin0201</MODIFY_ID>
+        <MODIFY_DATE>2019-01-20T16:38:30.137+09:00</MODIFY_DATE>
+        <SET_ID1>454910</SET_ID1>
+        <ACT_ID>28289</ACT_ID>
+        <ACT_TYPE>WL</ACT_TYPE>
+        <TITLE>The Chunnel</TITLE>
+        <TEST_TIME>0</TEST_TIME>
+        <ETC_INT1>0</ETC_INT1>
+        <ETC_INT2>0</ETC_INT2>
+        <CREATE_ID1>sjin0201</CREATE_ID1>
+        <CREATE_DATE1>2018-11-14T15:26:25.197+09:00</CREATE_DATE1>
+        <MODIFY_ID1>sjin0201</MODIFY_ID1>
+        <MODIFY_DATE1>2019-01-29T00:57:49.123+09:00</MODIFY_DATE1>
+        <DIC_ID1>181221</DIC_ID1>
+        <WORD>strait</WORD>
+        <WORD_TYPE>noun</WORD_TYPE>
+        <MEAN_E>a narrow area of water that connects two large seas</MEAN_E>
+        <MEAN_K>해협</MEAN_K>
+        <PICTURE>strait_RFch2e1.png</PICTURE>
+        <MEDIA>strait_RFch2e1.mp3</MEDIA>
+        <EXAMPLE>The sea narrows into a strait.</EXAMPLE>
+        <CREATE_ID2>sjin0201</CREATE_ID2>
+        <CREATE_DATE2>2018-11-16T00:00:30.99+09:00</CREATE_DATE2>
+        <MODIFY_ID2>sjin0201</MODIFY_ID2>
+        <MODIFY_DATE2>2019-01-20T16:38:30.14+09:00</MODIFY_DATE2>
+      </Table>
+      <Table diffgr:id="Table7" msdata:rowOrder="6">
+        <IDX>240267</IDX>
+        <SET_ID>454910</SET_ID>
+        <DIC_ID>181222</DIC_ID>
+        <PRT_Q>The train went into the ______.</PRT_Q>
+        <PRT_ANSWER>1</PRT_ANSWER>
+        <PRT_CHOICE1>tunnel</PRT_CHOICE1>
+        <PRT_CHOICE2>possible</PRT_CHOICE2>
+        <PRT_CHOICE3>northern</PRT_CHOICE3>
+        <PRT_CHOICE4>allow</PRT_CHOICE4>
+        <CREATE_ID>sjin0201</CREATE_ID>
+        <CREATE_DATE>2018-11-16T00:01:21.44+09:00</CREATE_DATE>
+        <MODIFY_ID>sjin0201</MODIFY_ID>
+        <MODIFY_DATE>2019-01-20T16:39:39.26+09:00</MODIFY_DATE>
+        <SET_ID1>454910</SET_ID1>
+        <ACT_ID>28289</ACT_ID>
+        <ACT_TYPE>WL</ACT_TYPE>
+        <TITLE>The Chunnel</TITLE>
+        <TEST_TIME>0</TEST_TIME>
+        <ETC_INT1>0</ETC_INT1>
+        <ETC_INT2>0</ETC_INT2>
+        <CREATE_ID1>sjin0201</CREATE_ID1>
+        <CREATE_DATE1>2018-11-14T15:26:25.197+09:00</CREATE_DATE1>
+        <MODIFY_ID1>sjin0201</MODIFY_ID1>
+        <MODIFY_DATE1>2019-01-29T00:57:49.123+09:00</MODIFY_DATE1>
+        <DIC_ID1>181222</DIC_ID1>
+        <WORD>tunnel</WORD>
+        <WORD_TYPE>noun</WORD_TYPE>
+        <MEAN_E>a passage that goes under the ground or through a hill</MEAN_E>
+        <MEAN_K>통로</MEAN_K>
+        <PICTURE>tunnel_RFch2e1.png</PICTURE>
+        <MEDIA>tunnel_RFch2e1.mp3</MEDIA>
+        <EXAMPLE>The train went into the tunnel.</EXAMPLE>
+        <CREATE_ID2>sjin0201</CREATE_ID2>
+        <CREATE_DATE2>2018-11-16T00:00:31+09:00</CREATE_DATE2>
+        <MODIFY_ID2>sjin0201</MODIFY_ID2>
+        <MODIFY_DATE2>2019-01-20T16:39:39.26+09:00</MODIFY_DATE2>
+      </Table>
+      <Table diffgr:id="Table8" msdata:rowOrder="7">
+        <IDX>240268</IDX>
+        <SET_ID>454910</SET_ID>
+        <DIC_ID>181223</DIC_ID>
+        <PRT_Q>Smoking is not ______ in the restaurant.</PRT_Q>
+        <PRT_ANSWER>2</PRT_ANSWER>
+        <PRT_CHOICE1>Europe</PRT_CHOICE1>
+        <PRT_CHOICE2>allowed</PRT_CHOICE2>
+        <PRT_CHOICE3>northern</PRT_CHOICE3>
+        <PRT_CHOICE4>strait</PRT_CHOICE4>
+        <CREATE_ID>sjin0201</CREATE_ID>
+        <CREATE_DATE>2018-11-16T00:01:21.443+09:00</CREATE_DATE>
+        <MODIFY_ID>sjin0201</MODIFY_ID>
+        <MODIFY_DATE>2019-01-20T16:39:47.067+09:00</MODIFY_DATE>
+        <SET_ID1>454910</SET_ID1>
+        <ACT_ID>28289</ACT_ID>
+        <ACT_TYPE>WL</ACT_TYPE>
+        <TITLE>The Chunnel</TITLE>
+        <TEST_TIME>0</TEST_TIME>
+        <ETC_INT1>0</ETC_INT1>
+        <ETC_INT2>0</ETC_INT2>
+        <CREATE_ID1>sjin0201</CREATE_ID1>
+        <CREATE_DATE1>2018-11-14T15:26:25.197+09:00</CREATE_DATE1>
+        <MODIFY_ID1>sjin0201</MODIFY_ID1>
+        <MODIFY_DATE1>2019-01-29T00:57:49.123+09:00</MODIFY_DATE1>
+        <DIC_ID1>181223</DIC_ID1>
+        <WORD>allow</WORD>
+        <WORD_TYPE>noun</WORD_TYPE>
+        <MEAN_E>to let someone do something</MEAN_E>
+        <MEAN_K>허락하다</MEAN_K>
+        <PICTURE>allow_RFch2e1.png</PICTURE>
+        <MEDIA>allow_RFch2e1.mp3</MEDIA>
+        <EXAMPLE>Smoking is not allowed in the restaurant.</EXAMPLE>
+        <CREATE_ID2>sjin0201</CREATE_ID2>
+        <CREATE_DATE2>2018-11-16T00:00:31.02+09:00</CREATE_DATE2>
+        <MODIFY_ID2>sjin0201</MODIFY_ID2>
+        <MODIFY_DATE2>2019-01-20T16:39:47.07+09:00</MODIFY_DATE2>
+      </Table>
+    </NewDataSet>

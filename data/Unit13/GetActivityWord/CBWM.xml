@@ -1,0 +1,306 @@
+﻿<NewDataSet xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:diffgr="urn:schemas-microsoft-com:xml-diffgram-v1" xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <Table diffgr:id="Table1" msdata:rowOrder="0">
+        <IDX>240341</IDX>
+        <SET_ID>454970</SET_ID>
+        <DIC_ID>181303</DIC_ID>
+        <PRT_Q>Some ______ can play many sports very well.</PRT_Q>
+        <PRT_ANSWER>1</PRT_ANSWER>
+        <PRT_CHOICE1>athletes</PRT_CHOICE1>
+        <PRT_CHOICE2>competitive</PRT_CHOICE2>
+        <PRT_CHOICE3>goggles</PRT_CHOICE3>
+        <PRT_CHOICE4>efficient</PRT_CHOICE4>
+        <CREATE_ID>sjin0201</CREATE_ID>
+        <CREATE_DATE>2018-11-16T01:41:05.19+09:00</CREATE_DATE>
+        <MODIFY_ID>sjin0201</MODIFY_ID>
+        <MODIFY_DATE>2019-01-20T17:54:21.75+09:00</MODIFY_DATE>
+        <SET_ID1>454970</SET_ID1>
+        <ACT_ID>28299</ACT_ID>
+        <ACT_TYPE>WL</ACT_TYPE>
+        <TITLE>Smart Sportswear</TITLE>
+        <TEST_TIME>0</TEST_TIME>
+        <ETC_INT1>0</ETC_INT1>
+        <ETC_INT2>0</ETC_INT2>
+        <CREATE_ID1>sjin0201</CREATE_ID1>
+        <CREATE_DATE1>2018-11-14T15:32:14.493+09:00</CREATE_DATE1>
+        <MODIFY_ID1>sjin0201</MODIFY_ID1>
+        <MODIFY_DATE1>2019-01-29T01:05:11.91+09:00</MODIFY_DATE1>
+        <DIC_ID1>181303</DIC_ID1>
+        <WORD>athlete</WORD>
+        <WORD_TYPE>noun</WORD_TYPE>
+        <MEAN_E>a person who plays a sport   </MEAN_E>
+        <MEAN_K>운동선수</MEAN_K>
+        <PICTURE>athlete_RFch2e1.png</PICTURE>
+        <MEDIA>athlete_RFch2e1.mp3</MEDIA>
+        <EXAMPLE>Some athletes can play many sports very well.</EXAMPLE>
+        <CREATE_ID2>sjin0201</CREATE_ID2>
+        <CREATE_DATE2>2018-11-16T01:40:20.32+09:00</CREATE_DATE2>
+        <MODIFY_ID2>sjin0201</MODIFY_ID2>
+        <MODIFY_DATE2>2019-01-20T17:54:21.753+09:00</MODIFY_DATE2>
+      </Table>
+      <Table diffgr:id="Table2" msdata:rowOrder="1">
+        <IDX>240342</IDX>
+        <SET_ID>454970</SET_ID>
+        <DIC_ID>181302</DIC_ID>
+        <PRT_Q>My friend is so ________ that he gets very upset when he loses.</PRT_Q>
+        <PRT_ANSWER>4</PRT_ANSWER>
+        <PRT_CHOICE1>goggles</PRT_CHOICE1>
+        <PRT_CHOICE2>athlete</PRT_CHOICE2>
+        <PRT_CHOICE3>rest</PRT_CHOICE3>
+        <PRT_CHOICE4>competitive</PRT_CHOICE4>
+        <CREATE_ID>sjin0201</CREATE_ID>
+        <CREATE_DATE>2018-11-16T01:41:05.193+09:00</CREATE_DATE>
+        <MODIFY_ID>sjin0201</MODIFY_ID>
+        <MODIFY_DATE>2019-01-20T17:55:30.29+09:00</MODIFY_DATE>
+        <SET_ID1>454970</SET_ID1>
+        <ACT_ID>28299</ACT_ID>
+        <ACT_TYPE>WL</ACT_TYPE>
+        <TITLE>Smart Sportswear</TITLE>
+        <TEST_TIME>0</TEST_TIME>
+        <ETC_INT1>0</ETC_INT1>
+        <ETC_INT2>0</ETC_INT2>
+        <CREATE_ID1>sjin0201</CREATE_ID1>
+        <CREATE_DATE1>2018-11-14T15:32:14.493+09:00</CREATE_DATE1>
+        <MODIFY_ID1>sjin0201</MODIFY_ID1>
+        <MODIFY_DATE1>2019-01-29T01:05:11.91+09:00</MODIFY_DATE1>
+        <DIC_ID1>181302</DIC_ID1>
+        <WORD>competitive</WORD>
+        <WORD_TYPE>noun</WORD_TYPE>
+        <MEAN_E>involving competition</MEAN_E>
+        <MEAN_K>경쟁적인</MEAN_K>
+        <PICTURE>competitive_RFch2e1.png</PICTURE>
+        <MEDIA>competitive_RFch2e1.mp3</MEDIA>
+        <EXAMPLE>My friend is so competitive that he gets very upset when he loses.</EXAMPLE>
+        <CREATE_ID2>sjin0201</CREATE_ID2>
+        <CREATE_DATE2>2018-11-16T01:40:20.32+09:00</CREATE_DATE2>
+        <MODIFY_ID2>sjin0201</MODIFY_ID2>
+        <MODIFY_DATE2>2019-01-20T17:55:30.293+09:00</MODIFY_DATE2>
+      </Table>
+      <Table diffgr:id="Table3" msdata:rowOrder="2">
+        <IDX>240343</IDX>
+        <SET_ID>454970</SET_ID>
+        <DIC_ID>181301</DIC_ID>
+        <PRT_Q>The player ______ a lot before the final match.</PRT_Q>
+        <PRT_ANSWER>2</PRT_ANSWER>
+        <PRT_CHOICE1>efficient</PRT_CHOICE1>
+        <PRT_CHOICE2>practiced</PRT_CHOICE2>
+        <PRT_CHOICE3>competitive</PRT_CHOICE3>
+        <PRT_CHOICE4>athlete</PRT_CHOICE4>
+        <CREATE_ID>sjin0201</CREATE_ID>
+        <CREATE_DATE>2018-11-16T01:41:05.197+09:00</CREATE_DATE>
+        <MODIFY_ID>sjin0201</MODIFY_ID>
+        <MODIFY_DATE>2019-01-20T17:56:18.38+09:00</MODIFY_DATE>
+        <SET_ID1>454970</SET_ID1>
+        <ACT_ID>28299</ACT_ID>
+        <ACT_TYPE>WL</ACT_TYPE>
+        <TITLE>Smart Sportswear</TITLE>
+        <TEST_TIME>0</TEST_TIME>
+        <ETC_INT1>0</ETC_INT1>
+        <ETC_INT2>0</ETC_INT2>
+        <CREATE_ID1>sjin0201</CREATE_ID1>
+        <CREATE_DATE1>2018-11-14T15:32:14.493+09:00</CREATE_DATE1>
+        <MODIFY_ID1>sjin0201</MODIFY_ID1>
+        <MODIFY_DATE1>2019-01-29T01:05:11.91+09:00</MODIFY_DATE1>
+        <DIC_ID1>181301</DIC_ID1>
+        <WORD>practice</WORD>
+        <WORD_TYPE>noun</WORD_TYPE>
+        <MEAN_E>action rather than thought or ideas:</MEAN_E>
+        <MEAN_K>연습</MEAN_K>
+        <PICTURE>practice_RFch2e1.png</PICTURE>
+        <MEDIA>practice_RFch2e1.mp3</MEDIA>
+        <EXAMPLE>The player practiced a lot before the final match.</EXAMPLE>
+        <CREATE_ID2>sjin0201</CREATE_ID2>
+        <CREATE_DATE2>2018-11-16T01:40:20.317+09:00</CREATE_DATE2>
+        <MODIFY_ID2>sjin0201</MODIFY_ID2>
+        <MODIFY_DATE2>2019-01-20T17:56:18.38+09:00</MODIFY_DATE2>
+      </Table>
+      <Table diffgr:id="Table4" msdata:rowOrder="3">
+        <IDX>240344</IDX>
+        <SET_ID>454970</SET_ID>
+        <DIC_ID>181300</DIC_ID>
+        <PRT_Q>The ______ did not fit well, and the water went into my eyes.</PRT_Q>
+        <PRT_ANSWER>1</PRT_ANSWER>
+        <PRT_CHOICE1>goggles</PRT_CHOICE1>
+        <PRT_CHOICE2>professional</PRT_CHOICE2>
+        <PRT_CHOICE3>efficient</PRT_CHOICE3>
+        <PRT_CHOICE4>practice</PRT_CHOICE4>
+        <CREATE_ID>sjin0201</CREATE_ID>
+        <CREATE_DATE>2018-11-16T01:41:05.2+09:00</CREATE_DATE>
+        <MODIFY_ID>sjin0201</MODIFY_ID>
+        <MODIFY_DATE>2019-01-20T17:56:42.717+09:00</MODIFY_DATE>
+        <SET_ID1>454970</SET_ID1>
+        <ACT_ID>28299</ACT_ID>
+        <ACT_TYPE>WL</ACT_TYPE>
+        <TITLE>Smart Sportswear</TITLE>
+        <TEST_TIME>0</TEST_TIME>
+        <ETC_INT1>0</ETC_INT1>
+        <ETC_INT2>0</ETC_INT2>
+        <CREATE_ID1>sjin0201</CREATE_ID1>
+        <CREATE_DATE1>2018-11-14T15:32:14.493+09:00</CREATE_DATE1>
+        <MODIFY_ID1>sjin0201</MODIFY_ID1>
+        <MODIFY_DATE1>2019-01-29T01:05:11.91+09:00</MODIFY_DATE1>
+        <DIC_ID1>181300</DIC_ID1>
+        <WORD>goggles</WORD>
+        <WORD_TYPE>noun</WORD_TYPE>
+        <MEAN_E>special glasses that fit close to the face to protect the eyes from chemicals, wind, water, etc.</MEAN_E>
+        <MEAN_K>고글</MEAN_K>
+        <PICTURE>goggles_RFch2e1.png</PICTURE>
+        <MEDIA>goggles_RFch2e1.mp3</MEDIA>
+        <EXAMPLE>The goggles did not fit well, and the water went into my eyes.</EXAMPLE>
+        <CREATE_ID2>sjin0201</CREATE_ID2>
+        <CREATE_DATE2>2018-11-16T01:40:20.317+09:00</CREATE_DATE2>
+        <MODIFY_ID2>sjin0201</MODIFY_ID2>
+        <MODIFY_DATE2>2019-01-20T17:56:42.72+09:00</MODIFY_DATE2>
+      </Table>
+      <Table diffgr:id="Table5" msdata:rowOrder="4">
+        <IDX>240345</IDX>
+        <SET_ID>454970</SET_ID>
+        <DIC_ID>181299</DIC_ID>
+        <PRT_Q>The doctor told him that he should ______ for a few days.</PRT_Q>
+        <PRT_ANSWER>2</PRT_ANSWER>
+        <PRT_CHOICE1>competitive</PRT_CHOICE1>
+        <PRT_CHOICE2>rest</PRT_CHOICE2>
+        <PRT_CHOICE3>professional</PRT_CHOICE3>
+        <PRT_CHOICE4>efficient</PRT_CHOICE4>
+        <CREATE_ID>sjin0201</CREATE_ID>
+        <CREATE_DATE>2018-11-16T01:41:05.2+09:00</CREATE_DATE>
+        <MODIFY_ID>sjin0201</MODIFY_ID>
+        <MODIFY_DATE>2019-01-20T17:57:26.06+09:00</MODIFY_DATE>
+        <SET_ID1>454970</SET_ID1>
+        <ACT_ID>28299</ACT_ID>
+        <ACT_TYPE>WL</ACT_TYPE>
+        <TITLE>Smart Sportswear</TITLE>
+        <TEST_TIME>0</TEST_TIME>
+        <ETC_INT1>0</ETC_INT1>
+        <ETC_INT2>0</ETC_INT2>
+        <CREATE_ID1>sjin0201</CREATE_ID1>
+        <CREATE_DATE1>2018-11-14T15:32:14.493+09:00</CREATE_DATE1>
+        <MODIFY_ID1>sjin0201</MODIFY_ID1>
+        <MODIFY_DATE1>2019-01-29T01:05:11.91+09:00</MODIFY_DATE1>
+        <DIC_ID1>181299</DIC_ID1>
+        <WORD>rest</WORD>
+        <WORD_TYPE>noun</WORD_TYPE>
+        <MEAN_E>to stop being active for a period of time in order to relax</MEAN_E>
+        <MEAN_K>휴식을 취하다</MEAN_K>
+        <PICTURE>rest_RFch2e1.png</PICTURE>
+        <MEDIA>rest_RFch2e1.mp3</MEDIA>
+        <EXAMPLE>The doctor told him that he should rest for a few days.</EXAMPLE>
+        <CREATE_ID2>sjin0201</CREATE_ID2>
+        <CREATE_DATE2>2018-11-16T01:40:20.3+09:00</CREATE_DATE2>
+        <MODIFY_ID2>sjin0201</MODIFY_ID2>
+        <MODIFY_DATE2>2019-01-20T17:57:26.063+09:00</MODIFY_DATE2>
+      </Table>
+      <Table diffgr:id="Table6" msdata:rowOrder="5">
+        <IDX>240346</IDX>
+        <SET_ID>454970</SET_ID>
+        <DIC_ID>181298</DIC_ID>
+        <PRT_Q>Mike’s university has a really _______ transportation system.</PRT_Q>
+        <PRT_ANSWER>1</PRT_ANSWER>
+        <PRT_CHOICE1>efficient</PRT_CHOICE1>
+        <PRT_CHOICE2>athlete</PRT_CHOICE2>
+        <PRT_CHOICE3>rest</PRT_CHOICE3>
+        <PRT_CHOICE4>goggles</PRT_CHOICE4>
+        <CREATE_ID>sjin0201</CREATE_ID>
+        <CREATE_DATE>2018-11-16T01:41:05.227+09:00</CREATE_DATE>
+        <MODIFY_ID>sjin0201</MODIFY_ID>
+        <MODIFY_DATE>2019-01-20T17:58:47.333+09:00</MODIFY_DATE>
+        <SET_ID1>454970</SET_ID1>
+        <ACT_ID>28299</ACT_ID>
+        <ACT_TYPE>WL</ACT_TYPE>
+        <TITLE>Smart Sportswear</TITLE>
+        <TEST_TIME>0</TEST_TIME>
+        <ETC_INT1>0</ETC_INT1>
+        <ETC_INT2>0</ETC_INT2>
+        <CREATE_ID1>sjin0201</CREATE_ID1>
+        <CREATE_DATE1>2018-11-14T15:32:14.493+09:00</CREATE_DATE1>
+        <MODIFY_ID1>sjin0201</MODIFY_ID1>
+        <MODIFY_DATE1>2019-01-29T01:05:11.91+09:00</MODIFY_DATE1>
+        <DIC_ID1>181298</DIC_ID1>
+        <WORD>efficient</WORD>
+        <WORD_TYPE>noun</WORD_TYPE>
+        <MEAN_E>working or operating quickly and effectively in an organized way:</MEAN_E>
+        <MEAN_K>효율적인</MEAN_K>
+        <PICTURE>efficient_RFch2e1.png</PICTURE>
+        <MEDIA>efficient_RFch2e1.mp3</MEDIA>
+        <EXAMPLE>Mike’s university has a really efficient transportation system.</EXAMPLE>
+        <CREATE_ID2>sjin0201</CREATE_ID2>
+        <CREATE_DATE2>2018-11-16T01:40:20.287+09:00</CREATE_DATE2>
+        <MODIFY_ID2>sjin0201</MODIFY_ID2>
+        <MODIFY_DATE2>2019-01-20T17:58:47.337+09:00</MODIFY_DATE2>
+      </Table>
+      <Table diffgr:id="Table7" msdata:rowOrder="6">
+        <IDX>240347</IDX>
+        <SET_ID>454970</SET_ID>
+        <DIC_ID>181297</DIC_ID>
+        <PRT_Q>The ______ trained all the players.</PRT_Q>
+        <PRT_ANSWER>1</PRT_ANSWER>
+        <PRT_CHOICE1>coach</PRT_CHOICE1>
+        <PRT_CHOICE2>efficient</PRT_CHOICE2>
+        <PRT_CHOICE3>goggles</PRT_CHOICE3>
+        <PRT_CHOICE4>competitive</PRT_CHOICE4>
+        <CREATE_ID>sjin0201</CREATE_ID>
+        <CREATE_DATE>2018-11-16T01:41:05.23+09:00</CREATE_DATE>
+        <MODIFY_ID>sjin0201</MODIFY_ID>
+        <MODIFY_DATE>2019-01-20T17:59:13.63+09:00</MODIFY_DATE>
+        <SET_ID1>454970</SET_ID1>
+        <ACT_ID>28299</ACT_ID>
+        <ACT_TYPE>WL</ACT_TYPE>
+        <TITLE>Smart Sportswear</TITLE>
+        <TEST_TIME>0</TEST_TIME>
+        <ETC_INT1>0</ETC_INT1>
+        <ETC_INT2>0</ETC_INT2>
+        <CREATE_ID1>sjin0201</CREATE_ID1>
+        <CREATE_DATE1>2018-11-14T15:32:14.493+09:00</CREATE_DATE1>
+        <MODIFY_ID1>sjin0201</MODIFY_ID1>
+        <MODIFY_DATE1>2019-01-29T01:05:11.91+09:00</MODIFY_DATE1>
+        <DIC_ID1>181297</DIC_ID1>
+        <WORD>coach</WORD>
+        <WORD_TYPE>noun</WORD_TYPE>
+        <MEAN_E>a person who is trained in or good at sports</MEAN_E>
+        <MEAN_K>코치, 지도자</MEAN_K>
+        <PICTURE>coach_RFch2e1.png</PICTURE>
+        <MEDIA>coach_RFch2e1.mp3</MEDIA>
+        <EXAMPLE>The coach trained all the players.</EXAMPLE>
+        <CREATE_ID2>sjin0201</CREATE_ID2>
+        <CREATE_DATE2>2018-11-16T01:40:20.273+09:00</CREATE_DATE2>
+        <MODIFY_ID2>sjin0201</MODIFY_ID2>
+        <MODIFY_DATE2>2019-01-20T17:59:13.63+09:00</MODIFY_DATE2>
+      </Table>
+      <Table diffgr:id="Table8" msdata:rowOrder="7">
+        <IDX>240348</IDX>
+        <SET_ID>454970</SET_ID>
+        <DIC_ID>181296</DIC_ID>
+        <PRT_Q>If you want to be a pilot, you must have ______ training.</PRT_Q>
+        <PRT_ANSWER>3</PRT_ANSWER>
+        <PRT_CHOICE1>athlete</PRT_CHOICE1>
+        <PRT_CHOICE2>rest</PRT_CHOICE2>
+        <PRT_CHOICE3>professional</PRT_CHOICE3>
+        <PRT_CHOICE4>successfully</PRT_CHOICE4>
+        <CREATE_ID>sjin0201</CREATE_ID>
+        <CREATE_DATE>2018-11-16T01:41:05.23+09:00</CREATE_DATE>
+        <MODIFY_ID>sjin0201</MODIFY_ID>
+        <MODIFY_DATE>2019-01-20T18:00:53.21+09:00</MODIFY_DATE>
+        <SET_ID1>454970</SET_ID1>
+        <ACT_ID>28299</ACT_ID>
+        <ACT_TYPE>WL</ACT_TYPE>
+        <TITLE>Smart Sportswear</TITLE>
+        <TEST_TIME>0</TEST_TIME>
+        <ETC_INT1>0</ETC_INT1>
+        <ETC_INT2>0</ETC_INT2>
+        <CREATE_ID1>sjin0201</CREATE_ID1>
+        <CREATE_DATE1>2018-11-14T15:32:14.493+09:00</CREATE_DATE1>
+        <MODIFY_ID1>sjin0201</MODIFY_ID1>
+        <MODIFY_DATE1>2019-01-29T01:05:11.91+09:00</MODIFY_DATE1>
+        <DIC_ID1>181296</DIC_ID1>
+        <WORD>professional</WORD>
+        <WORD_TYPE>noun</WORD_TYPE>
+        <MEAN_E>relating to work that needs special training or education</MEAN_E>
+        <MEAN_K>전문적인</MEAN_K>
+        <PICTURE>professional_RFch2e1.png</PICTURE>
+        <MEDIA>professional_RFch2e1.mp3</MEDIA>
+        <EXAMPLE>If you want to be a pilot, you must have professional training.</EXAMPLE>
+        <CREATE_ID2>sjin0201</CREATE_ID2>
+        <CREATE_DATE2>2018-11-16T01:40:20.26+09:00</CREATE_DATE2>
+        <MODIFY_ID2>sjin0201</MODIFY_ID2>
+        <MODIFY_DATE2>2019-01-20T18:00:53.213+09:00</MODIFY_DATE2>
+      </Table>
+    </NewDataSet>

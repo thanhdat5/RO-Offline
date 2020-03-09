@@ -1,0 +1,35 @@
+﻿<NewDataSet xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:diffgr="urn:schemas-microsoft-com:xml-diffgram-v1" xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <Table diffgr:id="Table1" msdata:rowOrder="0">
+        <IDX>92107</IDX>
+        <ACT_ID>28294</ACT_ID>
+        <PRT_Q>What is the reading mainly about?</PRT_Q>
+        <PRT_CHOICE1>How to avoid dreaming </PRT_CHOICE1>
+        <PRT_CHOICE2>What people dream about</PRT_CHOICE2>
+        <PRT_CHOICE3>How smell affects dreams </PRT_CHOICE3>
+        <PRT_CHOICE4>What dreams really mean</PRT_CHOICE4>
+        <PRT_ANSWER>3</PRT_ANSWER>
+        <WORD_MAP />
+      </Table>
+      <Table diffgr:id="Table2" msdata:rowOrder="1">
+        <IDX>92108</IDX>
+        <ACT_ID>28294</ACT_ID>
+        <PRT_Q>What happened when people slept in the room that smelled like rotten eggs?</PRT_Q>
+        <PRT_CHOICE1>They had bad dreams. </PRT_CHOICE1>
+        <PRT_CHOICE2>They did not dream.</PRT_CHOICE2>
+        <PRT_CHOICE3>They couldn’t sleep. </PRT_CHOICE3>
+        <PRT_CHOICE4>They had good dreams.</PRT_CHOICE4>
+        <PRT_ANSWER>1</PRT_ANSWER>
+        <WORD_MAP />
+      </Table>
+      <Table diffgr:id="Table3" msdata:rowOrder="2">
+        <IDX>92109</IDX>
+        <ACT_ID>28294</ACT_ID>
+        <PRT_Q>Which is NOT true according to the reading?</PRT_Q>
+        <PRT_CHOICE1>Scientists tested only one group of people.</PRT_CHOICE1>
+        <PRT_CHOICE2>Bad smells made people have bad dreams.</PRT_CHOICE2>
+        <PRT_CHOICE3>Good smells made people have good dreams.</PRT_CHOICE3>
+        <PRT_CHOICE4>Different smells were used in the experiment.</PRT_CHOICE4>
+        <PRT_ANSWER>1</PRT_ANSWER>
+        <WORD_MAP />
+      </Table>
+    </NewDataSet>

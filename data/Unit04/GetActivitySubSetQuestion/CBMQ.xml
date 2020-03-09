@@ -1,0 +1,35 @@
+﻿<NewDataSet xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:diffgr="urn:schemas-microsoft-com:xml-diffgram-v1" xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <Table diffgr:id="Table1" msdata:rowOrder="0">
+        <IDX>92095</IDX>
+        <ACT_ID>28290</ACT_ID>
+        <PRT_Q>What is the main purpose of the reading?</PRT_Q>
+        <PRT_CHOICE1>To compare Manaus with other cities</PRT_CHOICE1>
+        <PRT_CHOICE2>To tell a story about the Amazon River</PRT_CHOICE2>
+        <PRT_CHOICE3>To give information about the city of Manaus</PRT_CHOICE3>
+        <PRT_CHOICE4>To say that Manaus is a good place for tourists</PRT_CHOICE4>
+        <PRT_ANSWER>3</PRT_ANSWER>
+        <WORD_MAP />
+      </Table>
+      <Table diffgr:id="Table2" msdata:rowOrder="1">
+        <IDX>92096</IDX>
+        <ACT_ID>28290</ACT_ID>
+        <PRT_Q>What are big businesses that are not big in Manaus these days?</PRT_Q>
+        <PRT_CHOICE1>Rubber </PRT_CHOICE1>
+        <PRT_CHOICE2>Computer screens</PRT_CHOICE2>
+        <PRT_CHOICE3>Electronic goods </PRT_CHOICE3>
+        <PRT_CHOICE4>TVs</PRT_CHOICE4>
+        <PRT_ANSWER>1</PRT_ANSWER>
+        <WORD_MAP />
+      </Table>
+      <Table diffgr:id="Table3" msdata:rowOrder="2">
+        <IDX>92097</IDX>
+        <ACT_ID>28290</ACT_ID>
+        <PRT_Q>Which is NOT true according to the reading?</PRT_Q>
+        <PRT_CHOICE1>Manaus is near the Amazon River.</PRT_CHOICE1>
+        <PRT_CHOICE2>Less than one million people live in Manaus.</PRT_CHOICE2>
+        <PRT_CHOICE3>Manaus was famous for rubber in the past.</PRT_CHOICE3>
+        <PRT_CHOICE4>Today, Manaus makes a lot of electronic goods.</PRT_CHOICE4>
+        <PRT_ANSWER>2</PRT_ANSWER>
+        <WORD_MAP />
+      </Table>
+    </NewDataSet>

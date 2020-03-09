@@ -1,0 +1,35 @@
+﻿<NewDataSet xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:diffgr="urn:schemas-microsoft-com:xml-diffgram-v1" xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <Table diffgr:id="Table1" msdata:rowOrder="0">
+        <IDX>92086</IDX>
+        <ACT_ID>28234</ACT_ID>
+        <PRT_Q>What is the main purpose of the reading?</PRT_Q>
+        <PRT_CHOICE1>To introduce an inventor</PRT_CHOICE1>
+        <PRT_CHOICE2>To compare different ways of traveling</PRT_CHOICE2>
+        <PRT_CHOICE3>To explain the price of high-speed travel</PRT_CHOICE3>
+        <PRT_CHOICE4>To describe a new and fast way to travel</PRT_CHOICE4>
+        <PRT_ANSWER>4</PRT_ANSWER>
+        <WORD_MAP />
+      </Table>
+      <Table diffgr:id="Table2" msdata:rowOrder="1">
+        <IDX>92087</IDX>
+        <ACT_ID>28234</ACT_ID>
+        <PRT_Q>What two things work together to move the pods?</PRT_Q>
+        <PRT_CHOICE1>Large tubes and small pods </PRT_CHOICE1>
+        <PRT_CHOICE2>Magnets and air conditioning</PRT_CHOICE2>
+        <PRT_CHOICE3>Low air pressure and magnets </PRT_CHOICE3>
+        <PRT_CHOICE4>High air pressure and electricity</PRT_CHOICE4>
+        <PRT_ANSWER>3</PRT_ANSWER>
+        <WORD_MAP />
+      </Table>
+      <Table diffgr:id="Table3" msdata:rowOrder="2">
+        <IDX>92088</IDX>
+        <ACT_ID>28234</ACT_ID>
+        <PRT_Q>Which is NOT true according to the reading?</PRT_Q>
+        <PRT_CHOICE1>The Hyperloop is almost finished being built.</PRT_CHOICE1>
+        <PRT_CHOICE2>The pods are expected to travel at speeds of 1,100 kilometers per hour.</PRT_CHOICE2>
+        <PRT_CHOICE3>The Hyperloop could cut the travel time between two cities in half.</PRT_CHOICE3>
+        <PRT_CHOICE4>Millions of people travel between Los Angeles and San Francisco every year.</PRT_CHOICE4>
+        <PRT_ANSWER>1</PRT_ANSWER>
+        <WORD_MAP />
+      </Table>
+    </NewDataSet>

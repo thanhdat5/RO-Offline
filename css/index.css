@@ -1,0 +1,126 @@
+#wrap {
+    width: 1020px;
+    position: relative;
+    bottom: 0;
+    margin: 0 auto;
+    background-color: #053f7f;
+}
+
+#header {
+    background-color: #4f95c6;
+    height: 115px;
+}
+
+.btn_member {
+    text-align: right;
+    background-color: #4f95c6;
+    height: 48px;
+}
+
+.top_bg {
+    height: 67px;
+    width: 100%;
+    background-image: url(../img/logo_backgraound_sub.gif);
+}
+
+.fl {
+    float: left;
+}
+
+.fr {
+    float: right;
+}
+
+.logo {
+    width: 153px;
+    height: 46px;
+    margin-left: 22px;
+    padding-top: 11px;
+    margin-bottom: 10px;
+}
+
+.logo2 {
+    width: 262px;
+    height: 18px;
+    margin-left: 18px;
+    padding-top: 20px;
+}
+
+.mgr25 {
+    margin-right: 25px !important;
+}
+
+.mgt15 {
+    margin-top: 15px !important;
+}
+
+#footer {
+    background-color: #4f95c6;
+    height: 143px;
+    width: 1020px;
+    padding-top: 20px;
+}
+
+.mgl15 {
+    margin-left: 15px !important;
+}
+
+.mgr15 {
+    margin-right: 15px !important;
+}
+
+.mgt20 {
+    margin-top: 20px !important;
+}
+
+.height35 {
+    height: 35px;
+}
+
+#spot-sub {
+    padding: 40px 40px 70px 40px;
+    position: relative;
+}
+
+#subwrap {
+    border-radius: 20px;
+    background-color: #8181e6;
+}
+
+.content-area {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    padding: 20px;
+    align-content: flex-start;
+}
+
+.book-item {
+    text-align: center;
+    width: 20%;
+}
+
+.book-item ul {
+    list-style: none;
+    margin-left: 0;
+    padding-left: 0;
+}
+
+.book-item-image {
+    margin-top: 5px;
+}
+
+.book-item-image img {
+    box-shadow: 4px 4px 4px #2c2cae;
+}
+
+.book-unit-name {
+    font-size: 12px;
+    color: #fff;
+    text-align: center;
+    white-space: nowrap;
+    width: 100%;
+    padding: 10px 0;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}

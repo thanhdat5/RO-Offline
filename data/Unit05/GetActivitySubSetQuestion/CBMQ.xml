@@ -1,0 +1,35 @@
+﻿<NewDataSet xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:diffgr="urn:schemas-microsoft-com:xml-diffgram-v1" xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <Table diffgr:id="Table1" msdata:rowOrder="0">
+        <IDX>92098</IDX>
+        <ACT_ID>28291</ACT_ID>
+        <PRT_Q>What is the reading mainly about?</PRT_Q>
+        <PRT_CHOICE1>How to fall asleep quickly </PRT_CHOICE1>
+        <PRT_CHOICE2>What we can do to sleep well</PRT_CHOICE2>
+        <PRT_CHOICE3>What happens when we sleep </PRT_CHOICE3>
+        <PRT_CHOICE4>How much sleep we should get</PRT_CHOICE4>
+        <PRT_ANSWER>3</PRT_ANSWER>
+        <WORD_MAP />
+      </Table>
+      <Table diffgr:id="Table2" msdata:rowOrder="1">
+        <IDX>92099</IDX>
+        <ACT_ID>28291</ACT_ID>
+        <PRT_Q>Which of the following happens only during REM sleep?</PRT_Q>
+        <PRT_CHOICE1>We dream. </PRT_CHOICE1>
+        <PRT_CHOICE2>Our bodies relax.</PRT_CHOICE2>
+        <PRT_CHOICE3>Our muscles are repaired. </PRT_CHOICE3>
+        <PRT_CHOICE4>The immune system is strengthened.</PRT_CHOICE4>
+        <PRT_ANSWER>1</PRT_ANSWER>
+        <WORD_MAP />
+      </Table>
+      <Table diffgr:id="Table3" msdata:rowOrder="2">
+        <IDX>92100</IDX>
+        <ACT_ID>28291</ACT_ID>
+        <PRT_Q>Which is NOT true according to the reading?</PRT_Q>
+        <PRT_CHOICE1>We can gain weight if we don’t get enough sleep.</PRT_CHOICE1>
+        <PRT_CHOICE2>We are difficult to wake up during slow-wave sleep.</PRT_CHOICE2>
+        <PRT_CHOICE3>Our body temperature rises when we are in deep sleep.</PRT_CHOICE3>
+        <PRT_CHOICE4>Our brains get rid of unimportant information during REM sleep.</PRT_CHOICE4>
+        <PRT_ANSWER>3</PRT_ANSWER>
+        <WORD_MAP />
+      </Table>
+    </NewDataSet>

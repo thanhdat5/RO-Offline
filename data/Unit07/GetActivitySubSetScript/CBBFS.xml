@@ -1,0 +1,23 @@
+﻿<NewDataSet xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:diffgr="urn:schemas-microsoft-com:xml-diffgram-v1" xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <Table diffgr:id="Table1" msdata:rowOrder="0">
+        <IDX>24049</IDX>
+        <SET_ID>454936</SET_ID>
+        <SCRIPT>A lack of sleep can make [{concentrating}] hard for kids. On the other hand, getting enough sleep [{enables}] kids to concentrate better. They can think clearly for longer [{periods}] of time. Studies show that kids who get enough sleep are more likely to do better in school. Sometimes it’s difficult to fall asleep. Luckily, some simple habits can fix this problem. [{Exercising}] regularly is helpful. Going to bed and waking up at the same time helps your body keep a regular sleep [{schedule}]. Kids who follow these habits are likely to [{improve}] their [{performance}] in school.
+
+
+</SCRIPT>
+        <ACT_ID>28293</ACT_ID>
+        <ACT_TYPE>BF</ACT_TYPE>
+        <TITLE>Sleeping Habits</TITLE>
+        <SUB_TITLE />
+        <TEST_TIME>0</TEST_TIME>
+        <ETC_INT1>0</ETC_INT1>
+        <ETC_INT2>0</ETC_INT2>
+        <SUB_SET_ID>488683</SUB_SET_ID>
+        <SUB_TYPE>CBBFS</SUB_TYPE>
+        <STUDENT>true</STUDENT>
+        <TEACHER>false</TEACHER>
+        <IS_SILVERLIGHT>false</IS_SILVERLIGHT>
+        <IS_FLASH>false</IS_FLASH>
+      </Table>
+    </NewDataSet>

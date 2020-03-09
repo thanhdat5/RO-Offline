@@ -1,0 +1,35 @@
+﻿<NewDataSet xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:diffgr="urn:schemas-microsoft-com:xml-diffgram-v1" xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <Table diffgr:id="Table1" msdata:rowOrder="0">
+        <IDX>92128</IDX>
+        <ACT_ID>28301</ACT_ID>
+        <PRT_Q>Dodgeball can be played with _________________.</PRT_Q>
+        <PRT_CHOICE1>two players only </PRT_CHOICE1>
+        <PRT_CHOICE2>up to four players</PRT_CHOICE2>
+        <PRT_CHOICE3>four players or more </PRT_CHOICE3>
+        <PRT_CHOICE4>three to six players only</PRT_CHOICE4>
+        <PRT_ANSWER>3</PRT_ANSWER>
+        <WORD_MAP />
+      </Table>
+      <Table diffgr:id="Table2" msdata:rowOrder="1">
+        <IDX>92129</IDX>
+        <ACT_ID>28301</ACT_ID>
+        <PRT_Q>You can play “every person for themselves” when there are _______________.</PRT_Q>
+        <PRT_CHOICE1>fewer than four players </PRT_CHOICE1>
+        <PRT_CHOICE2>more than eight players</PRT_CHOICE2>
+        <PRT_CHOICE3>an odd number of players </PRT_CHOICE3>
+        <PRT_CHOICE4>an even number of players</PRT_CHOICE4>
+        <PRT_ANSWER>3</PRT_ANSWER>
+        <WORD_MAP />
+      </Table>
+      <Table diffgr:id="Table3" msdata:rowOrder="2">
+        <IDX>92130</IDX>
+        <ACT_ID>28301</ACT_ID>
+        <PRT_Q>If you are hit by the ball, _________________.</PRT_Q>
+        <PRT_CHOICE1>you are the winner </PRT_CHOICE1>
+        <PRT_CHOICE2>you are eliminated</PRT_CHOICE2>
+        <PRT_CHOICE3>you can throw the ball </PRT_CHOICE3>
+        <PRT_CHOICE4>you have to join the other team</PRT_CHOICE4>
+        <PRT_ANSWER>2</PRT_ANSWER>
+        <WORD_MAP />
+      </Table>
+    </NewDataSet>

@@ -1,0 +1,20 @@
+﻿<NewDataSet xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:diffgr="urn:schemas-microsoft-com:xml-diffgram-v1" xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <Table diffgr:id="Table1" msdata:rowOrder="0">
+        <IDX>24046</IDX>
+        <SET_ID>454918</SET_ID>
+        <SCRIPT>Deep in the Amazon Rainforest is the city of Manaus, located in Brazil in [{South America}]. A big city in the middle of the rainforest is unique, but Manaus was built there for a [{reason}]. Manaus was built in a good place where two large rivers meet and become one. Many [{goods}] could be moved around and sold easily from Manaus. [{Rubber}] came from the rainforest, was moved along the river, and sold here. Manaus [{rapidly}] grew bigger and it soon became a [{center}] for business. Manaus is still an important city where [{electronics}] are made.</SCRIPT>
+        <ACT_ID>28290</ACT_ID>
+        <ACT_TYPE>BF</ACT_TYPE>
+        <TITLE>Manaus</TITLE>
+        <SUB_TITLE />
+        <TEST_TIME>0</TEST_TIME>
+        <ETC_INT1>0</ETC_INT1>
+        <ETC_INT2>0</ETC_INT2>
+        <SUB_SET_ID>488668</SUB_SET_ID>
+        <SUB_TYPE>CBBFS</SUB_TYPE>
+        <STUDENT>true</STUDENT>
+        <TEACHER>false</TEACHER>
+        <IS_SILVERLIGHT>false</IS_SILVERLIGHT>
+        <IS_FLASH>false</IS_FLASH>
+      </Table>
+    </NewDataSet>

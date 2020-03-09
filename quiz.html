@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Word Card</title>
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/quiz.css">
+</head>
+
+<body>
+    <div id="pagecontent" style="max-width: 100vw;max-height: 100vh;">
+        <div class="rd-block-card" id="wrapx">
+            <div class="rd-block-card-content">
+                <div class="rd-block-card-header">
+                    <a href="javascript:void(0)" onclick="setList()">
+                        <img src="img/122.png" alt="">
+                    </a>
+                </div>
+                <div class="rd-block-card-body" id="rdBlockCardBody">
+                    <div class="rd-block-card-body-content">
+                        <div class="rd-block-card-data">
+                            <div id="rd-loading" style="position: relative; width: 100%; height: 100%; display: none;">
+                                <img style="width: 80px; height: 80px; position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%)" src="img/loading.gif">
+                                <p id="rd-loading-percent" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: #999999; font-size: 13px; font-weight: bold;">100</p>
+                            </div>
+
+                            <!-- Quiz -->
+                            <div class="rd-reader-quiz" id="rd_reader_quiz">
+                                <div class="rd-reader-quiz-content">
+                                    <p class="rd-reader-quiz-total"><span id="rdReaderQuizCurrent">1</span>/<span id="rdReaderQuizTotal">5</span></p>
+                                    <p class="rd-reader-quiz-number"><span id="rdReaderQuizNumber">Q1.</span></p>
+                                    <div class="rd-reader-quiz-question" id="rdReaderQuizQuestion">Choose the correct answer.</div>
+                                    <div class="rd-reader-quiz-answer-box">
+                                        <div class="rd-reader-quiz-answer-image" id="rdReaderQuizQuestionImage" style="display: block;"><img src="https://contents.readingoceans.jp/13744/Q1_GoldfishAreBoring.jpg"></div>
+                                        <div class="rd-reader-quiz-answer-list" id="rdReaderQuizAnswerList">
+                                            <div class="rd-reader-quiz-answer-item" onclick="select_q(1, 2)"><img class="rd-reader-quiz-answer-item-checkbox" src="img/1515_1.png"><img class="rd-reader-quiz-answer-item-checkbox-select" src="img/1515.png"><span>His mom gave him a bird.</span> </div>
+                                            <div class="rd-reader-quiz-answer-item" onclick="select_q(2, 2)"><img class="rd-reader-quiz-answer-item-checkbox" src="img/1515_1.png"><img class="rd-reader-quiz-answer-item-checkbox-select" src="img/1515.png"><span>His mom gave him a fish.</span> </div>
+                                        </div>
+                                        <div class="clearfix"></div>
+                                        <div class="rd-reader-quiz-next" id="rdReaderQuizNext" style="display: none;">
+                                            <img id="rdReaderQuizNextButton" onclick="nextSlide()" src="img/24.png">
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <!-- Finish -->
+                            <div class="rd-finished" id="finishedSection" style="display: none;">
+                            </div>
+
+                            <div class="rd-finished-action" id="finishedSectionAction" style="display: none;">
+                                <a href="javascript:void(0)" onclick="setList()">
+                                    <img style="height: 67px; margin-top: 10px;" src="img/143.png" alt="list">
+                                </a>
+                                <span class="rd-finished-action-right" style="float: right" id="btnFinishedActionBottom"></span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="rd-block-card-action" id="rdBlockCardAction" style="display: none;">
+                    <div id="play_Act_list">
+                        <a href="javascript:void(0)" onclick="setList()">
+                            <img src="img/143.png" alt="list">
+                        </a>
+                    </div>
+                    <div id="menuButton">
+                        <div id="play_Act_006">
+                            <a href="javascript:void(0)" onclick="setActType('006')"><img src="img/37.png" alt="word"></a>
+                        </div>
+                        <div id="play_Act_007">
+                            <a href="javascript:void(0)" onclick="setActType('007')"><img src="img/104.png" alt="word-games"></a>
+                        </div>
+                        <div id="play_Act_008">
+                            <a href="javascript:void(0)" onclick="setActType('008')"><img src="img/109.png" alt="sentence-games"></a>
+                        </div>
+                        <!-- <div id="play_Act_005">
+                            <a href="javascript:void(0)" onclick="setActType('005')"><img src="img/88.png" alt="read-aloud"></a>
+                        </div>
+                        <div id="play_Act_004">
+                            <a href="javascript:void(0)" onclick="setActType('004')"><img src="img/98.png" alt="book-report"></a>
+                        </div> -->
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script type="text/javascript" src="js/jquery-1.11.3.js"></script>
+    <script type="text/javascript" src="js/doResize.js"></script>
+    <script type="text/javascript" src="js/common.js"></script>
+    <script type="text/javascript">
+        function nextSlide() {
+            if (is_correct) {
+                number_correct++;
+                is_correct = false;
+            }
+
+            if (currentSlide === all_slides.length) {
+                Common.score = parseInt((number_correct / all_slides.length) * 100);
+                playAudio(_innerContentLoadURL + "lib/audio/effect/good.mp3");
+                setCompleteActType();
+            } else {
+                currentSlide++;
+                if (audioQuiz) {
+                    audioQuiz.pause();
+                }
+                stopAllTimeout();
+                // pause all audio
+                stopAllAudio();
+                setSlide();
+            }
+
+        }
+
+        function select_q(qnum, correct) {
+            is_correct = qnum == correct;
+        }
+    </script>
+</body>
+
+</html>

@@ -1,0 +1,306 @@
+﻿<NewDataSet xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:diffgr="urn:schemas-microsoft-com:xml-diffgram-v1" xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <Table diffgr:id="Table1" msdata:rowOrder="0">
+        <IDX>240309</IDX>
+        <SET_ID>454946</SET_ID>
+        <DIC_ID>181271</DIC_ID>
+        <PRT_Q>Occasionally the actor ______ letters from his fans.</PRT_Q>
+        <PRT_ANSWER>1</PRT_ANSWER>
+        <PRT_CHOICE1>receives</PRT_CHOICE1>
+        <PRT_CHOICE2>engine</PRT_CHOICE2>
+        <PRT_CHOICE3>ready</PRT_CHOICE3>
+        <PRT_CHOICE4>helicopter</PRT_CHOICE4>
+        <CREATE_ID>sjin0201</CREATE_ID>
+        <CREATE_DATE>2018-11-16T01:10:06.687+09:00</CREATE_DATE>
+        <MODIFY_ID>sjin0201</MODIFY_ID>
+        <MODIFY_DATE>2019-01-20T17:20:08.15+09:00</MODIFY_DATE>
+        <SET_ID1>454946</SET_ID1>
+        <ACT_ID>28295</ACT_ID>
+        <ACT_TYPE>WL</ACT_TYPE>
+        <TITLE>First in Flight: The Wright Brothers</TITLE>
+        <TEST_TIME>0</TEST_TIME>
+        <ETC_INT1>0</ETC_INT1>
+        <ETC_INT2>0</ETC_INT2>
+        <CREATE_ID1>sjin0201</CREATE_ID1>
+        <CREATE_DATE1>2018-11-14T15:29:54.903+09:00</CREATE_DATE1>
+        <MODIFY_ID1>sjin0201</MODIFY_ID1>
+        <MODIFY_DATE1>2019-01-29T01:02:22.763+09:00</MODIFY_DATE1>
+        <DIC_ID1>181271</DIC_ID1>
+        <WORD>receive</WORD>
+        <WORD_TYPE>noun</WORD_TYPE>
+        <MEAN_E>to get</MEAN_E>
+        <MEAN_K>받다</MEAN_K>
+        <PICTURE>receive_RFch2e1.png</PICTURE>
+        <MEDIA>receive_RFch2e1.mp3</MEDIA>
+        <EXAMPLE>Occasionally the actor receives letters from his fans.</EXAMPLE>
+        <CREATE_ID2>sjin0201</CREATE_ID2>
+        <CREATE_DATE2>2018-11-16T01:09:25.407+09:00</CREATE_DATE2>
+        <MODIFY_ID2>sjin0201</MODIFY_ID2>
+        <MODIFY_DATE2>2019-01-20T17:20:08.153+09:00</MODIFY_DATE2>
+      </Table>
+      <Table diffgr:id="Table2" msdata:rowOrder="1">
+        <IDX>240310</IDX>
+        <SET_ID>454946</SET_ID>
+        <DIC_ID>181270</DIC_ID>
+        <PRT_Q>If the weather's bad, the ______ can't fly.</PRT_Q>
+        <PRT_ANSWER>3</PRT_ANSWER>
+        <PRT_CHOICE1>crash</PRT_CHOICE1>
+        <PRT_CHOICE2>receive</PRT_CHOICE2>
+        <PRT_CHOICE3>helicopter</PRT_CHOICE3>
+        <PRT_CHOICE4>land</PRT_CHOICE4>
+        <CREATE_ID>sjin0201</CREATE_ID>
+        <CREATE_DATE>2018-11-16T01:10:06.69+09:00</CREATE_DATE>
+        <MODIFY_ID>sjin0201</MODIFY_ID>
+        <MODIFY_DATE>2019-01-20T17:19:20.11+09:00</MODIFY_DATE>
+        <SET_ID1>454946</SET_ID1>
+        <ACT_ID>28295</ACT_ID>
+        <ACT_TYPE>WL</ACT_TYPE>
+        <TITLE>First in Flight: The Wright Brothers</TITLE>
+        <TEST_TIME>0</TEST_TIME>
+        <ETC_INT1>0</ETC_INT1>
+        <ETC_INT2>0</ETC_INT2>
+        <CREATE_ID1>sjin0201</CREATE_ID1>
+        <CREATE_DATE1>2018-11-14T15:29:54.903+09:00</CREATE_DATE1>
+        <MODIFY_ID1>sjin0201</MODIFY_ID1>
+        <MODIFY_DATE1>2019-01-29T01:02:22.763+09:00</MODIFY_DATE1>
+        <DIC_ID1>181270</DIC_ID1>
+        <WORD>helicopter</WORD>
+        <WORD_TYPE>noun</WORD_TYPE>
+        <MEAN_E>a kind of flying machine </MEAN_E>
+        <MEAN_K>헬리콥터</MEAN_K>
+        <PICTURE>helicopter_RFch2e1.png</PICTURE>
+        <MEDIA>helicopter_RFch2e1.mp3</MEDIA>
+        <EXAMPLE>If the weather's bad, the helicopter can't fly.</EXAMPLE>
+        <CREATE_ID2>sjin0201</CREATE_ID2>
+        <CREATE_DATE2>2018-11-16T01:09:25.383+09:00</CREATE_DATE2>
+        <MODIFY_ID2>sjin0201</MODIFY_ID2>
+        <MODIFY_DATE2>2019-01-20T17:19:20.12+09:00</MODIFY_DATE2>
+      </Table>
+      <Table diffgr:id="Table3" msdata:rowOrder="2">
+        <IDX>240311</IDX>
+        <SET_ID>454946</SET_ID>
+        <DIC_ID>181269</DIC_ID>
+        <PRT_Q>The car buyers are more ______ in safety than speed. </PRT_Q>
+        <PRT_ANSWER>2</PRT_ANSWER>
+        <PRT_CHOICE1>spend</PRT_CHOICE1>
+        <PRT_CHOICE2>interested</PRT_CHOICE2>
+        <PRT_CHOICE3>helicopter</PRT_CHOICE3>
+        <PRT_CHOICE4>receive</PRT_CHOICE4>
+        <CREATE_ID>sjin0201</CREATE_ID>
+        <CREATE_DATE>2018-11-16T01:10:06.693+09:00</CREATE_DATE>
+        <MODIFY_ID>sjin0201</MODIFY_ID>
+        <MODIFY_DATE>2019-01-20T17:19:20.13+09:00</MODIFY_DATE>
+        <SET_ID1>454946</SET_ID1>
+        <ACT_ID>28295</ACT_ID>
+        <ACT_TYPE>WL</ACT_TYPE>
+        <TITLE>First in Flight: The Wright Brothers</TITLE>
+        <TEST_TIME>0</TEST_TIME>
+        <ETC_INT1>0</ETC_INT1>
+        <ETC_INT2>0</ETC_INT2>
+        <CREATE_ID1>sjin0201</CREATE_ID1>
+        <CREATE_DATE1>2018-11-14T15:29:54.903+09:00</CREATE_DATE1>
+        <MODIFY_ID1>sjin0201</MODIFY_ID1>
+        <MODIFY_DATE1>2019-01-29T01:02:22.763+09:00</MODIFY_DATE1>
+        <DIC_ID1>181269</DIC_ID1>
+        <WORD>interested</WORD>
+        <WORD_TYPE>noun</WORD_TYPE>
+        <MEAN_E>curious or concerned</MEAN_E>
+        <MEAN_K>관심있는</MEAN_K>
+        <PICTURE>interested_RFch2e1.png</PICTURE>
+        <MEDIA>interested_RFch2e1.mp3</MEDIA>
+        <EXAMPLE>The car buyers are more interested in safety than speed. </EXAMPLE>
+        <CREATE_ID2>sjin0201</CREATE_ID2>
+        <CREATE_DATE2>2018-11-16T01:09:25.36+09:00</CREATE_DATE2>
+        <MODIFY_ID2>sjin0201</MODIFY_ID2>
+        <MODIFY_DATE2>2019-01-20T17:19:20.14+09:00</MODIFY_DATE2>
+      </Table>
+      <Table diffgr:id="Table4" msdata:rowOrder="3">
+        <IDX>240312</IDX>
+        <SET_ID>454946</SET_ID>
+        <DIC_ID>181268</DIC_ID>
+        <PRT_Q>My car stopped because the ______ broke.</PRT_Q>
+        <PRT_ANSWER>3</PRT_ANSWER>
+        <PRT_CHOICE1>crash</PRT_CHOICE1>
+        <PRT_CHOICE2>interested</PRT_CHOICE2>
+        <PRT_CHOICE3>engine</PRT_CHOICE3>
+        <PRT_CHOICE4>spend</PRT_CHOICE4>
+        <CREATE_ID>sjin0201</CREATE_ID>
+        <CREATE_DATE>2018-11-16T01:10:06.697+09:00</CREATE_DATE>
+        <MODIFY_ID>sjin0201</MODIFY_ID>
+        <MODIFY_DATE>2019-01-20T17:19:20.15+09:00</MODIFY_DATE>
+        <SET_ID1>454946</SET_ID1>
+        <ACT_ID>28295</ACT_ID>
+        <ACT_TYPE>WL</ACT_TYPE>
+        <TITLE>First in Flight: The Wright Brothers</TITLE>
+        <TEST_TIME>0</TEST_TIME>
+        <ETC_INT1>0</ETC_INT1>
+        <ETC_INT2>0</ETC_INT2>
+        <CREATE_ID1>sjin0201</CREATE_ID1>
+        <CREATE_DATE1>2018-11-14T15:29:54.903+09:00</CREATE_DATE1>
+        <MODIFY_ID1>sjin0201</MODIFY_ID1>
+        <MODIFY_DATE1>2019-01-29T01:02:22.763+09:00</MODIFY_DATE1>
+        <DIC_ID1>181268</DIC_ID1>
+        <WORD>engine</WORD>
+        <WORD_TYPE>noun</WORD_TYPE>
+        <MEAN_E>a machine that changes energy into motion</MEAN_E>
+        <MEAN_K>엔진</MEAN_K>
+        <PICTURE>engine_RFch2e1.png</PICTURE>
+        <MEDIA>engine_RFch2e1.mp3</MEDIA>
+        <EXAMPLE>My car stopped because the engine broke.</EXAMPLE>
+        <CREATE_ID2>sjin0201</CREATE_ID2>
+        <CREATE_DATE2>2018-11-16T01:09:25.327+09:00</CREATE_DATE2>
+        <MODIFY_ID2>sjin0201</MODIFY_ID2>
+        <MODIFY_DATE2>2019-01-20T17:19:20.157+09:00</MODIFY_DATE2>
+      </Table>
+      <Table diffgr:id="Table5" msdata:rowOrder="4">
+        <IDX>240313</IDX>
+        <SET_ID>454946</SET_ID>
+        <DIC_ID>181267</DIC_ID>
+        <PRT_Q>What time is the flight scheduled to ______?</PRT_Q>
+        <PRT_ANSWER>1</PRT_ANSWER>
+        <PRT_CHOICE1>land</PRT_CHOICE1>
+        <PRT_CHOICE2>helicopter</PRT_CHOICE2>
+        <PRT_CHOICE3>interested</PRT_CHOICE3>
+        <PRT_CHOICE4>engine</PRT_CHOICE4>
+        <CREATE_ID>sjin0201</CREATE_ID>
+        <CREATE_DATE>2018-11-16T01:10:06.697+09:00</CREATE_DATE>
+        <MODIFY_ID>sjin0201</MODIFY_ID>
+        <MODIFY_DATE>2019-01-20T17:22:42.877+09:00</MODIFY_DATE>
+        <SET_ID1>454946</SET_ID1>
+        <ACT_ID>28295</ACT_ID>
+        <ACT_TYPE>WL</ACT_TYPE>
+        <TITLE>First in Flight: The Wright Brothers</TITLE>
+        <TEST_TIME>0</TEST_TIME>
+        <ETC_INT1>0</ETC_INT1>
+        <ETC_INT2>0</ETC_INT2>
+        <CREATE_ID1>sjin0201</CREATE_ID1>
+        <CREATE_DATE1>2018-11-14T15:29:54.903+09:00</CREATE_DATE1>
+        <MODIFY_ID1>sjin0201</MODIFY_ID1>
+        <MODIFY_DATE1>2019-01-29T01:02:22.763+09:00</MODIFY_DATE1>
+        <DIC_ID1>181267</DIC_ID1>
+        <WORD>land</WORD>
+        <WORD_TYPE>noun</WORD_TYPE>
+        <MEAN_E>to come back to the ground after flying</MEAN_E>
+        <MEAN_K>착륙하다</MEAN_K>
+        <PICTURE>land_RFch2e1.png</PICTURE>
+        <MEDIA>land_RFch2e1.mp3</MEDIA>
+        <EXAMPLE>What time is the flight scheduled to land?</EXAMPLE>
+        <CREATE_ID2>sjin0201</CREATE_ID2>
+        <CREATE_DATE2>2018-11-16T01:09:25.32+09:00</CREATE_DATE2>
+        <MODIFY_ID2>sjin0201</MODIFY_ID2>
+        <MODIFY_DATE2>2019-01-20T17:22:42.88+09:00</MODIFY_DATE2>
+      </Table>
+      <Table diffgr:id="Table6" msdata:rowOrder="5">
+        <IDX>240314</IDX>
+        <SET_ID>454946</SET_ID>
+        <DIC_ID>181266</DIC_ID>
+        <PRT_Q>There are lots of car ______ during the holidays.</PRT_Q>
+        <PRT_ANSWER>4</PRT_ANSWER>
+        <PRT_CHOICE1>interested</PRT_CHOICE1>
+        <PRT_CHOICE2>helicopter</PRT_CHOICE2>
+        <PRT_CHOICE3>receive</PRT_CHOICE3>
+        <PRT_CHOICE4>crashes</PRT_CHOICE4>
+        <CREATE_ID>sjin0201</CREATE_ID>
+        <CREATE_DATE>2018-11-16T01:10:06.7+09:00</CREATE_DATE>
+        <MODIFY_ID>sjin0201</MODIFY_ID>
+        <MODIFY_DATE>2019-01-20T17:23:59.317+09:00</MODIFY_DATE>
+        <SET_ID1>454946</SET_ID1>
+        <ACT_ID>28295</ACT_ID>
+        <ACT_TYPE>WL</ACT_TYPE>
+        <TITLE>First in Flight: The Wright Brothers</TITLE>
+        <TEST_TIME>0</TEST_TIME>
+        <ETC_INT1>0</ETC_INT1>
+        <ETC_INT2>0</ETC_INT2>
+        <CREATE_ID1>sjin0201</CREATE_ID1>
+        <CREATE_DATE1>2018-11-14T15:29:54.903+09:00</CREATE_DATE1>
+        <MODIFY_ID1>sjin0201</MODIFY_ID1>
+        <MODIFY_DATE1>2019-01-29T01:02:22.763+09:00</MODIFY_DATE1>
+        <DIC_ID1>181266</DIC_ID1>
+        <WORD>crash</WORD>
+        <WORD_TYPE>noun</WORD_TYPE>
+        <MEAN_E>an accident in which a vehicle hits something</MEAN_E>
+        <MEAN_K>사고</MEAN_K>
+        <PICTURE>crash_RFch2e1.png</PICTURE>
+        <MEDIA>crash_RFch2e1.mp3</MEDIA>
+        <EXAMPLE>There are lots of car crashes during the holidays.</EXAMPLE>
+        <CREATE_ID2>sjin0201</CREATE_ID2>
+        <CREATE_DATE2>2018-11-16T01:09:25.303+09:00</CREATE_DATE2>
+        <MODIFY_ID2>sjin0201</MODIFY_ID2>
+        <MODIFY_DATE2>2019-01-20T17:23:59.317+09:00</MODIFY_DATE2>
+      </Table>
+      <Table diffgr:id="Table7" msdata:rowOrder="6">
+        <IDX>240315</IDX>
+        <SET_ID>454946</SET_ID>
+        <DIC_ID>181265</DIC_ID>
+        <PRT_Q>He _______ 18 months working on the project.</PRT_Q>
+        <PRT_ANSWER>3</PRT_ANSWER>
+        <PRT_CHOICE1>engine</PRT_CHOICE1>
+        <PRT_CHOICE2>helicopter</PRT_CHOICE2>
+        <PRT_CHOICE3>spent </PRT_CHOICE3>
+        <PRT_CHOICE4>receive</PRT_CHOICE4>
+        <CREATE_ID>sjin0201</CREATE_ID>
+        <CREATE_DATE>2018-11-16T01:10:06.703+09:00</CREATE_DATE>
+        <MODIFY_ID>sjin0201</MODIFY_ID>
+        <MODIFY_DATE>2019-01-20T17:24:17.633+09:00</MODIFY_DATE>
+        <SET_ID1>454946</SET_ID1>
+        <ACT_ID>28295</ACT_ID>
+        <ACT_TYPE>WL</ACT_TYPE>
+        <TITLE>First in Flight: The Wright Brothers</TITLE>
+        <TEST_TIME>0</TEST_TIME>
+        <ETC_INT1>0</ETC_INT1>
+        <ETC_INT2>0</ETC_INT2>
+        <CREATE_ID1>sjin0201</CREATE_ID1>
+        <CREATE_DATE1>2018-11-14T15:29:54.903+09:00</CREATE_DATE1>
+        <MODIFY_ID1>sjin0201</MODIFY_ID1>
+        <MODIFY_DATE1>2019-01-29T01:02:22.763+09:00</MODIFY_DATE1>
+        <DIC_ID1>181265</DIC_ID1>
+        <WORD>spend</WORD>
+        <WORD_TYPE>noun</WORD_TYPE>
+        <MEAN_E>to use time doing something or being somewhere</MEAN_E>
+        <MEAN_K>소요하다</MEAN_K>
+        <PICTURE>spend_RFch2e1.png</PICTURE>
+        <MEDIA>spend_RFch2e1.mp3</MEDIA>
+        <EXAMPLE>He spent 18 months working on the project.</EXAMPLE>
+        <CREATE_ID2>sjin0201</CREATE_ID2>
+        <CREATE_DATE2>2018-11-16T01:09:25.287+09:00</CREATE_DATE2>
+        <MODIFY_ID2>sjin0201</MODIFY_ID2>
+        <MODIFY_DATE2>2019-01-20T17:24:17.633+09:00</MODIFY_DATE2>
+      </Table>
+      <Table diffgr:id="Table8" msdata:rowOrder="7">
+        <IDX>240316</IDX>
+        <SET_ID>454946</SET_ID>
+        <DIC_ID>181264</DIC_ID>
+        <PRT_Q>Are you _______ to leave on your vacation?</PRT_Q>
+        <PRT_ANSWER>3</PRT_ANSWER>
+        <PRT_CHOICE1>spend</PRT_CHOICE1>
+        <PRT_CHOICE2>engine</PRT_CHOICE2>
+        <PRT_CHOICE3>ready</PRT_CHOICE3>
+        <PRT_CHOICE4>receive</PRT_CHOICE4>
+        <CREATE_ID>sjin0201</CREATE_ID>
+        <CREATE_DATE>2018-11-16T01:10:06.707+09:00</CREATE_DATE>
+        <MODIFY_ID>sjin0201</MODIFY_ID>
+        <MODIFY_DATE>2019-01-20T17:25:40.247+09:00</MODIFY_DATE>
+        <SET_ID1>454946</SET_ID1>
+        <ACT_ID>28295</ACT_ID>
+        <ACT_TYPE>WL</ACT_TYPE>
+        <TITLE>First in Flight: The Wright Brothers</TITLE>
+        <TEST_TIME>0</TEST_TIME>
+        <ETC_INT1>0</ETC_INT1>
+        <ETC_INT2>0</ETC_INT2>
+        <CREATE_ID1>sjin0201</CREATE_ID1>
+        <CREATE_DATE1>2018-11-14T15:29:54.903+09:00</CREATE_DATE1>
+        <MODIFY_ID1>sjin0201</MODIFY_ID1>
+        <MODIFY_DATE1>2019-01-29T01:02:22.763+09:00</MODIFY_DATE1>
+        <DIC_ID1>181264</DIC_ID1>
+        <WORD>ready</WORD>
+        <WORD_TYPE>noun</WORD_TYPE>
+        <MEAN_E>prepared for doing something</MEAN_E>
+        <MEAN_K>준비가 다 된</MEAN_K>
+        <PICTURE>ready_RFch2e1.png</PICTURE>
+        <MEDIA>ready_RFch2e1.mp3</MEDIA>
+        <EXAMPLE>Are you ready to leave on your vacation?</EXAMPLE>
+        <CREATE_ID2>sjin0201</CREATE_ID2>
+        <CREATE_DATE2>2018-11-16T01:09:25.263+09:00</CREATE_DATE2>
+        <MODIFY_ID2>sjin0201</MODIFY_ID2>
+        <MODIFY_DATE2>2019-01-20T17:25:40.25+09:00</MODIFY_DATE2>
+      </Table>
+    </NewDataSet>

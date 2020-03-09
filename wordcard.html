@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Word Card</title>
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/wordcard.css">
+</head>
+
+<body>
+    <div id="pagecontent" style="max-width: 100vw;max-height: 100vh;">
+        <div class="rd-block-card" id="wrapx">
+            <div class="rd-block-card-content">
+                <div class="rd-block-card-header">
+                    <a href="javascript:void(0)" onclick="setList()">
+                        <img src="img/122.png" alt="">
+                    </a>
+                </div>
+                <div class="rd-block-card-body word-card-page" id="rdBlockCardBody">
+                    <div class="rd-block-card-body-content">
+                        <div class="rd-block-card-data">
+                            <div id="rd-loading" style="position: relative; width: 100%; height: 100%; display: none;">
+                                <img style="width: 80px; height: 80px; position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%)" src="img/loading.gif">
+                                <p id="rd-loading-percent" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: #999999; font-size: 13px; font-weight: bold;">100</p>
+                            </div>
+
+                            <!-- World Card -->
+                            <div class="card-list card-list-2line" id="rdCardList">
+                                <div class="card-item" id="card-item-0" onclick="card_clicked(0)">
+                                    <div class="card-item-inner">
+                                        <div class="card-item-image">
+                                            <div class="card-item-image-inner" style="background:#fff;height: 100%;"><img src="https://contents.readingoceans.jp/words/goldfish_GoldfishAreBoring.jpg" alt=""></div>
+                                        </div>
+                                        <div class="card-item-text"><b>goldfish</b></div><audio id="rd-audio-0" style="display:none" controls=""><source src="https://contents.readingoceans.jp/words/goldfish.mp3" type="audio/mpeg"></audio></div>
+                                </div>
+                                <div class="card-item" id="card-item-1" onclick="card_clicked(1)">
+                                    <div class="card-item-inner">
+                                        <div class="card-item-image">
+                                            <div class="card-item-image-inner" style="background:#fff;height: 100%;"><img src="https://contents.readingoceans.jp/words/tank_GoldfishAreBoring.jpg" alt=""></div>
+                                        </div>
+                                        <div class="card-item-text"><b>tank</b></div><audio id="rd-audio-1" style="display:none" controls=""><source src="https://contents.readingoceans.jp/words/tank.mp3" type="audio/mpeg"></audio></div>
+                                </div>
+                                <div class="card-item" id="card-item-2" onclick="card_clicked(2)">
+                                    <div class="card-item-inner">
+                                        <div class="card-item-image">
+                                            <div class="card-item-image-inner" style="background:#fff;height: 100%;"><img src="https://contents.readingoceans.jp/words/look out_GoldfishAreBoring.jpg" alt=""></div>
+                                        </div>
+                                        <div class="card-item-text"><b>look</b></div><audio id="rd-audio-2" style="display:none" controls=""><source src="https://contents.readingoceans.jp/words/look.mp3" type="audio/mpeg"></audio></div>
+                                </div>
+                                <div class="card-item" id="card-item-3" onclick="card_clicked(3)">
+                                    <div class="card-item-inner">
+                                        <div class="card-item-image">
+                                            <div class="card-item-image-inner" style="background:#fff;height: 100%;"><img src="https://contents.readingoceans.jp/words/swim away_GoldfishAreBoring.jpg" alt=""></div>
+                                        </div>
+                                        <div class="card-item-text"><b>swim</b></div><audio id="rd-audio-3" style="display:none" controls=""><source src="https://contents.readingoceans.jp/words/swim.mp3" type="audio/mpeg"></audio></div>
+                                </div>
+                                <div class="card-item" id="card-item-4" onclick="card_clicked(4)">
+                                    <div class="card-item-inner">
+                                        <div class="card-item-image">
+                                            <div class="card-item-image-inner" style="background:#fff;height: 100%;"><img src="https://contents.readingoceans.jp/words/under_GoldfishAreBoring.jpg" alt=""></div>
+                                        </div>
+                                        <div class="card-item-text"><b>under</b></div><audio id="rd-audio-4" style="display:none" controls=""><source src="https://contents.readingoceans.jp/words/under.mp3" type="audio/mpeg"></audio></div>
+                                </div>
+                                <div class="card-item" id="card-item-5" onclick="card_clicked(5)">
+                                    <div class="card-item-inner">
+                                        <div class="card-item-image">
+                                            <div class="card-item-image-inner" style="background:#fff;height: 100%;"><img src="https://contents.readingoceans.jp/words/over_GoldfishAreBoring.jpg" alt=""></div>
+                                        </div>
+                                        <div class="card-item-text"><b>over</b></div><audio id="rd-audio-5" style="display:none" controls=""><source src="https://contents.readingoceans.jp/words/over.mp3" type="audio/mpeg"></audio></div>
+                                </div>
+                                <div class="card-item" id="card-item-6" onclick="card_clicked(6)">
+                                    <div class="card-item-inner">
+                                        <div class="card-item-image">
+                                            <div class="card-item-image-inner" style="background:#fff;height: 100%;"><img src="https://contents.readingoceans.jp/words/Goldfish_boring.jpg" alt=""></div>
+                                        </div>
+                                        <div class="card-item-text"><b>boring</b></div><audio id="rd-audio-6" style="display:none" controls=""><source src="https://contents.readingoceans.jp/words/boring.mp3" type="audio/mpeg"></audio></div>
+                                </div>
+                                <div class="card-item" id="card-item-7" onclick="card_clicked(7)">
+                                    <div class="card-item-inner">
+                                        <div class="card-item-image">
+                                            <div class="card-item-image-inner" style="background:#fff;height: 100%;"><img src="https://contents.readingoceans.jp/words/Goldfish_love.jpg" alt=""></div>
+                                        </div>
+                                        <div class="card-item-text"><b>love</b></div><audio id="rd-audio-7" style="display:none" controls=""><source src="https://contents.readingoceans.jp/words/love.mp3" type="audio/mpeg"></audio></div>
+                                </div>
+                            </div>
+
+                            <!-- Finish -->
+                            <div class="rd-finished" id="finishedSection" style="display: none;">
+                            </div>
+
+                            <div class="rd-finished-action" id="finishedSectionAction" style="display: none;">
+                                <a href="javascript:void(0)" onclick="setList()">
+                                    <img style="height: 67px; margin-top: 10px;" src="img/143.png" alt="list">
+                                </a>
+                                <span class="rd-finished-action-right" style="float: right" id="btnFinishedActionBottom"></span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="rd-block-card-action" id="rdBlockCardAction">
+                    <div id="play_Act_list" style="">
+                        <a href="javascript:void(0)" onclick="setList()">
+                            <img src="img/143.png" alt="list">
+                        </a>
+                    </div>
+                    <div id="menuButton">
+                        <div id="play_Act_006">
+                            <a href="javascript:void(0)" onclick="setActType('006')"><img src="img/37.png" alt="word"></a>
+                        </div>
+                        <div id="play_Act_007">
+                            <a href="javascript:void(0)" onclick="setActType('007')"><img src="img/104.png" alt="word-games"></a>
+                        </div>
+                        <div id="play_Act_008">
+                            <a href="javascript:void(0)" onclick="setActType('008')"><img src="img/109.png" alt="sentence-games"></a>
+                        </div>
+                        <!-- <div id="play_Act_005">
+                            <a href="javascript:void(0)" onclick="setActType('005')"><img src="img/88.png" alt="read-aloud"></a>
+                        </div>
+                        <div id="play_Act_004">
+                            <a href="javascript:void(0)" onclick="setActType('004')"><img src="img/98.png" alt="book-report"></a>
+                        </div> -->
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script type="text/javascript" src="js/jquery-1.11.3.js"></script>
+    <script type="text/javascript" src="js/doResize.js"></script>
+    <script type="text/javascript" src="js/common.js"></script>
+    <script type="text/javascript" src="js/worldcard.js"></script>
+    <script type="text/javascript">
+        // Hardcode
+        var totalWordCard = 8;
+        var isInit = false;
+        var _completeGameCheck = [];
+        var bookURL = 'img/Goldfish are Boring.jpg';
+
+        // Card clicked
+        function card_clicked(index) {
+            var sounds = document.getElementsByTagName('audio');
+            for (i = 0; i < sounds.length; i++) {
+                if (!sounds[i].paused) {
+                    return false;
+                }
+            }
+            $('#card-item-' + index).toggleClass('hover');
+            if ($('#card-item-' + index).hasClass('hover')) {
+                let au = document.getElementById('rd-audio-' + index);
+                allAudioArr.push(au);
+                au.play();
+                arrTimeout.push(setTimeout(() => {
+                    completeCheck();
+                }, au.duration * 1000));
+            }
+            if (_completeGameCheck.indexOf(index) === -1) {
+                _completeGameCheck.push(index);
+            }
+        }
+
+        // Check complete
+        function completeCheck() {
+            if (totalWordCard === _completeGameCheck.length) {
+                setCompleteActType(bookURL);
+            }
+        }
+    </script>
+</body>
+
+</html>

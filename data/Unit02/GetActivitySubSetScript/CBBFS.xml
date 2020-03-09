@@ -1,0 +1,23 @@
+﻿<NewDataSet xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:diffgr="urn:schemas-microsoft-com:xml-diffgram-v1" xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <Table diffgr:id="Table1" msdata:rowOrder="0">
+        <IDX>24044</IDX>
+        <SET_ID>454906</SET_ID>
+        <SCRIPT>There’s a city in [{southern}] Alaska called Anchorage. It is a unique place because [{moose}] live in the city at different times of the year. The moose live in Anchorage because they feel [{comfortable}] there. In the wild, bears try to kill and eat moose. In the city, there is [{plenty}] of food to eat. Moose and other animals get food from [{dumpsters}]. They also eat [{branches}] from the trees or plants from people’s gardens. People don’t [{mind}] the moose, and they have even made the animal a symbol of the city.
+
+
+</SCRIPT>
+        <ACT_ID>28288</ACT_ID>
+        <ACT_TYPE>BF</ACT_TYPE>
+        <TITLE>City Animals</TITLE>
+        <SUB_TITLE />
+        <TEST_TIME>0</TEST_TIME>
+        <ETC_INT1>0</ETC_INT1>
+        <ETC_INT2>0</ETC_INT2>
+        <SUB_SET_ID>488658</SUB_SET_ID>
+        <SUB_TYPE>CBBFS</SUB_TYPE>
+        <STUDENT>true</STUDENT>
+        <TEACHER>false</TEACHER>
+        <IS_SILVERLIGHT>false</IS_SILVERLIGHT>
+        <IS_FLASH>false</IS_FLASH>
+      </Table>
+    </NewDataSet>

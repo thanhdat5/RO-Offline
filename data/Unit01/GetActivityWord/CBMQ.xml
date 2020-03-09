@@ -1,0 +1,306 @@
+﻿<NewDataSet xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:diffgr="urn:schemas-microsoft-com:xml-diffgram-v1" xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <Table diffgr:id="Table1" msdata:rowOrder="0">
+        <IDX>240245</IDX>
+        <SET_ID>454898</SET_ID>
+        <DIC_ID>181200</DIC_ID>
+        <PRT_Q>The two houses stood 500 meters ______.</PRT_Q>
+        <PRT_ANSWER>3</PRT_ANSWER>
+        <PRT_CHOICE1>pressure</PRT_CHOICE1>
+        <PRT_CHOICE2>billion</PRT_CHOICE2>
+        <PRT_CHOICE3>apart</PRT_CHOICE3>
+        <PRT_CHOICE4>float</PRT_CHOICE4>
+        <CREATE_ID>sjin0201</CREATE_ID>
+        <CREATE_DATE>2018-11-15T23:39:20.947+09:00</CREATE_DATE>
+        <MODIFY_ID>sjin0201</MODIFY_ID>
+        <MODIFY_DATE>2019-01-20T16:22:37.51+09:00</MODIFY_DATE>
+        <SET_ID1>454898</SET_ID1>
+        <ACT_ID>28234</ACT_ID>
+        <ACT_TYPE>WL</ACT_TYPE>
+        <TITLE>Hyperloop</TITLE>
+        <TEST_TIME>0</TEST_TIME>
+        <ETC_INT1>0</ETC_INT1>
+        <ETC_INT2>0</ETC_INT2>
+        <CREATE_ID1>sjin0201</CREATE_ID1>
+        <CREATE_DATE1>2018-11-14T15:14:37.847+09:00</CREATE_DATE1>
+        <MODIFY_ID1>sjin0201</MODIFY_ID1>
+        <MODIFY_DATE1>2019-01-29T00:56:24.283+09:00</MODIFY_DATE1>
+        <DIC_ID1>181200</DIC_ID1>
+        <WORD>apart</WORD>
+        <WORD_TYPE>noun</WORD_TYPE>
+        <MEAN_E>away from one another in space or time</MEAN_E>
+        <MEAN_K>(거리·공간·시간 등이) 떨어져있는</MEAN_K>
+        <PICTURE>apart_RFch2e1.png</PICTURE>
+        <MEDIA>apart_RFch2e1.mp3</MEDIA>
+        <EXAMPLE>The two houses stood 500 meters apart.</EXAMPLE>
+        <CREATE_ID2>sjin0201</CREATE_ID2>
+        <CREATE_DATE2>2018-11-15T23:38:38.303+09:00</CREATE_DATE2>
+        <MODIFY_ID2>sjin0201</MODIFY_ID2>
+        <MODIFY_DATE2>2019-01-20T16:22:37.51+09:00</MODIFY_DATE2>
+      </Table>
+      <Table diffgr:id="Table2" msdata:rowOrder="1">
+        <IDX>240246</IDX>
+        <SET_ID>454898</SET_ID>
+        <DIC_ID>181201</DIC_ID>
+        <PRT_Q>Thomas Edison was a great ______. </PRT_Q>
+        <PRT_ANSWER>1</PRT_ANSWER>
+        <PRT_CHOICE1>inventor</PRT_CHOICE1>
+        <PRT_CHOICE2>apart</PRT_CHOICE2>
+        <PRT_CHOICE3>pressure</PRT_CHOICE3>
+        <PRT_CHOICE4>tube</PRT_CHOICE4>
+        <CREATE_ID>sjin0201</CREATE_ID>
+        <CREATE_DATE>2018-11-15T23:39:20.95+09:00</CREATE_DATE>
+        <MODIFY_ID>sjin0201</MODIFY_ID>
+        <MODIFY_DATE>2019-01-20T16:23:03.557+09:00</MODIFY_DATE>
+        <SET_ID1>454898</SET_ID1>
+        <ACT_ID>28234</ACT_ID>
+        <ACT_TYPE>WL</ACT_TYPE>
+        <TITLE>Hyperloop</TITLE>
+        <TEST_TIME>0</TEST_TIME>
+        <ETC_INT1>0</ETC_INT1>
+        <ETC_INT2>0</ETC_INT2>
+        <CREATE_ID1>sjin0201</CREATE_ID1>
+        <CREATE_DATE1>2018-11-14T15:14:37.847+09:00</CREATE_DATE1>
+        <MODIFY_ID1>sjin0201</MODIFY_ID1>
+        <MODIFY_DATE1>2019-01-29T00:56:24.283+09:00</MODIFY_DATE1>
+        <DIC_ID1>181201</DIC_ID1>
+        <WORD>inventor</WORD>
+        <WORD_TYPE>noun</WORD_TYPE>
+        <MEAN_E>someone who designs and makes new things</MEAN_E>
+        <MEAN_K>발명가</MEAN_K>
+        <PICTURE>inventor_RFch2e1.png</PICTURE>
+        <MEDIA>inventor_RFch2e1.mp3</MEDIA>
+        <EXAMPLE>Thomas Edison was a great inventor. </EXAMPLE>
+        <CREATE_ID2>sjin0201</CREATE_ID2>
+        <CREATE_DATE2>2018-11-15T23:38:38.347+09:00</CREATE_DATE2>
+        <MODIFY_ID2>sjin0201</MODIFY_ID2>
+        <MODIFY_DATE2>2019-01-20T16:23:03.56+09:00</MODIFY_DATE2>
+      </Table>
+      <Table diffgr:id="Table3" msdata:rowOrder="2">
+        <IDX>240247</IDX>
+        <SET_ID>454898</SET_ID>
+        <DIC_ID>181202</DIC_ID>
+        <PRT_Q>A doctor implanted a small ______ under the patient's skin.</PRT_Q>
+        <PRT_ANSWER>4</PRT_ANSWER>
+        <PRT_CHOICE1>passenger</PRT_CHOICE1>
+        <PRT_CHOICE2>billion</PRT_CHOICE2>
+        <PRT_CHOICE3>apart</PRT_CHOICE3>
+        <PRT_CHOICE4>tube</PRT_CHOICE4>
+        <CREATE_ID>sjin0201</CREATE_ID>
+        <CREATE_DATE>2018-11-15T23:39:20.953+09:00</CREATE_DATE>
+        <MODIFY_ID>sjin0201</MODIFY_ID>
+        <MODIFY_DATE>2019-01-20T16:24:46.79+09:00</MODIFY_DATE>
+        <SET_ID1>454898</SET_ID1>
+        <ACT_ID>28234</ACT_ID>
+        <ACT_TYPE>WL</ACT_TYPE>
+        <TITLE>Hyperloop</TITLE>
+        <TEST_TIME>0</TEST_TIME>
+        <ETC_INT1>0</ETC_INT1>
+        <ETC_INT2>0</ETC_INT2>
+        <CREATE_ID1>sjin0201</CREATE_ID1>
+        <CREATE_DATE1>2018-11-14T15:14:37.847+09:00</CREATE_DATE1>
+        <MODIFY_ID1>sjin0201</MODIFY_ID1>
+        <MODIFY_DATE1>2019-01-29T00:56:24.283+09:00</MODIFY_DATE1>
+        <DIC_ID1>181202</DIC_ID1>
+        <WORD>tube</WORD>
+        <WORD_TYPE>noun</WORD_TYPE>
+        <MEAN_E>a pipe made of glass, plastic, metal, etc., especially for liquids or gases to flow through</MEAN_E>
+        <MEAN_K>관</MEAN_K>
+        <PICTURE>tube_RFch2e1.png</PICTURE>
+        <MEDIA>tube_RFch2e1.mp3</MEDIA>
+        <EXAMPLE>A doctor implanted a small tube under the patient's skin.</EXAMPLE>
+        <CREATE_ID2>sjin0201</CREATE_ID2>
+        <CREATE_DATE2>2018-11-15T23:38:38.38+09:00</CREATE_DATE2>
+        <MODIFY_ID2>sjin0201</MODIFY_ID2>
+        <MODIFY_DATE2>2019-01-20T16:24:46.793+09:00</MODIFY_DATE2>
+      </Table>
+      <Table diffgr:id="Table4" msdata:rowOrder="3">
+        <IDX>240248</IDX>
+        <SET_ID>454898</SET_ID>
+        <DIC_ID>181203</DIC_ID>
+        <PRT_Q>One _______ was standing near the subway train.</PRT_Q>
+        <PRT_ANSWER>2</PRT_ANSWER>
+        <PRT_CHOICE1>pressure</PRT_CHOICE1>
+        <PRT_CHOICE2>passenger</PRT_CHOICE2>
+        <PRT_CHOICE3>billion</PRT_CHOICE3>
+        <PRT_CHOICE4>apart</PRT_CHOICE4>
+        <CREATE_ID>sjin0201</CREATE_ID>
+        <CREATE_DATE>2018-11-15T23:39:20.957+09:00</CREATE_DATE>
+        <MODIFY_ID>sjin0201</MODIFY_ID>
+        <MODIFY_DATE>2019-01-20T16:26:13.287+09:00</MODIFY_DATE>
+        <SET_ID1>454898</SET_ID1>
+        <ACT_ID>28234</ACT_ID>
+        <ACT_TYPE>WL</ACT_TYPE>
+        <TITLE>Hyperloop</TITLE>
+        <TEST_TIME>0</TEST_TIME>
+        <ETC_INT1>0</ETC_INT1>
+        <ETC_INT2>0</ETC_INT2>
+        <CREATE_ID1>sjin0201</CREATE_ID1>
+        <CREATE_DATE1>2018-11-14T15:14:37.847+09:00</CREATE_DATE1>
+        <MODIFY_ID1>sjin0201</MODIFY_ID1>
+        <MODIFY_DATE1>2019-01-29T00:56:24.283+09:00</MODIFY_DATE1>
+        <DIC_ID1>181203</DIC_ID1>
+        <WORD>passenger</WORD>
+        <WORD_TYPE>noun</WORD_TYPE>
+        <MEAN_E>someone who is travelling in a car, plane, etc., but not controlling it</MEAN_E>
+        <MEAN_K>승객</MEAN_K>
+        <PICTURE>passenger_RFch2e1.png</PICTURE>
+        <MEDIA>passenger_RFch2e1.mp3</MEDIA>
+        <EXAMPLE>One passenger was standing near the subway train.</EXAMPLE>
+        <CREATE_ID2>sjin0201</CREATE_ID2>
+        <CREATE_DATE2>2018-11-15T23:38:38.383+09:00</CREATE_DATE2>
+        <MODIFY_ID2>sjin0201</MODIFY_ID2>
+        <MODIFY_DATE2>2019-01-20T16:26:13.287+09:00</MODIFY_DATE2>
+      </Table>
+      <Table diffgr:id="Table5" msdata:rowOrder="4">
+        <IDX>240249</IDX>
+        <SET_ID>454898</SET_ID>
+        <DIC_ID>181204</DIC_ID>
+        <PRT_Q>The ______ has attraction for iron.</PRT_Q>
+        <PRT_ANSWER>3</PRT_ANSWER>
+        <PRT_CHOICE1>pressure</PRT_CHOICE1>
+        <PRT_CHOICE2>float</PRT_CHOICE2>
+        <PRT_CHOICE3>magnet</PRT_CHOICE3>
+        <PRT_CHOICE4>apart</PRT_CHOICE4>
+        <CREATE_ID>sjin0201</CREATE_ID>
+        <CREATE_DATE>2018-11-15T23:39:20.957+09:00</CREATE_DATE>
+        <MODIFY_ID>sjin0201</MODIFY_ID>
+        <MODIFY_DATE>2019-01-20T16:26:35.067+09:00</MODIFY_DATE>
+        <SET_ID1>454898</SET_ID1>
+        <ACT_ID>28234</ACT_ID>
+        <ACT_TYPE>WL</ACT_TYPE>
+        <TITLE>Hyperloop</TITLE>
+        <TEST_TIME>0</TEST_TIME>
+        <ETC_INT1>0</ETC_INT1>
+        <ETC_INT2>0</ETC_INT2>
+        <CREATE_ID1>sjin0201</CREATE_ID1>
+        <CREATE_DATE1>2018-11-14T15:14:37.847+09:00</CREATE_DATE1>
+        <MODIFY_ID1>sjin0201</MODIFY_ID1>
+        <MODIFY_DATE1>2019-01-29T00:56:24.283+09:00</MODIFY_DATE1>
+        <DIC_ID1>181204</DIC_ID1>
+        <WORD>magnet</WORD>
+        <WORD_TYPE>noun</WORD_TYPE>
+        <MEAN_E>an iron object that makes other pieces of iron move towards it</MEAN_E>
+        <MEAN_K>자석</MEAN_K>
+        <PICTURE>magnet_RFch2e1.png</PICTURE>
+        <MEDIA>magnet_RFch2e1.mp3</MEDIA>
+        <EXAMPLE>The magnet has attraction for iron.</EXAMPLE>
+        <CREATE_ID2>sjin0201</CREATE_ID2>
+        <CREATE_DATE2>2018-11-15T23:38:38.403+09:00</CREATE_DATE2>
+        <MODIFY_ID2>sjin0201</MODIFY_ID2>
+        <MODIFY_DATE2>2019-01-20T16:26:35.07+09:00</MODIFY_DATE2>
+      </Table>
+      <Table diffgr:id="Table6" msdata:rowOrder="5">
+        <IDX>240250</IDX>
+        <SET_ID>454898</SET_ID>
+        <DIC_ID>181205</DIC_ID>
+        <PRT_Q>The water is at very high ______.</PRT_Q>
+        <PRT_ANSWER>2</PRT_ANSWER>
+        <PRT_CHOICE1>apart</PRT_CHOICE1>
+        <PRT_CHOICE2>pressure</PRT_CHOICE2>
+        <PRT_CHOICE3>passenger</PRT_CHOICE3>
+        <PRT_CHOICE4>inventor</PRT_CHOICE4>
+        <CREATE_ID>sjin0201</CREATE_ID>
+        <CREATE_DATE>2018-11-15T23:39:20.96+09:00</CREATE_DATE>
+        <MODIFY_ID>sjin0201</MODIFY_ID>
+        <MODIFY_DATE>2019-01-20T16:27:23.663+09:00</MODIFY_DATE>
+        <SET_ID1>454898</SET_ID1>
+        <ACT_ID>28234</ACT_ID>
+        <ACT_TYPE>WL</ACT_TYPE>
+        <TITLE>Hyperloop</TITLE>
+        <TEST_TIME>0</TEST_TIME>
+        <ETC_INT1>0</ETC_INT1>
+        <ETC_INT2>0</ETC_INT2>
+        <CREATE_ID1>sjin0201</CREATE_ID1>
+        <CREATE_DATE1>2018-11-14T15:14:37.847+09:00</CREATE_DATE1>
+        <MODIFY_ID1>sjin0201</MODIFY_ID1>
+        <MODIFY_DATE1>2019-01-29T00:56:24.283+09:00</MODIFY_DATE1>
+        <DIC_ID1>181205</DIC_ID1>
+        <WORD>pressure</WORD>
+        <WORD_TYPE>noun</WORD_TYPE>
+        <MEAN_E>the force that you produce when you push something</MEAN_E>
+        <MEAN_K>압력</MEAN_K>
+        <PICTURE>pressure_RFch2e1.png</PICTURE>
+        <MEDIA>pressure_RFch2e1.mp3</MEDIA>
+        <EXAMPLE>The water is at very high pressure.</EXAMPLE>
+        <CREATE_ID2>sjin0201</CREATE_ID2>
+        <CREATE_DATE2>2018-11-15T23:38:38.417+09:00</CREATE_DATE2>
+        <MODIFY_ID2>sjin0201</MODIFY_ID2>
+        <MODIFY_DATE2>2019-01-20T16:27:23.663+09:00</MODIFY_DATE2>
+      </Table>
+      <Table diffgr:id="Table7" msdata:rowOrder="6">
+        <IDX>240251</IDX>
+        <SET_ID>454898</SET_ID>
+        <DIC_ID>181206</DIC_ID>
+        <PRT_Q>I just want to ______ in the water.</PRT_Q>
+        <PRT_ANSWER>3</PRT_ANSWER>
+        <PRT_CHOICE1>inventor</PRT_CHOICE1>
+        <PRT_CHOICE2>magnet</PRT_CHOICE2>
+        <PRT_CHOICE3>float</PRT_CHOICE3>
+        <PRT_CHOICE4>tube</PRT_CHOICE4>
+        <CREATE_ID>sjin0201</CREATE_ID>
+        <CREATE_DATE>2018-11-15T23:39:20.963+09:00</CREATE_DATE>
+        <MODIFY_ID>sjin0201</MODIFY_ID>
+        <MODIFY_DATE>2019-01-20T16:27:23.667+09:00</MODIFY_DATE>
+        <SET_ID1>454898</SET_ID1>
+        <ACT_ID>28234</ACT_ID>
+        <ACT_TYPE>WL</ACT_TYPE>
+        <TITLE>Hyperloop</TITLE>
+        <TEST_TIME>0</TEST_TIME>
+        <ETC_INT1>0</ETC_INT1>
+        <ETC_INT2>0</ETC_INT2>
+        <CREATE_ID1>sjin0201</CREATE_ID1>
+        <CREATE_DATE1>2018-11-14T15:14:37.847+09:00</CREATE_DATE1>
+        <MODIFY_ID1>sjin0201</MODIFY_ID1>
+        <MODIFY_DATE1>2019-01-29T00:56:24.283+09:00</MODIFY_DATE1>
+        <DIC_ID1>181206</DIC_ID1>
+        <WORD>float</WORD>
+        <WORD_TYPE>noun</WORD_TYPE>
+        <MEAN_E>to stay above the ground without touching it</MEAN_E>
+        <MEAN_K>(물 위나 공중에서) 뜨다</MEAN_K>
+        <PICTURE>float_RFch2e1.png</PICTURE>
+        <MEDIA>float_RFch2e1.mp3</MEDIA>
+        <EXAMPLE>I just want to float in the water.</EXAMPLE>
+        <CREATE_ID2>sjin0201</CREATE_ID2>
+        <CREATE_DATE2>2018-11-15T23:38:38.43+09:00</CREATE_DATE2>
+        <MODIFY_ID2>sjin0201</MODIFY_ID2>
+        <MODIFY_DATE2>2019-01-20T16:27:23.667+09:00</MODIFY_DATE2>
+      </Table>
+      <Table diffgr:id="Table8" msdata:rowOrder="7">
+        <IDX>240252</IDX>
+        <SET_ID>454898</SET_ID>
+        <DIC_ID>181207</DIC_ID>
+        <PRT_Q>I can see a ______ stars in the sky.</PRT_Q>
+        <PRT_ANSWER>4</PRT_ANSWER>
+        <PRT_CHOICE1>apart</PRT_CHOICE1>
+        <PRT_CHOICE2>tube</PRT_CHOICE2>
+        <PRT_CHOICE3>passenger</PRT_CHOICE3>
+        <PRT_CHOICE4>billion</PRT_CHOICE4>
+        <CREATE_ID>sjin0201</CREATE_ID>
+        <CREATE_DATE>2018-11-15T23:39:20.967+09:00</CREATE_DATE>
+        <MODIFY_ID>sjin0201</MODIFY_ID>
+        <MODIFY_DATE>2019-01-20T16:27:45.817+09:00</MODIFY_DATE>
+        <SET_ID1>454898</SET_ID1>
+        <ACT_ID>28234</ACT_ID>
+        <ACT_TYPE>WL</ACT_TYPE>
+        <TITLE>Hyperloop</TITLE>
+        <TEST_TIME>0</TEST_TIME>
+        <ETC_INT1>0</ETC_INT1>
+        <ETC_INT2>0</ETC_INT2>
+        <CREATE_ID1>sjin0201</CREATE_ID1>
+        <CREATE_DATE1>2018-11-14T15:14:37.847+09:00</CREATE_DATE1>
+        <MODIFY_ID1>sjin0201</MODIFY_ID1>
+        <MODIFY_DATE1>2019-01-29T00:56:24.283+09:00</MODIFY_DATE1>
+        <DIC_ID1>181207</DIC_ID1>
+        <WORD>billion</WORD>
+        <WORD_TYPE>noun</WORD_TYPE>
+        <MEAN_E>the number followed by nine zeroes</MEAN_E>
+        <MEAN_K>10억</MEAN_K>
+        <PICTURE>billion_RFch2e1.png</PICTURE>
+        <MEDIA>billion_RFch2e1.mp3</MEDIA>
+        <EXAMPLE>I can see a billion stars in the sky.</EXAMPLE>
+        <CREATE_ID2>sjin0201</CREATE_ID2>
+        <CREATE_DATE2>2018-11-15T23:38:38.44+09:00</CREATE_DATE2>
+        <MODIFY_ID2>sjin0201</MODIFY_ID2>
+        <MODIFY_DATE2>2019-01-20T16:27:45.82+09:00</MODIFY_DATE2>
+      </Table>
+    </NewDataSet>

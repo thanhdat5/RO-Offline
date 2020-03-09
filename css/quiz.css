@@ -1,0 +1,81 @@
+.rd-reader-quiz {
+    width: 100%;
+    height: 100%;
+    position: relative;
+}
+
+.rd-reader-quiz-content {
+    padding: 40px 150px;
+}
+
+.rd-reader-quiz-total {
+    text-align: right;
+    font-size: 20px;
+}
+
+.rd-reader-quiz-number {
+    font-weight: bold;
+    font-size: 24px;
+    margin: 10px 0;
+}
+
+.rd-reader-quiz-question {
+    padding: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    background-color: #cccccc;
+    margin-bottom: 30px;
+    border-radius: 5px;
+}
+
+.rd-reader-quiz-answer-image {
+    width: 275px;
+    float: left;
+    margin-right: 50px;
+}
+
+.rd-reader-quiz-answer-image img {
+    width: 100%;
+    border-radius: 10px;
+}
+
+.rd-reader-quiz-answer-list {
+    width: calc(100% - 325px);
+    float: left;
+}
+
+.rd-reader-quiz-answer-item {
+    cursor: pointer;
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 80px;
+}
+
+.rd-reader-quiz-answer-item-checkbox,
+.rd-reader-quiz-answer-item-checkbox-select {
+    margin-right: 10px;
+}
+
+.rd-reader-quiz-answer-item-checkbox-select {
+    display: none;
+}
+
+.rd-reader-quiz-answer-item.checked .rd-reader-quiz-answer-item-checkbox {
+    display: none;
+}
+
+.rd-reader-quiz-answer-item.checked .rd-reader-quiz-answer-item-checkbox-select {
+    display: inline-block;
+}
+
+.rd-reader-quiz-next {
+    display: none;
+    position: absolute;
+    bottom: 20px;
+    right: 150px;
+}
+
+.rd-reader-quiz-next img {
+    width: 40px;
+    cursor: pointer;
+}

@@ -1,0 +1,35 @@
+﻿<NewDataSet xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:diffgr="urn:schemas-microsoft-com:xml-diffgram-v1" xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <Table diffgr:id="Table1" msdata:rowOrder="0">
+        <IDX>92116</IDX>
+        <ACT_ID>28297</ACT_ID>
+        <PRT_Q>When was the first flight around the world finished?</PRT_Q>
+        <PRT_CHOICE1>December 17th, 1903</PRT_CHOICE1>
+        <PRT_CHOICE2>April 6th, 1924</PRT_CHOICE2>
+        <PRT_CHOICE3>September 28th, 1924</PRT_CHOICE3>
+        <PRT_CHOICE4>175 days after the Wright brothers’ first flight</PRT_CHOICE4>
+        <PRT_ANSWER>3</PRT_ANSWER>
+        <WORD_MAP />
+      </Table>
+      <Table diffgr:id="Table2" msdata:rowOrder="1">
+        <IDX>92117</IDX>
+        <ACT_ID>28297</ACT_ID>
+        <PRT_Q>How long did the first flight around the world take to finish?</PRT_Q>
+        <PRT_CHOICE1>One minute </PRT_CHOICE1>
+        <PRT_CHOICE2>Two months</PRT_CHOICE2>
+        <PRT_CHOICE3>175 days </PRT_CHOICE3>
+        <PRT_CHOICE4>Twenty years</PRT_CHOICE4>
+        <PRT_ANSWER>3</PRT_ANSWER>
+        <WORD_MAP />
+      </Table>
+      <Table diffgr:id="Table3" msdata:rowOrder="2">
+        <IDX>92118</IDX>
+        <ACT_ID>28297</ACT_ID>
+        <PRT_Q>Which one of the four aircraft to finish the flight around the globe was not one of the originals to start the voyage?</PRT_Q>
+        <PRT_CHOICE1>The Chicago </PRT_CHOICE1>
+        <PRT_CHOICE2>The New Orleans</PRT_CHOICE2>
+        <PRT_CHOICE3>The Boston </PRT_CHOICE3>
+        <PRT_CHOICE4>The Boston II</PRT_CHOICE4>
+        <PRT_ANSWER>4</PRT_ANSWER>
+        <WORD_MAP />
+      </Table>
+    </NewDataSet>

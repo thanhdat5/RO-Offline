@@ -1,0 +1,35 @@
+﻿<NewDataSet xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:diffgr="urn:schemas-microsoft-com:xml-diffgram-v1" xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <Table diffgr:id="Table1" msdata:rowOrder="0">
+        <IDX>92089</IDX>
+        <ACT_ID>28288</ACT_ID>
+        <PRT_Q>What is the reading mainly about?</PRT_Q>
+        <PRT_CHOICE1>The biggest city in Alaska </PRT_CHOICE1>
+        <PRT_CHOICE2>Moose living in the city</PRT_CHOICE2>
+        <PRT_CHOICE3>Why people move to Anchorage </PRT_CHOICE3>
+        <PRT_CHOICE4>Foods that moose like</PRT_CHOICE4>
+        <PRT_ANSWER>2</PRT_ANSWER>
+        <WORD_MAP />
+      </Table>
+      <Table diffgr:id="Table2" msdata:rowOrder="1">
+        <IDX>92090</IDX>
+        <ACT_ID>28288</ACT_ID>
+        <PRT_Q>What goes into people’s yards in the winter?</PRT_Q>
+        <PRT_CHOICE1>Branch </PRT_CHOICE1>
+        <PRT_CHOICE2>Driver</PRT_CHOICE2>
+        <PRT_CHOICE3>Person </PRT_CHOICE3>
+        <PRT_CHOICE4>Moose</PRT_CHOICE4>
+        <PRT_ANSWER>4</PRT_ANSWER>
+        <WORD_MAP />
+      </Table>
+      <Table diffgr:id="Table3" msdata:rowOrder="2">
+        <IDX>92091</IDX>
+        <ACT_ID>28288</ACT_ID>
+        <PRT_Q>Which is NOT true according to the reading?</PRT_Q>
+        <PRT_CHOICE1>Bears attack moose in the wild.</PRT_CHOICE1>
+        <PRT_CHOICE2>The moose is a symbol of Anchorage.</PRT_CHOICE2>
+        <PRT_CHOICE3>Many people do not want moose in the city.</PRT_CHOICE3>
+        <PRT_CHOICE4>Moose in the city get food from people’s gardens.</PRT_CHOICE4>
+        <PRT_ANSWER>3</PRT_ANSWER>
+        <WORD_MAP />
+      </Table>
+    </NewDataSet>

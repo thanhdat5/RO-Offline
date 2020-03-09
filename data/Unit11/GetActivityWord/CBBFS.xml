@@ -1,0 +1,306 @@
+﻿<NewDataSet xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:diffgr="urn:schemas-microsoft-com:xml-diffgram-v1" xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <Table diffgr:id="Table1" msdata:rowOrder="0">
+        <IDX>240325</IDX>
+        <SET_ID>454958</SET_ID>
+        <DIC_ID>181287</DIC_ID>
+        <PRT_Q>The flight was delayed because of ______ problems.</PRT_Q>
+        <PRT_ANSWER>1</PRT_ANSWER>
+        <PRT_CHOICE1>mechanical</PRT_CHOICE1>
+        <PRT_CHOICE2>island</PRT_CHOICE2>
+        <PRT_CHOICE3>receive</PRT_CHOICE3>
+        <PRT_CHOICE4>avoid</PRT_CHOICE4>
+        <CREATE_ID>sjin0201</CREATE_ID>
+        <CREATE_DATE>2018-11-16T01:26:25.8+09:00</CREATE_DATE>
+        <MODIFY_ID>sjin0201</MODIFY_ID>
+        <MODIFY_DATE>2019-01-20T17:37:24.847+09:00</MODIFY_DATE>
+        <SET_ID1>454958</SET_ID1>
+        <ACT_ID>28297</ACT_ID>
+        <ACT_TYPE>WL</ACT_TYPE>
+        <TITLE>Flying Around the World</TITLE>
+        <TEST_TIME>0</TEST_TIME>
+        <ETC_INT1>0</ETC_INT1>
+        <ETC_INT2>0</ETC_INT2>
+        <CREATE_ID1>sjin0201</CREATE_ID1>
+        <CREATE_DATE1>2018-11-14T15:30:58.943+09:00</CREATE_DATE1>
+        <MODIFY_ID1>sjin0201</MODIFY_ID1>
+        <MODIFY_DATE1>2019-01-29T01:03:44.383+09:00</MODIFY_DATE1>
+        <DIC_ID1>181287</DIC_ID1>
+        <WORD>mechanical</WORD>
+        <WORD_TYPE>noun</WORD_TYPE>
+        <MEAN_E>having to do with machines</MEAN_E>
+        <MEAN_K>기계로 작동되는</MEAN_K>
+        <PICTURE>mechanical_RFch2e1.png</PICTURE>
+        <MEDIA>mechanical_RFch2e1.mp3</MEDIA>
+        <EXAMPLE>The flight was delayed because of mechanical problems.</EXAMPLE>
+        <CREATE_ID2>sjin0201</CREATE_ID2>
+        <CREATE_DATE2>2018-11-16T01:25:44.353+09:00</CREATE_DATE2>
+        <MODIFY_ID2>sjin0201</MODIFY_ID2>
+        <MODIFY_DATE2>2019-01-20T17:37:24.847+09:00</MODIFY_DATE2>
+      </Table>
+      <Table diffgr:id="Table2" msdata:rowOrder="1">
+        <IDX>240326</IDX>
+        <SET_ID>454958</SET_ID>
+        <DIC_ID>181286</DIC_ID>
+        <PRT_Q>The lawyers took a(n) _______ break.</PRT_Q>
+        <PRT_ANSWER>1</PRT_ANSWER>
+        <PRT_CHOICE1>brief</PRT_CHOICE1>
+        <PRT_CHOICE2>mechanical</PRT_CHOICE2>
+        <PRT_CHOICE3>army</PRT_CHOICE3>
+        <PRT_CHOICE4>aircraft</PRT_CHOICE4>
+        <CREATE_ID>sjin0201</CREATE_ID>
+        <CREATE_DATE>2018-11-16T01:26:25.803+09:00</CREATE_DATE>
+        <MODIFY_ID>sjin0201</MODIFY_ID>
+        <MODIFY_DATE>2019-01-20T17:39:47.23+09:00</MODIFY_DATE>
+        <SET_ID1>454958</SET_ID1>
+        <ACT_ID>28297</ACT_ID>
+        <ACT_TYPE>WL</ACT_TYPE>
+        <TITLE>Flying Around the World</TITLE>
+        <TEST_TIME>0</TEST_TIME>
+        <ETC_INT1>0</ETC_INT1>
+        <ETC_INT2>0</ETC_INT2>
+        <CREATE_ID1>sjin0201</CREATE_ID1>
+        <CREATE_DATE1>2018-11-14T15:30:58.943+09:00</CREATE_DATE1>
+        <MODIFY_ID1>sjin0201</MODIFY_ID1>
+        <MODIFY_DATE1>2019-01-29T01:03:44.383+09:00</MODIFY_DATE1>
+        <DIC_ID1>181286</DIC_ID1>
+        <WORD>brief</WORD>
+        <WORD_TYPE>noun</WORD_TYPE>
+        <MEAN_E>lasting only for a short time</MEAN_E>
+        <MEAN_K>짧은</MEAN_K>
+        <PICTURE>brief_RFch2e1.png</PICTURE>
+        <MEDIA>brief_RFch2e1.mp3</MEDIA>
+        <EXAMPLE>The lawyers took a brief break.</EXAMPLE>
+        <CREATE_ID2>sjin0201</CREATE_ID2>
+        <CREATE_DATE2>2018-11-16T01:25:44.337+09:00</CREATE_DATE2>
+        <MODIFY_ID2>sjin0201</MODIFY_ID2>
+        <MODIFY_DATE2>2019-01-20T17:39:47.233+09:00</MODIFY_DATE2>
+      </Table>
+      <Table diffgr:id="Table3" msdata:rowOrder="2">
+        <IDX>240327</IDX>
+        <SET_ID>454958</SET_ID>
+        <DIC_ID>181285</DIC_ID>
+        <PRT_Q>The school has courses for elementary, intermediate, and ______ students.</PRT_Q>
+        <PRT_ANSWER>4</PRT_ANSWER>
+        <PRT_CHOICE1>mechanical</PRT_CHOICE1>
+        <PRT_CHOICE2>aircraft</PRT_CHOICE2>
+        <PRT_CHOICE3>mission</PRT_CHOICE3>
+        <PRT_CHOICE4>advanced</PRT_CHOICE4>
+        <CREATE_ID>sjin0201</CREATE_ID>
+        <CREATE_DATE>2018-11-16T01:26:25.807+09:00</CREATE_DATE>
+        <MODIFY_ID>sjin0201</MODIFY_ID>
+        <MODIFY_DATE>2019-01-20T17:40:26.697+09:00</MODIFY_DATE>
+        <SET_ID1>454958</SET_ID1>
+        <ACT_ID>28297</ACT_ID>
+        <ACT_TYPE>WL</ACT_TYPE>
+        <TITLE>Flying Around the World</TITLE>
+        <TEST_TIME>0</TEST_TIME>
+        <ETC_INT1>0</ETC_INT1>
+        <ETC_INT2>0</ETC_INT2>
+        <CREATE_ID1>sjin0201</CREATE_ID1>
+        <CREATE_DATE1>2018-11-14T15:30:58.943+09:00</CREATE_DATE1>
+        <MODIFY_ID1>sjin0201</MODIFY_ID1>
+        <MODIFY_DATE1>2019-01-29T01:03:44.383+09:00</MODIFY_DATE1>
+        <DIC_ID1>181285</DIC_ID1>
+        <WORD>advance</WORD>
+        <WORD_TYPE>noun</WORD_TYPE>
+        <MEAN_E>at a higher, more difficult level</MEAN_E>
+        <MEAN_K>발전된</MEAN_K>
+        <PICTURE>advance_RFch2e1.png</PICTURE>
+        <MEDIA>advance_RFch2e1.mp3</MEDIA>
+        <EXAMPLE>The school has courses for elementary, intermediate, and advanced students.</EXAMPLE>
+        <CREATE_ID2>sjin0201</CREATE_ID2>
+        <CREATE_DATE2>2018-11-16T01:25:44.337+09:00</CREATE_DATE2>
+        <MODIFY_ID2>sjin0201</MODIFY_ID2>
+        <MODIFY_DATE2>2019-01-20T17:40:26.697+09:00</MODIFY_DATE2>
+      </Table>
+      <Table diffgr:id="Table4" msdata:rowOrder="3">
+        <IDX>240328</IDX>
+        <SET_ID>454958</SET_ID>
+        <DIC_ID>181284</DIC_ID>
+        <PRT_Q>The _______ was ready to attack the enemy.</PRT_Q>
+        <PRT_ANSWER>3</PRT_ANSWER>
+        <PRT_CHOICE1>advance</PRT_CHOICE1>
+        <PRT_CHOICE2>mechanical</PRT_CHOICE2>
+        <PRT_CHOICE3>army</PRT_CHOICE3>
+        <PRT_CHOICE4>brief</PRT_CHOICE4>
+        <CREATE_ID>sjin0201</CREATE_ID>
+        <CREATE_DATE>2018-11-16T01:26:25.81+09:00</CREATE_DATE>
+        <MODIFY_ID>sjin0201</MODIFY_ID>
+        <MODIFY_DATE>2019-01-20T17:42:57.407+09:00</MODIFY_DATE>
+        <SET_ID1>454958</SET_ID1>
+        <ACT_ID>28297</ACT_ID>
+        <ACT_TYPE>WL</ACT_TYPE>
+        <TITLE>Flying Around the World</TITLE>
+        <TEST_TIME>0</TEST_TIME>
+        <ETC_INT1>0</ETC_INT1>
+        <ETC_INT2>0</ETC_INT2>
+        <CREATE_ID1>sjin0201</CREATE_ID1>
+        <CREATE_DATE1>2018-11-14T15:30:58.943+09:00</CREATE_DATE1>
+        <MODIFY_ID1>sjin0201</MODIFY_ID1>
+        <MODIFY_DATE1>2019-01-29T01:03:44.383+09:00</MODIFY_DATE1>
+        <DIC_ID1>181284</DIC_ID1>
+        <WORD>army</WORD>
+        <WORD_TYPE>noun</WORD_TYPE>
+        <MEAN_E>a large group of soldiers organized to fight battles</MEAN_E>
+        <MEAN_K>군대</MEAN_K>
+        <PICTURE>army_RFch2e1.png</PICTURE>
+        <MEDIA>army_RFch2e1.mp3</MEDIA>
+        <EXAMPLE>The army was ready to attack the enemy.</EXAMPLE>
+        <CREATE_ID2>sjin0201</CREATE_ID2>
+        <CREATE_DATE2>2018-11-16T01:25:44.32+09:00</CREATE_DATE2>
+        <MODIFY_ID2>sjin0201</MODIFY_ID2>
+        <MODIFY_DATE2>2019-01-20T17:42:57.41+09:00</MODIFY_DATE2>
+      </Table>
+      <Table diffgr:id="Table5" msdata:rowOrder="4">
+        <IDX>240329</IDX>
+        <SET_ID>454958</SET_ID>
+        <DIC_ID>181283</DIC_ID>
+        <PRT_Q>The soldiers’ ______ is to destroy the bridge.</PRT_Q>
+        <PRT_ANSWER>4</PRT_ANSWER>
+        <PRT_CHOICE1>mechanical</PRT_CHOICE1>
+        <PRT_CHOICE2>receive</PRT_CHOICE2>
+        <PRT_CHOICE3>globe</PRT_CHOICE3>
+        <PRT_CHOICE4>mission</PRT_CHOICE4>
+        <CREATE_ID>sjin0201</CREATE_ID>
+        <CREATE_DATE>2018-11-16T01:26:25.813+09:00</CREATE_DATE>
+        <MODIFY_ID>sjin0201</MODIFY_ID>
+        <MODIFY_DATE>2019-01-20T17:43:59.013+09:00</MODIFY_DATE>
+        <SET_ID1>454958</SET_ID1>
+        <ACT_ID>28297</ACT_ID>
+        <ACT_TYPE>WL</ACT_TYPE>
+        <TITLE>Flying Around the World</TITLE>
+        <TEST_TIME>0</TEST_TIME>
+        <ETC_INT1>0</ETC_INT1>
+        <ETC_INT2>0</ETC_INT2>
+        <CREATE_ID1>sjin0201</CREATE_ID1>
+        <CREATE_DATE1>2018-11-14T15:30:58.943+09:00</CREATE_DATE1>
+        <MODIFY_ID1>sjin0201</MODIFY_ID1>
+        <MODIFY_DATE1>2019-01-29T01:03:44.383+09:00</MODIFY_DATE1>
+        <DIC_ID1>181283</DIC_ID1>
+        <WORD>mission</WORD>
+        <WORD_TYPE>noun</WORD_TYPE>
+        <MEAN_E>a task or a job that people must do</MEAN_E>
+        <MEAN_K>임무</MEAN_K>
+        <PICTURE>mission_RFch2e1-1.png</PICTURE>
+        <MEDIA>mission_RFch2e1.mp3</MEDIA>
+        <EXAMPLE>The soldiers’ mission is to destroy the bridge.</EXAMPLE>
+        <CREATE_ID2>sjin0201</CREATE_ID2>
+        <CREATE_DATE2>2018-11-16T01:25:44.3+09:00</CREATE_DATE2>
+        <MODIFY_ID2>sjin0201</MODIFY_ID2>
+        <MODIFY_DATE2>2019-01-20T17:43:59.013+09:00</MODIFY_DATE2>
+      </Table>
+      <Table diffgr:id="Table6" msdata:rowOrder="5">
+        <IDX>240330</IDX>
+        <SET_ID>454958</SET_ID>
+        <DIC_ID>181282</DIC_ID>
+        <PRT_Q>Many people believe that the _______ game of soccer was made in England.</PRT_Q>
+        <PRT_ANSWER>2</PRT_ANSWER>
+        <PRT_CHOICE1>aircraft</PRT_CHOICE1>
+        <PRT_CHOICE2>original</PRT_CHOICE2>
+        <PRT_CHOICE3>mechanical</PRT_CHOICE3>
+        <PRT_CHOICE4>army</PRT_CHOICE4>
+        <CREATE_ID>sjin0201</CREATE_ID>
+        <CREATE_DATE>2018-11-16T01:26:25.817+09:00</CREATE_DATE>
+        <MODIFY_ID>sjin0201</MODIFY_ID>
+        <MODIFY_DATE>2019-01-20T17:45:22.343+09:00</MODIFY_DATE>
+        <SET_ID1>454958</SET_ID1>
+        <ACT_ID>28297</ACT_ID>
+        <ACT_TYPE>WL</ACT_TYPE>
+        <TITLE>Flying Around the World</TITLE>
+        <TEST_TIME>0</TEST_TIME>
+        <ETC_INT1>0</ETC_INT1>
+        <ETC_INT2>0</ETC_INT2>
+        <CREATE_ID1>sjin0201</CREATE_ID1>
+        <CREATE_DATE1>2018-11-14T15:30:58.943+09:00</CREATE_DATE1>
+        <MODIFY_ID1>sjin0201</MODIFY_ID1>
+        <MODIFY_DATE1>2019-01-29T01:03:44.383+09:00</MODIFY_DATE1>
+        <DIC_ID1>181282</DIC_ID1>
+        <WORD>original</WORD>
+        <WORD_TYPE>noun</WORD_TYPE>
+        <MEAN_E>made or produced first; not a copy</MEAN_E>
+        <MEAN_K>원조의</MEAN_K>
+        <PICTURE>original_RFch2e1.png</PICTURE>
+        <MEDIA>original_RFch2e1.mp3</MEDIA>
+        <EXAMPLE>Many people believe that the original game of soccer was made in England.</EXAMPLE>
+        <CREATE_ID2>sjin0201</CREATE_ID2>
+        <CREATE_DATE2>2018-11-16T01:25:44.27+09:00</CREATE_DATE2>
+        <MODIFY_ID2>sjin0201</MODIFY_ID2>
+        <MODIFY_DATE2>2019-01-20T17:45:22.343+09:00</MODIFY_DATE2>
+      </Table>
+      <Table diffgr:id="Table7" msdata:rowOrder="6">
+        <IDX>240331</IDX>
+        <SET_ID>454958</SET_ID>
+        <DIC_ID>181281</DIC_ID>
+        <PRT_Q>Where is your country on the ________?</PRT_Q>
+        <PRT_ANSWER>1</PRT_ANSWER>
+        <PRT_CHOICE1>globe</PRT_CHOICE1>
+        <PRT_CHOICE2>advance</PRT_CHOICE2>
+        <PRT_CHOICE3>original</PRT_CHOICE3>
+        <PRT_CHOICE4>aircraft</PRT_CHOICE4>
+        <CREATE_ID>sjin0201</CREATE_ID>
+        <CREATE_DATE>2018-11-16T01:26:25.82+09:00</CREATE_DATE>
+        <MODIFY_ID>sjin0201</MODIFY_ID>
+        <MODIFY_DATE>2019-01-20T17:46:40.377+09:00</MODIFY_DATE>
+        <SET_ID1>454958</SET_ID1>
+        <ACT_ID>28297</ACT_ID>
+        <ACT_TYPE>WL</ACT_TYPE>
+        <TITLE>Flying Around the World</TITLE>
+        <TEST_TIME>0</TEST_TIME>
+        <ETC_INT1>0</ETC_INT1>
+        <ETC_INT2>0</ETC_INT2>
+        <CREATE_ID1>sjin0201</CREATE_ID1>
+        <CREATE_DATE1>2018-11-14T15:30:58.943+09:00</CREATE_DATE1>
+        <MODIFY_ID1>sjin0201</MODIFY_ID1>
+        <MODIFY_DATE1>2019-01-29T01:03:44.383+09:00</MODIFY_DATE1>
+        <DIC_ID1>181281</DIC_ID1>
+        <WORD>globe</WORD>
+        <WORD_TYPE>noun</WORD_TYPE>
+        <MEAN_E>the Earth</MEAN_E>
+        <MEAN_K>지구</MEAN_K>
+        <PICTURE>globe_RFch2e1.png</PICTURE>
+        <MEDIA>globe_RFch2e1.mp3</MEDIA>
+        <EXAMPLE>Where is your country on the globe?</EXAMPLE>
+        <CREATE_ID2>sjin0201</CREATE_ID2>
+        <CREATE_DATE2>2018-11-16T01:25:44.257+09:00</CREATE_DATE2>
+        <MODIFY_ID2>sjin0201</MODIFY_ID2>
+        <MODIFY_DATE2>2019-01-20T17:46:40.38+09:00</MODIFY_DATE2>
+      </Table>
+      <Table diffgr:id="Table8" msdata:rowOrder="7">
+        <IDX>240332</IDX>
+        <SET_ID>454958</SET_ID>
+        <DIC_ID>181280</DIC_ID>
+        <PRT_Q>A company that manufactures ______.</PRT_Q>
+        <PRT_ANSWER>4</PRT_ANSWER>
+        <PRT_CHOICE1>brief</PRT_CHOICE1>
+        <PRT_CHOICE2>mechanical</PRT_CHOICE2>
+        <PRT_CHOICE3>mission</PRT_CHOICE3>
+        <PRT_CHOICE4>aircraft</PRT_CHOICE4>
+        <CREATE_ID>sjin0201</CREATE_ID>
+        <CREATE_DATE>2018-11-16T01:26:25.823+09:00</CREATE_DATE>
+        <MODIFY_ID>sjin0201</MODIFY_ID>
+        <MODIFY_DATE>2019-01-20T17:47:12.06+09:00</MODIFY_DATE>
+        <SET_ID1>454958</SET_ID1>
+        <ACT_ID>28297</ACT_ID>
+        <ACT_TYPE>WL</ACT_TYPE>
+        <TITLE>Flying Around the World</TITLE>
+        <TEST_TIME>0</TEST_TIME>
+        <ETC_INT1>0</ETC_INT1>
+        <ETC_INT2>0</ETC_INT2>
+        <CREATE_ID1>sjin0201</CREATE_ID1>
+        <CREATE_DATE1>2018-11-14T15:30:58.943+09:00</CREATE_DATE1>
+        <MODIFY_ID1>sjin0201</MODIFY_ID1>
+        <MODIFY_DATE1>2019-01-29T01:03:44.383+09:00</MODIFY_DATE1>
+        <DIC_ID1>181280</DIC_ID1>
+        <WORD>aircraft</WORD>
+        <WORD_TYPE>noun</WORD_TYPE>
+        <MEAN_E>a vehicle that can fly</MEAN_E>
+        <MEAN_K>항공기</MEAN_K>
+        <PICTURE>aircraft_RFch2e1.png</PICTURE>
+        <MEDIA>aircraft_RFch2e1.mp3</MEDIA>
+        <EXAMPLE>A company that manufactures aircraft.</EXAMPLE>
+        <CREATE_ID2>sjin0201</CREATE_ID2>
+        <CREATE_DATE2>2018-11-16T01:25:44.253+09:00</CREATE_DATE2>
+        <MODIFY_ID2>sjin0201</MODIFY_ID2>
+        <MODIFY_DATE2>2019-01-20T17:47:12.063+09:00</MODIFY_DATE2>
+      </Table>
+    </NewDataSet>

@@ -1,0 +1,314 @@
+﻿<NewDataSet xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:diffgr="urn:schemas-microsoft-com:xml-diffgram-v1" xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <Table diffgr:id="Table1" msdata:rowOrder="0">
+        <IDX>240317</IDX>
+        <SET_ID>454952</SET_ID>
+        <DIC_ID>181279</DIC_ID>
+        <PRT_Q>He is the ______, since he was the first one to do it.</PRT_Q>
+        <PRT_ANSWER>2</PRT_ANSWER>
+        <PRT_CHOICE1>female</PRT_CHOICE1>
+        <PRT_CHOICE2>pioneer</PRT_CHOICE2>
+        <PRT_CHOICE3>receive</PRT_CHOICE3>
+        <PRT_CHOICE4>island</PRT_CHOICE4>
+        <CREATE_ID>sjin0201</CREATE_ID>
+        <CREATE_DATE>2018-11-16T01:19:28.64+09:00</CREATE_DATE>
+        <MODIFY_ID>sjin0201</MODIFY_ID>
+        <MODIFY_DATE>2019-01-20T17:26:25.48+09:00</MODIFY_DATE>
+        <SET_ID1>454952</SET_ID1>
+        <ACT_ID>28296</ACT_ID>
+        <ACT_TYPE>WL</ACT_TYPE>
+        <TITLE>Amelia Earhart</TITLE>
+        <DIRECTION />
+        <TEST_TIME>0</TEST_TIME>
+        <ETC_INT1>0</ETC_INT1>
+        <ETC_INT2>0</ETC_INT2>
+        <CREATE_ID1>sjin0201</CREATE_ID1>
+        <CREATE_DATE1>2018-11-14T15:30:25.49+09:00</CREATE_DATE1>
+        <MODIFY_ID1>admin</MODIFY_ID1>
+        <MODIFY_DATE1>2019-06-12T13:30:38.12+09:00</MODIFY_DATE1>
+        <DIC_ID1>181279</DIC_ID1>
+        <WORD>pioneer</WORD>
+        <WORD_TYPE>noun</WORD_TYPE>
+        <MEAN_E>someone who is one of the first people to do a thing</MEAN_E>
+        <MEAN_K>개척자</MEAN_K>
+        <PICTURE>pioneer_RFch2e1.png</PICTURE>
+        <MEDIA>pioneer_RFch2e1.mp3</MEDIA>
+        <EXAMPLE>He is the pioneer, since he was the first one to do it.</EXAMPLE>
+        <CREATE_ID2>sjin0201</CREATE_ID2>
+        <CREATE_DATE2>2018-11-16T01:18:42.877+09:00</CREATE_DATE2>
+        <MODIFY_ID2>admin</MODIFY_ID2>
+        <MODIFY_DATE2>2020-01-22T19:03:53.483+09:00</MODIFY_DATE2>
+      </Table>
+      <Table diffgr:id="Table2" msdata:rowOrder="1">
+        <IDX>240318</IDX>
+        <SET_ID>454952</SET_ID>
+        <DIC_ID>181278</DIC_ID>
+        <PRT_Q>_______ safety is one of the most important things in flight . </PRT_Q>
+        <PRT_ANSWER>3</PRT_ANSWER>
+        <PRT_CHOICE1>Search</PRT_CHOICE1>
+        <PRT_CHOICE2>Voyage</PRT_CHOICE2>
+        <PRT_CHOICE3>Aviation </PRT_CHOICE3>
+        <PRT_CHOICE4>Island</PRT_CHOICE4>
+        <CREATE_ID>sjin0201</CREATE_ID>
+        <CREATE_DATE>2018-11-16T01:19:28.643+09:00</CREATE_DATE>
+        <MODIFY_ID>sjin0201</MODIFY_ID>
+        <MODIFY_DATE>2019-01-20T17:29:33.263+09:00</MODIFY_DATE>
+        <SET_ID1>454952</SET_ID1>
+        <ACT_ID>28296</ACT_ID>
+        <ACT_TYPE>WL</ACT_TYPE>
+        <TITLE>Amelia Earhart</TITLE>
+        <DIRECTION />
+        <TEST_TIME>0</TEST_TIME>
+        <ETC_INT1>0</ETC_INT1>
+        <ETC_INT2>0</ETC_INT2>
+        <CREATE_ID1>sjin0201</CREATE_ID1>
+        <CREATE_DATE1>2018-11-14T15:30:25.49+09:00</CREATE_DATE1>
+        <MODIFY_ID1>admin</MODIFY_ID1>
+        <MODIFY_DATE1>2019-06-12T13:30:38.12+09:00</MODIFY_DATE1>
+        <DIC_ID1>181278</DIC_ID1>
+        <WORD>aviation</WORD>
+        <WORD_TYPE>noun</WORD_TYPE>
+        <MEAN_E>something having to do with flying airplanes, helicopters, etc.</MEAN_E>
+        <MEAN_K>항공</MEAN_K>
+        <PICTURE>aviation_RFch2e1.png</PICTURE>
+        <MEDIA>aviation_RFch2e1.mp3</MEDIA>
+        <EXAMPLE>Aviation safety is one of the most important things in flight . </EXAMPLE>
+        <CREATE_ID2>sjin0201</CREATE_ID2>
+        <CREATE_DATE2>2018-11-16T01:18:42.873+09:00</CREATE_DATE2>
+        <MODIFY_ID2>sjin0201</MODIFY_ID2>
+        <MODIFY_DATE2>2019-01-20T17:29:33.267+09:00</MODIFY_DATE2>
+      </Table>
+      <Table diffgr:id="Table3" msdata:rowOrder="2">
+        <IDX>240319</IDX>
+        <SET_ID>454952</SET_ID>
+        <DIC_ID>181277</DIC_ID>
+        <PRT_Q>I learned that only ________ birds lay eggs.</PRT_Q>
+        <PRT_ANSWER>3</PRT_ANSWER>
+        <PRT_CHOICE1>navigator</PRT_CHOICE1>
+        <PRT_CHOICE2>search</PRT_CHOICE2>
+        <PRT_CHOICE3>female</PRT_CHOICE3>
+        <PRT_CHOICE4>aviation</PRT_CHOICE4>
+        <CREATE_ID>sjin0201</CREATE_ID>
+        <CREATE_DATE>2018-11-16T01:19:28.647+09:00</CREATE_DATE>
+        <MODIFY_ID>sjin0201</MODIFY_ID>
+        <MODIFY_DATE>2019-01-20T17:30:16.85+09:00</MODIFY_DATE>
+        <SET_ID1>454952</SET_ID1>
+        <ACT_ID>28296</ACT_ID>
+        <ACT_TYPE>WL</ACT_TYPE>
+        <TITLE>Amelia Earhart</TITLE>
+        <DIRECTION />
+        <TEST_TIME>0</TEST_TIME>
+        <ETC_INT1>0</ETC_INT1>
+        <ETC_INT2>0</ETC_INT2>
+        <CREATE_ID1>sjin0201</CREATE_ID1>
+        <CREATE_DATE1>2018-11-14T15:30:25.49+09:00</CREATE_DATE1>
+        <MODIFY_ID1>admin</MODIFY_ID1>
+        <MODIFY_DATE1>2019-06-12T13:30:38.12+09:00</MODIFY_DATE1>
+        <DIC_ID1>181277</DIC_ID1>
+        <WORD>female</WORD>
+        <WORD_TYPE>noun</WORD_TYPE>
+        <MEAN_E>being a girl or women</MEAN_E>
+        <MEAN_K>여성의</MEAN_K>
+        <PICTURE>female_RFch2e1.png</PICTURE>
+        <MEDIA>female_RFch2e1.mp3</MEDIA>
+        <EXAMPLE>I learned that only female birds lay eggs.</EXAMPLE>
+        <CREATE_ID2>sjin0201</CREATE_ID2>
+        <CREATE_DATE2>2018-11-16T01:18:42.807+09:00</CREATE_DATE2>
+        <MODIFY_ID2>sjin0201</MODIFY_ID2>
+        <MODIFY_DATE2>2019-01-20T17:30:16.853+09:00</MODIFY_DATE2>
+      </Table>
+      <Table diffgr:id="Table4" msdata:rowOrder="3">
+        <IDX>240320</IDX>
+        <SET_ID>454952</SET_ID>
+        <DIC_ID>181276</DIC_ID>
+        <PRT_Q>He was a young sailor on his first sea ______.</PRT_Q>
+        <PRT_ANSWER>3</PRT_ANSWER>
+        <PRT_CHOICE1>return</PRT_CHOICE1>
+        <PRT_CHOICE2>aviation</PRT_CHOICE2>
+        <PRT_CHOICE3>voyage</PRT_CHOICE3>
+        <PRT_CHOICE4>search</PRT_CHOICE4>
+        <CREATE_ID>sjin0201</CREATE_ID>
+        <CREATE_DATE>2018-11-16T01:19:28.647+09:00</CREATE_DATE>
+        <MODIFY_ID>sjin0201</MODIFY_ID>
+        <MODIFY_DATE>2019-01-20T17:31:03.953+09:00</MODIFY_DATE>
+        <SET_ID1>454952</SET_ID1>
+        <ACT_ID>28296</ACT_ID>
+        <ACT_TYPE>WL</ACT_TYPE>
+        <TITLE>Amelia Earhart</TITLE>
+        <DIRECTION />
+        <TEST_TIME>0</TEST_TIME>
+        <ETC_INT1>0</ETC_INT1>
+        <ETC_INT2>0</ETC_INT2>
+        <CREATE_ID1>sjin0201</CREATE_ID1>
+        <CREATE_DATE1>2018-11-14T15:30:25.49+09:00</CREATE_DATE1>
+        <MODIFY_ID1>admin</MODIFY_ID1>
+        <MODIFY_DATE1>2019-06-12T13:30:38.12+09:00</MODIFY_DATE1>
+        <DIC_ID1>181276</DIC_ID1>
+        <WORD>voyage</WORD>
+        <WORD_TYPE>noun</WORD_TYPE>
+        <MEAN_E>a long trip</MEAN_E>
+        <MEAN_K>항해</MEAN_K>
+        <PICTURE>voyage_RFch2e1.png</PICTURE>
+        <MEDIA>voyage_RFch2e1.mp3</MEDIA>
+        <EXAMPLE>He was a young sailor on his first sea voyage.</EXAMPLE>
+        <CREATE_ID2>sjin0201</CREATE_ID2>
+        <CREATE_DATE2>2018-11-16T01:18:42.793+09:00</CREATE_DATE2>
+        <MODIFY_ID2>sjin0201</MODIFY_ID2>
+        <MODIFY_DATE2>2019-01-20T17:31:03.957+09:00</MODIFY_DATE2>
+      </Table>
+      <Table diffgr:id="Table5" msdata:rowOrder="4">
+        <IDX>240321</IDX>
+        <SET_ID>454952</SET_ID>
+        <DIC_ID>181275</DIC_ID>
+        <PRT_Q>The ________ directed the ship to the port.</PRT_Q>
+        <PRT_ANSWER>1</PRT_ANSWER>
+        <PRT_CHOICE1>navigator</PRT_CHOICE1>
+        <PRT_CHOICE2>interested</PRT_CHOICE2>
+        <PRT_CHOICE3>return</PRT_CHOICE3>
+        <PRT_CHOICE4>receive</PRT_CHOICE4>
+        <CREATE_ID>sjin0201</CREATE_ID>
+        <CREATE_DATE>2018-11-16T01:19:28.65+09:00</CREATE_DATE>
+        <MODIFY_ID>sjin0201</MODIFY_ID>
+        <MODIFY_DATE>2019-01-20T17:32:36.197+09:00</MODIFY_DATE>
+        <SET_ID1>454952</SET_ID1>
+        <ACT_ID>28296</ACT_ID>
+        <ACT_TYPE>WL</ACT_TYPE>
+        <TITLE>Amelia Earhart</TITLE>
+        <DIRECTION />
+        <TEST_TIME>0</TEST_TIME>
+        <ETC_INT1>0</ETC_INT1>
+        <ETC_INT2>0</ETC_INT2>
+        <CREATE_ID1>sjin0201</CREATE_ID1>
+        <CREATE_DATE1>2018-11-14T15:30:25.49+09:00</CREATE_DATE1>
+        <MODIFY_ID1>admin</MODIFY_ID1>
+        <MODIFY_DATE1>2019-06-12T13:30:38.12+09:00</MODIFY_DATE1>
+        <DIC_ID1>181275</DIC_ID1>
+        <WORD>navigator</WORD>
+        <WORD_TYPE>noun</WORD_TYPE>
+        <MEAN_E>a person in a vehicle who decides the direction in which the vehicle travels</MEAN_E>
+        <MEAN_K>항해사</MEAN_K>
+        <PICTURE>navigator_RFch2e1.png</PICTURE>
+        <MEDIA>navigator_RFch2e1.mp3</MEDIA>
+        <EXAMPLE>The navigator directed the ship to the port.</EXAMPLE>
+        <CREATE_ID2>sjin0201</CREATE_ID2>
+        <CREATE_DATE2>2018-11-16T01:18:42.78+09:00</CREATE_DATE2>
+        <MODIFY_ID2>sjin0201</MODIFY_ID2>
+        <MODIFY_DATE2>2019-01-20T17:32:36.2+09:00</MODIFY_DATE2>
+      </Table>
+      <Table diffgr:id="Table6" msdata:rowOrder="5">
+        <IDX>240322</IDX>
+        <SET_ID>454952</SET_ID>
+        <DIC_ID>181274</DIC_ID>
+        <PRT_Q>We are always happy to _______ home.</PRT_Q>
+        <PRT_ANSWER>1</PRT_ANSWER>
+        <PRT_CHOICE1>return </PRT_CHOICE1>
+        <PRT_CHOICE2>aviation</PRT_CHOICE2>
+        <PRT_CHOICE3>female</PRT_CHOICE3>
+        <PRT_CHOICE4>navigator</PRT_CHOICE4>
+        <CREATE_ID>sjin0201</CREATE_ID>
+        <CREATE_DATE>2018-11-16T01:19:28.653+09:00</CREATE_DATE>
+        <MODIFY_ID>sjin0201</MODIFY_ID>
+        <MODIFY_DATE>2019-01-20T17:34:30.11+09:00</MODIFY_DATE>
+        <SET_ID1>454952</SET_ID1>
+        <ACT_ID>28296</ACT_ID>
+        <ACT_TYPE>WL</ACT_TYPE>
+        <TITLE>Amelia Earhart</TITLE>
+        <DIRECTION />
+        <TEST_TIME>0</TEST_TIME>
+        <ETC_INT1>0</ETC_INT1>
+        <ETC_INT2>0</ETC_INT2>
+        <CREATE_ID1>sjin0201</CREATE_ID1>
+        <CREATE_DATE1>2018-11-14T15:30:25.49+09:00</CREATE_DATE1>
+        <MODIFY_ID1>admin</MODIFY_ID1>
+        <MODIFY_DATE1>2019-06-12T13:30:38.12+09:00</MODIFY_DATE1>
+        <DIC_ID1>181274</DIC_ID1>
+        <WORD>return</WORD>
+        <WORD_TYPE>noun</WORD_TYPE>
+        <MEAN_E>to come or go back to a previous place</MEAN_E>
+        <MEAN_K>돌아오다, 돌아가다</MEAN_K>
+        <PICTURE>return_RFch2e1.png</PICTURE>
+        <MEDIA>return_RFch2e1.mp3</MEDIA>
+        <EXAMPLE>We are always happy to return home.</EXAMPLE>
+        <CREATE_ID2>sjin0201</CREATE_ID2>
+        <CREATE_DATE2>2018-11-16T01:18:42.777+09:00</CREATE_DATE2>
+        <MODIFY_ID2>sjin0201</MODIFY_ID2>
+        <MODIFY_DATE2>2019-01-20T17:34:30.11+09:00</MODIFY_DATE2>
+      </Table>
+      <Table diffgr:id="Table7" msdata:rowOrder="6">
+        <IDX>240323</IDX>
+        <SET_ID>454952</SET_ID>
+        <DIC_ID>181273</DIC_ID>
+        <PRT_Q>They live on the large Japanese ______ of Hokkaido.</PRT_Q>
+        <PRT_ANSWER>1</PRT_ANSWER>
+        <PRT_CHOICE1>island</PRT_CHOICE1>
+        <PRT_CHOICE2>aviation</PRT_CHOICE2>
+        <PRT_CHOICE3>voyage</PRT_CHOICE3>
+        <PRT_CHOICE4>search</PRT_CHOICE4>
+        <CREATE_ID>sjin0201</CREATE_ID>
+        <CREATE_DATE>2018-11-16T01:19:28.657+09:00</CREATE_DATE>
+        <MODIFY_ID>sjin0201</MODIFY_ID>
+        <MODIFY_DATE>2019-01-20T17:34:55.643+09:00</MODIFY_DATE>
+        <SET_ID1>454952</SET_ID1>
+        <ACT_ID>28296</ACT_ID>
+        <ACT_TYPE>WL</ACT_TYPE>
+        <TITLE>Amelia Earhart</TITLE>
+        <DIRECTION />
+        <TEST_TIME>0</TEST_TIME>
+        <ETC_INT1>0</ETC_INT1>
+        <ETC_INT2>0</ETC_INT2>
+        <CREATE_ID1>sjin0201</CREATE_ID1>
+        <CREATE_DATE1>2018-11-14T15:30:25.49+09:00</CREATE_DATE1>
+        <MODIFY_ID1>admin</MODIFY_ID1>
+        <MODIFY_DATE1>2019-06-12T13:30:38.12+09:00</MODIFY_DATE1>
+        <DIC_ID1>181273</DIC_ID1>
+        <WORD>island</WORD>
+        <WORD_TYPE>noun</WORD_TYPE>
+        <MEAN_E>an area of land that is surrounded by water</MEAN_E>
+        <MEAN_K>섬</MEAN_K>
+        <PICTURE>island_RFch2e1.png</PICTURE>
+        <MEDIA>island_RFch2e1.mp3</MEDIA>
+        <EXAMPLE>They live on the large Japanese island of Hokkaido.</EXAMPLE>
+        <CREATE_ID2>sjin0201</CREATE_ID2>
+        <CREATE_DATE2>2018-11-16T01:18:42.75+09:00</CREATE_DATE2>
+        <MODIFY_ID2>sjin0201</MODIFY_ID2>
+        <MODIFY_DATE2>2019-01-20T17:34:55.647+09:00</MODIFY_DATE2>
+      </Table>
+      <Table diffgr:id="Table8" msdata:rowOrder="7">
+        <IDX>240324</IDX>
+        <SET_ID>454952</SET_ID>
+        <DIC_ID>181272</DIC_ID>
+        <PRT_Q>Police officer is ______ for the missing kid.</PRT_Q>
+        <PRT_ANSWER>1</PRT_ANSWER>
+        <PRT_CHOICE1>searching</PRT_CHOICE1>
+        <PRT_CHOICE2>aviation</PRT_CHOICE2>
+        <PRT_CHOICE3>return</PRT_CHOICE3>
+        <PRT_CHOICE4>island</PRT_CHOICE4>
+        <CREATE_ID>sjin0201</CREATE_ID>
+        <CREATE_DATE>2018-11-16T01:19:28.66+09:00</CREATE_DATE>
+        <MODIFY_ID>sjin0201</MODIFY_ID>
+        <MODIFY_DATE>2019-01-20T17:35:27.047+09:00</MODIFY_DATE>
+        <SET_ID1>454952</SET_ID1>
+        <ACT_ID>28296</ACT_ID>
+        <ACT_TYPE>WL</ACT_TYPE>
+        <TITLE>Amelia Earhart</TITLE>
+        <DIRECTION />
+        <TEST_TIME>0</TEST_TIME>
+        <ETC_INT1>0</ETC_INT1>
+        <ETC_INT2>0</ETC_INT2>
+        <CREATE_ID1>sjin0201</CREATE_ID1>
+        <CREATE_DATE1>2018-11-14T15:30:25.49+09:00</CREATE_DATE1>
+        <MODIFY_ID1>admin</MODIFY_ID1>
+        <MODIFY_DATE1>2019-06-12T13:30:38.12+09:00</MODIFY_DATE1>
+        <DIC_ID1>181272</DIC_ID1>
+        <WORD>search</WORD>
+        <WORD_TYPE>noun</WORD_TYPE>
+        <MEAN_E>to try to find someone or something</MEAN_E>
+        <MEAN_K>조사하다</MEAN_K>
+        <PICTURE>search_RFch2e1.png</PICTURE>
+        <MEDIA>search_RFch2e1.mp3</MEDIA>
+        <EXAMPLE>Police officer is searching for the missing kid.</EXAMPLE>
+        <CREATE_ID2>sjin0201</CREATE_ID2>
+        <CREATE_DATE2>2018-11-16T01:18:42.737+09:00</CREATE_DATE2>
+        <MODIFY_ID2>sjin0201</MODIFY_ID2>
+        <MODIFY_DATE2>2019-01-20T17:35:27.05+09:00</MODIFY_DATE2>
+      </Table>
+    </NewDataSet>

@@ -1,0 +1,306 @@
+﻿<NewDataSet xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:diffgr="urn:schemas-microsoft-com:xml-diffgram-v1" xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <Table diffgr:id="Table1" msdata:rowOrder="0">
+        <IDX>240349</IDX>
+        <SET_ID>454976</SET_ID>
+        <DIC_ID>181311</DIC_ID>
+        <PRT_Q>The Titanic was a passenger ship which _______ in 1912.</PRT_Q>
+        <PRT_ANSWER>1</PRT_ANSWER>
+        <PRT_CHOICE1>sink</PRT_CHOICE1>
+        <PRT_CHOICE2>safe</PRT_CHOICE2>
+        <PRT_CHOICE3>efficient</PRT_CHOICE3>
+        <PRT_CHOICE4>competitive</PRT_CHOICE4>
+        <CREATE_ID>sjin0201</CREATE_ID>
+        <CREATE_DATE>2018-11-16T01:49:15.197+09:00</CREATE_DATE>
+        <MODIFY_ID>sjin0201</MODIFY_ID>
+        <MODIFY_DATE>2019-01-20T18:01:58.46+09:00</MODIFY_DATE>
+        <SET_ID1>454976</SET_ID1>
+        <ACT_ID>28300</ACT_ID>
+        <ACT_TYPE>WL</ACT_TYPE>
+        <TITLE>Water Safety</TITLE>
+        <TEST_TIME>0</TEST_TIME>
+        <ETC_INT1>0</ETC_INT1>
+        <ETC_INT2>0</ETC_INT2>
+        <CREATE_ID1>sjin0201</CREATE_ID1>
+        <CREATE_DATE1>2018-11-14T15:32:44.62+09:00</CREATE_DATE1>
+        <MODIFY_ID1>sjin0201</MODIFY_ID1>
+        <MODIFY_DATE1>2019-01-29T01:05:51.88+09:00</MODIFY_DATE1>
+        <DIC_ID1>181311</DIC_ID1>
+        <WORD>sink</WORD>
+        <WORD_TYPE>noun</WORD_TYPE>
+        <MEAN_E>to go down below the surface or to the bottom of a liquid</MEAN_E>
+        <MEAN_K>가라앉다</MEAN_K>
+        <PICTURE>sink_RFch2e1.png</PICTURE>
+        <MEDIA>sink_RFch2e1.mp3</MEDIA>
+        <EXAMPLE>The Titanic was a passenger ship which sank in 1912.</EXAMPLE>
+        <CREATE_ID2>sjin0201</CREATE_ID2>
+        <CREATE_DATE2>2018-11-16T01:48:11.74+09:00</CREATE_DATE2>
+        <MODIFY_ID2>sjin0201</MODIFY_ID2>
+        <MODIFY_DATE2>2019-01-20T18:01:58.463+09:00</MODIFY_DATE2>
+      </Table>
+      <Table diffgr:id="Table2" msdata:rowOrder="1">
+        <IDX>240350</IDX>
+        <SET_ID>454976</SET_ID>
+        <DIC_ID>181310</DIC_ID>
+        <PRT_Q>Two children _______ after falling into the river.</PRT_Q>
+        <PRT_ANSWER>3</PRT_ANSWER>
+        <PRT_CHOICE1>tip</PRT_CHOICE1>
+        <PRT_CHOICE2>goggles</PRT_CHOICE2>
+        <PRT_CHOICE3>drowned</PRT_CHOICE3>
+        <PRT_CHOICE4>safe</PRT_CHOICE4>
+        <CREATE_ID>sjin0201</CREATE_ID>
+        <CREATE_DATE>2018-11-16T01:49:15.2+09:00</CREATE_DATE>
+        <MODIFY_ID>sjin0201</MODIFY_ID>
+        <MODIFY_DATE>2019-01-20T18:03:08.01+09:00</MODIFY_DATE>
+        <SET_ID1>454976</SET_ID1>
+        <ACT_ID>28300</ACT_ID>
+        <ACT_TYPE>WL</ACT_TYPE>
+        <TITLE>Water Safety</TITLE>
+        <TEST_TIME>0</TEST_TIME>
+        <ETC_INT1>0</ETC_INT1>
+        <ETC_INT2>0</ETC_INT2>
+        <CREATE_ID1>sjin0201</CREATE_ID1>
+        <CREATE_DATE1>2018-11-14T15:32:44.62+09:00</CREATE_DATE1>
+        <MODIFY_ID1>sjin0201</MODIFY_ID1>
+        <MODIFY_DATE1>2019-01-29T01:05:51.88+09:00</MODIFY_DATE1>
+        <DIC_ID1>181310</DIC_ID1>
+        <WORD>drown</WORD>
+        <WORD_TYPE>noun</WORD_TYPE>
+        <MEAN_E>to die by being unable to breathe underwater</MEAN_E>
+        <MEAN_K>익사하다</MEAN_K>
+        <PICTURE>drown_RFch2e1.png</PICTURE>
+        <MEDIA>drown_RFch2e1.mp3</MEDIA>
+        <EXAMPLE>Two children drowned after falling into the river.</EXAMPLE>
+        <CREATE_ID2>sjin0201</CREATE_ID2>
+        <CREATE_DATE2>2018-11-16T01:48:11.74+09:00</CREATE_DATE2>
+        <MODIFY_ID2>sjin0201</MODIFY_ID2>
+        <MODIFY_DATE2>2019-01-20T18:03:08.01+09:00</MODIFY_DATE2>
+      </Table>
+      <Table diffgr:id="Table3" msdata:rowOrder="2">
+        <IDX>240351</IDX>
+        <SET_ID>454976</SET_ID>
+        <DIC_ID>181309</DIC_ID>
+        <PRT_Q>In this business, the ______ and the rewards are high.</PRT_Q>
+        <PRT_ANSWER>3</PRT_ANSWER>
+        <PRT_CHOICE1>drown</PRT_CHOICE1>
+        <PRT_CHOICE2>sink</PRT_CHOICE2>
+        <PRT_CHOICE3>risks</PRT_CHOICE3>
+        <PRT_CHOICE4>safe</PRT_CHOICE4>
+        <CREATE_ID>sjin0201</CREATE_ID>
+        <CREATE_DATE>2018-11-16T01:49:15.203+09:00</CREATE_DATE>
+        <MODIFY_ID>sjin0201</MODIFY_ID>
+        <MODIFY_DATE>2019-01-20T18:03:41.367+09:00</MODIFY_DATE>
+        <SET_ID1>454976</SET_ID1>
+        <ACT_ID>28300</ACT_ID>
+        <ACT_TYPE>WL</ACT_TYPE>
+        <TITLE>Water Safety</TITLE>
+        <TEST_TIME>0</TEST_TIME>
+        <ETC_INT1>0</ETC_INT1>
+        <ETC_INT2>0</ETC_INT2>
+        <CREATE_ID1>sjin0201</CREATE_ID1>
+        <CREATE_DATE1>2018-11-14T15:32:44.62+09:00</CREATE_DATE1>
+        <MODIFY_ID1>sjin0201</MODIFY_ID1>
+        <MODIFY_DATE1>2019-01-29T01:05:51.88+09:00</MODIFY_DATE1>
+        <DIC_ID1>181309</DIC_ID1>
+        <WORD>risk</WORD>
+        <WORD_TYPE>noun</WORD_TYPE>
+        <MEAN_E>the possibility of something bad happening</MEAN_E>
+        <MEAN_K>위험 요소</MEAN_K>
+        <PICTURE>risk_risk.png</PICTURE>
+        <MEDIA>risk_RFch2e1.mp3</MEDIA>
+        <EXAMPLE>In this business, the risks and the rewards are high.</EXAMPLE>
+        <CREATE_ID2>sjin0201</CREATE_ID2>
+        <CREATE_DATE2>2018-11-16T01:48:11.737+09:00</CREATE_DATE2>
+        <MODIFY_ID2>sjin0201</MODIFY_ID2>
+        <MODIFY_DATE2>2019-01-20T18:03:41.37+09:00</MODIFY_DATE2>
+      </Table>
+      <Table diffgr:id="Table4" msdata:rowOrder="3">
+        <IDX>240352</IDX>
+        <SET_ID>454976</SET_ID>
+        <DIC_ID>181308</DIC_ID>
+        <PRT_Q>He got in a ______ mode in the big crowd.</PRT_Q>
+        <PRT_ANSWER>4</PRT_ANSWER>
+        <PRT_CHOICE1>survive</PRT_CHOICE1>
+        <PRT_CHOICE2>drown</PRT_CHOICE2>
+        <PRT_CHOICE3>receive</PRT_CHOICE3>
+        <PRT_CHOICE4>panic</PRT_CHOICE4>
+        <CREATE_ID>sjin0201</CREATE_ID>
+        <CREATE_DATE>2018-11-16T01:49:15.207+09:00</CREATE_DATE>
+        <MODIFY_ID>sjin0201</MODIFY_ID>
+        <MODIFY_DATE>2019-01-20T18:04:51.03+09:00</MODIFY_DATE>
+        <SET_ID1>454976</SET_ID1>
+        <ACT_ID>28300</ACT_ID>
+        <ACT_TYPE>WL</ACT_TYPE>
+        <TITLE>Water Safety</TITLE>
+        <TEST_TIME>0</TEST_TIME>
+        <ETC_INT1>0</ETC_INT1>
+        <ETC_INT2>0</ETC_INT2>
+        <CREATE_ID1>sjin0201</CREATE_ID1>
+        <CREATE_DATE1>2018-11-14T15:32:44.62+09:00</CREATE_DATE1>
+        <MODIFY_ID1>sjin0201</MODIFY_ID1>
+        <MODIFY_DATE1>2019-01-29T01:05:51.88+09:00</MODIFY_DATE1>
+        <DIC_ID1>181308</DIC_ID1>
+        <WORD>panic</WORD>
+        <WORD_TYPE>noun</WORD_TYPE>
+        <MEAN_E>to feel a sudden strong fear</MEAN_E>
+        <MEAN_K>당황하다</MEAN_K>
+        <PICTURE>panic_RFch2e1.png</PICTURE>
+        <MEDIA>panic_RFch2e1.mp3</MEDIA>
+        <EXAMPLE>He got in a panic mode in the big crowd.</EXAMPLE>
+        <CREATE_ID2>sjin0201</CREATE_ID2>
+        <CREATE_DATE2>2018-11-16T01:48:11.723+09:00</CREATE_DATE2>
+        <MODIFY_ID2>sjin0201</MODIFY_ID2>
+        <MODIFY_DATE2>2019-01-20T18:04:51.03+09:00</MODIFY_DATE2>
+      </Table>
+      <Table diffgr:id="Table5" msdata:rowOrder="4">
+        <IDX>240353</IDX>
+        <SET_ID>454976</SET_ID>
+        <DIC_ID>181307</DIC_ID>
+        <PRT_Q>In some cities you don't feel ______ going out alone at night.</PRT_Q>
+        <PRT_ANSWER>3</PRT_ANSWER>
+        <PRT_CHOICE1>sink</PRT_CHOICE1>
+        <PRT_CHOICE2>drown</PRT_CHOICE2>
+        <PRT_CHOICE3>safe</PRT_CHOICE3>
+        <PRT_CHOICE4>survive</PRT_CHOICE4>
+        <CREATE_ID>sjin0201</CREATE_ID>
+        <CREATE_DATE>2018-11-16T01:49:15.207+09:00</CREATE_DATE>
+        <MODIFY_ID>sjin0201</MODIFY_ID>
+        <MODIFY_DATE>2019-01-20T18:05:25.667+09:00</MODIFY_DATE>
+        <SET_ID1>454976</SET_ID1>
+        <ACT_ID>28300</ACT_ID>
+        <ACT_TYPE>WL</ACT_TYPE>
+        <TITLE>Water Safety</TITLE>
+        <TEST_TIME>0</TEST_TIME>
+        <ETC_INT1>0</ETC_INT1>
+        <ETC_INT2>0</ETC_INT2>
+        <CREATE_ID1>sjin0201</CREATE_ID1>
+        <CREATE_DATE1>2018-11-14T15:32:44.62+09:00</CREATE_DATE1>
+        <MODIFY_ID1>sjin0201</MODIFY_ID1>
+        <MODIFY_DATE1>2019-01-29T01:05:51.88+09:00</MODIFY_DATE1>
+        <DIC_ID1>181307</DIC_ID1>
+        <WORD>safe</WORD>
+        <WORD_TYPE>noun</WORD_TYPE>
+        <MEAN_E>not in danger</MEAN_E>
+        <MEAN_K>안전한</MEAN_K>
+        <PICTURE>safe_RFch2e1.png</PICTURE>
+        <MEDIA>safe_RFch2e1.mp3</MEDIA>
+        <EXAMPLE>In some cities you don't feel safe going out alone at night.</EXAMPLE>
+        <CREATE_ID2>sjin0201</CREATE_ID2>
+        <CREATE_DATE2>2018-11-16T01:48:11.717+09:00</CREATE_DATE2>
+        <MODIFY_ID2>sjin0201</MODIFY_ID2>
+        <MODIFY_DATE2>2019-01-20T18:05:25.667+09:00</MODIFY_DATE2>
+      </Table>
+      <Table diffgr:id="Table6" msdata:rowOrder="5">
+        <IDX>240354</IDX>
+        <SET_ID>454976</SET_ID>
+        <DIC_ID>181306</DIC_ID>
+        <PRT_Q>I learned swimming to ______ in the water.</PRT_Q>
+        <PRT_ANSWER>1</PRT_ANSWER>
+        <PRT_CHOICE1>survive</PRT_CHOICE1>
+        <PRT_CHOICE2>sink</PRT_CHOICE2>
+        <PRT_CHOICE3>drown</PRT_CHOICE3>
+        <PRT_CHOICE4>safe</PRT_CHOICE4>
+        <CREATE_ID>sjin0201</CREATE_ID>
+        <CREATE_DATE>2018-11-16T01:49:15.21+09:00</CREATE_DATE>
+        <MODIFY_ID>sjin0201</MODIFY_ID>
+        <MODIFY_DATE>2019-01-20T18:06:09.58+09:00</MODIFY_DATE>
+        <SET_ID1>454976</SET_ID1>
+        <ACT_ID>28300</ACT_ID>
+        <ACT_TYPE>WL</ACT_TYPE>
+        <TITLE>Water Safety</TITLE>
+        <TEST_TIME>0</TEST_TIME>
+        <ETC_INT1>0</ETC_INT1>
+        <ETC_INT2>0</ETC_INT2>
+        <CREATE_ID1>sjin0201</CREATE_ID1>
+        <CREATE_DATE1>2018-11-14T15:32:44.62+09:00</CREATE_DATE1>
+        <MODIFY_ID1>sjin0201</MODIFY_ID1>
+        <MODIFY_DATE1>2019-01-29T01:05:51.88+09:00</MODIFY_DATE1>
+        <DIC_ID1>181306</DIC_ID1>
+        <WORD>survive</WORD>
+        <WORD_TYPE>noun</WORD_TYPE>
+        <MEAN_E>to continue to live or exist</MEAN_E>
+        <MEAN_K>생존하다</MEAN_K>
+        <PICTURE>survive_RFch2e1.png</PICTURE>
+        <MEDIA>survive_RFch2e1.mp3</MEDIA>
+        <EXAMPLE>I learned swimming to survive in the water.</EXAMPLE>
+        <CREATE_ID2>sjin0201</CREATE_ID2>
+        <CREATE_DATE2>2018-11-16T01:48:11.71+09:00</CREATE_DATE2>
+        <MODIFY_ID2>sjin0201</MODIFY_ID2>
+        <MODIFY_DATE2>2019-01-20T18:06:09.58+09:00</MODIFY_DATE2>
+      </Table>
+      <Table diffgr:id="Table7" msdata:rowOrder="6">
+        <IDX>240355</IDX>
+        <SET_ID>454976</SET_ID>
+        <DIC_ID>181305</DIC_ID>
+        <PRT_Q>The accountant gave us some _______ on how to save money.</PRT_Q>
+        <PRT_ANSWER>4</PRT_ANSWER>
+        <PRT_CHOICE1>safe</PRT_CHOICE1>
+        <PRT_CHOICE2>drown</PRT_CHOICE2>
+        <PRT_CHOICE3>sink</PRT_CHOICE3>
+        <PRT_CHOICE4>tips </PRT_CHOICE4>
+        <CREATE_ID>sjin0201</CREATE_ID>
+        <CREATE_DATE>2018-11-16T01:49:15.213+09:00</CREATE_DATE>
+        <MODIFY_ID>sjin0201</MODIFY_ID>
+        <MODIFY_DATE>2019-01-20T18:06:41.247+09:00</MODIFY_DATE>
+        <SET_ID1>454976</SET_ID1>
+        <ACT_ID>28300</ACT_ID>
+        <ACT_TYPE>WL</ACT_TYPE>
+        <TITLE>Water Safety</TITLE>
+        <TEST_TIME>0</TEST_TIME>
+        <ETC_INT1>0</ETC_INT1>
+        <ETC_INT2>0</ETC_INT2>
+        <CREATE_ID1>sjin0201</CREATE_ID1>
+        <CREATE_DATE1>2018-11-14T15:32:44.62+09:00</CREATE_DATE1>
+        <MODIFY_ID1>sjin0201</MODIFY_ID1>
+        <MODIFY_DATE1>2019-01-29T01:05:51.88+09:00</MODIFY_DATE1>
+        <DIC_ID1>181305</DIC_ID1>
+        <WORD>tip</WORD>
+        <WORD_TYPE>noun</WORD_TYPE>
+        <MEAN_E>a piece of helpful information</MEAN_E>
+        <MEAN_K>조언</MEAN_K>
+        <PICTURE>tip_RFch2e1.png</PICTURE>
+        <MEDIA>tip_RFch2e1.mp3</MEDIA>
+        <EXAMPLE>The accountant gave us some tips on how to save money.</EXAMPLE>
+        <CREATE_ID2>sjin0201</CREATE_ID2>
+        <CREATE_DATE2>2018-11-16T01:48:11.7+09:00</CREATE_DATE2>
+        <MODIFY_ID2>sjin0201</MODIFY_ID2>
+        <MODIFY_DATE2>2019-01-20T18:06:41.25+09:00</MODIFY_DATE2>
+      </Table>
+      <Table diffgr:id="Table8" msdata:rowOrder="7">
+        <IDX>240356</IDX>
+        <SET_ID>454976</SET_ID>
+        <DIC_ID>181304</DIC_ID>
+        <PRT_Q>He has a very ______ manner.</PRT_Q>
+        <PRT_ANSWER>2</PRT_ANSWER>
+        <PRT_CHOICE1>drown</PRT_CHOICE1>
+        <PRT_CHOICE2>calm</PRT_CHOICE2>
+        <PRT_CHOICE3>survive</PRT_CHOICE3>
+        <PRT_CHOICE4>panic</PRT_CHOICE4>
+        <CREATE_ID>sjin0201</CREATE_ID>
+        <CREATE_DATE>2018-11-16T01:49:15.217+09:00</CREATE_DATE>
+        <MODIFY_ID>sjin0201</MODIFY_ID>
+        <MODIFY_DATE>2019-01-20T18:07:19.707+09:00</MODIFY_DATE>
+        <SET_ID1>454976</SET_ID1>
+        <ACT_ID>28300</ACT_ID>
+        <ACT_TYPE>WL</ACT_TYPE>
+        <TITLE>Water Safety</TITLE>
+        <TEST_TIME>0</TEST_TIME>
+        <ETC_INT1>0</ETC_INT1>
+        <ETC_INT2>0</ETC_INT2>
+        <CREATE_ID1>sjin0201</CREATE_ID1>
+        <CREATE_DATE1>2018-11-14T15:32:44.62+09:00</CREATE_DATE1>
+        <MODIFY_ID1>sjin0201</MODIFY_ID1>
+        <MODIFY_DATE1>2019-01-29T01:05:51.88+09:00</MODIFY_DATE1>
+        <DIC_ID1>181304</DIC_ID1>
+        <WORD>calm</WORD>
+        <WORD_TYPE>noun</WORD_TYPE>
+        <MEAN_E>relaxed; not worried, afraid</MEAN_E>
+        <MEAN_K>진정한</MEAN_K>
+        <PICTURE>calm_RFch2e1.png</PICTURE>
+        <MEDIA>calm_RFch2e1.mp3</MEDIA>
+        <EXAMPLE>He has a very calm manner.</EXAMPLE>
+        <CREATE_ID2>sjin0201</CREATE_ID2>
+        <CREATE_DATE2>2018-11-16T01:48:11.69+09:00</CREATE_DATE2>
+        <MODIFY_ID2>sjin0201</MODIFY_ID2>
+        <MODIFY_DATE2>2019-01-20T18:07:19.707+09:00</MODIFY_DATE2>
+      </Table>
+    </NewDataSet>
